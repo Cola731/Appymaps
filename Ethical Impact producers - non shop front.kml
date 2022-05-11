@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ethical Impact producers - non shop front</name>
+    <Style id="icon-1501-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1501-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1501-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1501-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1501-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1507-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1507-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1507-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1507-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1507-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1509-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1509-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1509-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1509-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1509-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1549-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1549-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1549-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1549-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1549-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1551-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1551-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1551-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1551-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1551-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1561-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1561-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1561-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1561-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1561-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1561-424242-nodesc-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1561-424242-nodesc-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1561-424242-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1561-424242-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1561-424242-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1577-424242-nodesc-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1577-424242-nodesc-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1577-424242-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-424242-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-424242-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1578-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1578-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1578-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1578-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1578-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1578-424242-nodesc-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1578-424242-nodesc-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1578-424242-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1578-424242-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1578-424242-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1587-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1587-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1587-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1587-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1587-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1587-424242-nodesc-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1587-424242-nodesc-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1587-424242-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1587-424242-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1587-424242-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1617-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1617-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1617-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1617-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1617-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1637-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1637-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1637-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1637-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1637-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1647-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1647-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1647-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1647-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1647-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1683-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1683-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1683-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1683-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1683-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1684-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1684-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1684-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1684-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1684-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1685-424242-nodesc-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1685-424242-nodesc-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1685-424242-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1685-424242-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1685-424242-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1705-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1705-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1705-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1705-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1705-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1722-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1722-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1722-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1722-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1722-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1792-424242-nodesc-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1792-424242-nodesc-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1792-424242-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1792-424242-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1792-424242-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1798-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1798-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1798-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1798-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1798-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1845-424242-nodesc-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1845-424242-nodesc-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1845-424242-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1845-424242-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1845-424242-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1850-424242-nodesc-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1850-424242-nodesc-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1850-424242-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1850-424242-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1850-424242-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1858-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1858-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1858-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1858-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1858-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1858-424242-nodesc-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1858-424242-nodesc-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1858-424242-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1858-424242-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1858-424242-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1879-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1879-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1879-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1879-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1879-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>The Soap Co.</name>
+      <description><![CDATA[<img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3hm0v9cjm0o2csb7p3v107mdfk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va8x8lcn05uCN8frHJMBHzUpZQN2kYvnwdU6gz7fwT6VxnH7SwJNNF3VqhGRRW1XVqtMWOqUyW1W0Mi2_auLTw04e1U9eKV1Z6zigO0zp4ngErz0lyJUhk8m6TLXAl6YLyejol7He8VqBx1E7u0N5myhGZ6mXgEMhgVczXSQJtNyxKL8q0OOuDZU81VzSbJNA?session=0&fife" height="200" width="auto" /><br><br>Online or in suppliers like Waitrose.<br>Employs many visually impaired people.]]></description>
+      <styleUrl>#icon-1684-424242</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3hm0v9cjm0o2csb7p3v107mdfk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va8x8lcn05uCN8frHJMBHzUpZQN2kYvnwdU6gz7fwT6VxnH7SwJNNF3VqhGRRW1XVqtMWOqUyW1W0Mi2_auLTw04e1U9eKV1Z6zigO0zp4ngErz0lyJUhk8m6TLXAl6YLyejol7He8VqBx1E7u0N5myhGZ6mXgEMhgVczXSQJtNyxKL8q0OOuDZU81VzSbJNA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.00302669999996397,51.6088739,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Interface Showroom</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/rfqh0iidqjomvqjl71s5d5eg14/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZjldyqt43bWP1-5XnbB34I4Vs66AkTGuY00WmA9zgKrjBXzscoX1YVJU1JDiepCukj4NhRryFxnxVkh6JctAQH1D8hv2enqDYg5--T8CDei_KbL70HVwI5N_wXaLmt-hKcHbFEbNXvzM8BwmJP0L7iY4EUU5-6eBKLsfdflJtGq8hO249ALJxwjFTjolli0Tk?session=0&fife" height="200" width="auto" /><br><br>Carpet tiles]]></description>
+      <styleUrl>#icon-1501-424242</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/rfqh0iidqjomvqjl71s5d5eg14/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZjldyqt43bWP1-5XnbB34I4Vs66AkTGuY00WmA9zgKrjBXzscoX1YVJU1JDiepCukj4NhRryFxnxVkh6JctAQH1D8hv2enqDYg5--T8CDei_KbL70HVwI5N_wXaLmt-hKcHbFEbNXvzM8BwmJP0L7iY4EUU5-6eBKLsfdflJtGq8hO249ALJxwjFTjolli0Tk?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.099288099999967,51.5241367,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>People Tree Head Office</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/rn7lru1pgdukuo5ejglb655ljk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbdFF-V5DjXI6ujUkOSiVsprRLk_xnsPnSaApGzAyETZ9aEGJk5R2Xl97Na9qi3_j0-KNpcYKHWybvSeRtyH_dkbfU9-Ckhv3m6hzftFBWBcPaXP8MMgPSaY8Lk8il2xB1R4XcqfsCrQkTZkex8azUrKYZUq8d9ShfZB4R3gupT0P_QMjF8AZD18sbJ5jFOOOM?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1549-424242</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/rn7lru1pgdukuo5ejglb655ljk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbdFF-V5DjXI6ujUkOSiVsprRLk_xnsPnSaApGzAyETZ9aEGJk5R2Xl97Na9qi3_j0-KNpcYKHWybvSeRtyH_dkbfU9-Ckhv3m6hzftFBWBcPaXP8MMgPSaY8Lk8il2xB1R4XcqfsCrQkTZkex8azUrKYZUq8d9ShfZB4R3gupT0P_QMjF8AZD18sbJ5jFOOOM?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.139045399999986,51.535354,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cock and Bull Menswear</name>
+      <description><![CDATA[Check this business is still ongoing as no longer supplying Murray in Crouch End.<br>By appointment only.<br><br>https://www.cockandbullmenswear.co.uk/<br><br>6-10 Hoe St, Walthamstow, London E17 4RT]]></description>
+      <styleUrl>#icon-1549-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.019223,51.5852413,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>online: Absolutely Bear</name>
+      <description><![CDATA[<img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/288qo2eoi2c8lp25mbu785u5lc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYUGu-QsJ00vyz6FYPRD3p38wBnrqIHPWCWcVD-rpOSEzc-wrlsnyJ2gsRLyNufAiM__haGUYYxWUC-2qTIVoNfE1oXrlQPZ8k4dvg6kUtVEXLJG5ju0RXHggIGsP9iZYPdkEVzFqlKogFp4mzsl8834SQ2lIPw5SGP2FW9lPLRcrNB-uozs66g0fWnz6RmkTY?session=0&fife" height="200" width="auto" /><br><br>Women's and Men's collections:<br>https://absolutelybear.com/]]></description>
+      <styleUrl>#icon-1549-424242</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/288qo2eoi2c8lp25mbu785u5lc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYUGu-QsJ00vyz6FYPRD3p38wBnrqIHPWCWcVD-rpOSEzc-wrlsnyJ2gsRLyNufAiM__haGUYYxWUC-2qTIVoNfE1oXrlQPZ8k4dvg6kUtVEXLJG5ju0RXHggIGsP9iZYPdkEVzFqlKogFp4mzsl8834SQ2lIPw5SGP2FW9lPLRcrNB-uozs66g0fWnz6RmkTY?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.116754899999933,51.5696095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>online: Thought Clothing</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8qv4neikct6glio46r3tojt120/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va4t2mMgzwkCDA9skhvwYEA0wG1rzCVTtAv6q9QQMAXmdInYJTtnQpzYMeJ4-Cx7MRdGMSV2B_1Xny7j2FDYM_T1BKqY3VXZQ5CbjBZ66OCHx9mcdgSoib0en27LTqreMna0aRzz9LuIVyS3Y5pwuNDAGCUfV-BC5rPV8qeX7dqRec71bweZySDI5z53Yh04g?session=0&fife" height="200" width="auto" /><br><br>Natural, Organic Sustainable clothing]]></description>
+      <styleUrl>#icon-1549-424242</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8qv4neikct6glio46r3tojt120/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va4t2mMgzwkCDA9skhvwYEA0wG1rzCVTtAv6q9QQMAXmdInYJTtnQpzYMeJ4-Cx7MRdGMSV2B_1Xny7j2FDYM_T1BKqY3VXZQ5CbjBZ66OCHx9mcdgSoib0en27LTqreMna0aRzz9LuIVyS3Y5pwuNDAGCUfV-BC5rPV8qeX7dqRec71bweZySDI5z53Yh04g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.115643999999975,51.5430751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>online: KOMODO</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/np24oc3rgg9ksno1oet5i2qvfs/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYynb3OTf6-VpgjoDX3JQTfRqmypYUsCUUq0r0AiJg0oMRXzVkqOXozxS_HLp9HvvA6ly-SuGcuyGrwmF8eDj4s6O_Xa68pdOO4TOarV4k1dbuFgN9WtmPBk6irDonLkCYP0Zo57TSYW5ZZKSx72F3crkTWtlxx5duVAokaMwwM3jjguFhrZr6uByDxhXAwVw?session=0&fife" height="200" width="auto" /><br><br>Try it in real life in London: The Keep Boutique:<br>https://thekeepboutique.com/]]></description>
+      <styleUrl>#icon-1549-424242</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/np24oc3rgg9ksno1oet5i2qvfs/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYynb3OTf6-VpgjoDX3JQTfRqmypYUsCUUq0r0AiJg0oMRXzVkqOXozxS_HLp9HvvA6ly-SuGcuyGrwmF8eDj4s6O_Xa68pdOO4TOarV4k1dbuFgN9WtmPBk6irDonLkCYP0Zo57TSYW5ZZKSx72F3crkTWtlxx5duVAokaMwwM3jjguFhrZr6uByDxhXAwVw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.16101100000003,51.542276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toast Ale Ltd</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/keo6llkl93n4hbl81pi1lt71pg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY7Hi7bAlZdBQUOugOUMkzNUOXuecwb0eK44ta76Y78HphrXGVVCQLKrf3vOXUOm18fBazNgJWu9HvBwVMHcsbeIDXPNGwUdhHEXlNKaP6DLO54PcbOx8rxFd34Qisivir08g8EDo2JE1Yygpf2mKQG3XrYqZP3cRSS0rIui9_Xbjy9I3ljfcs6Wh0FsayK8g?session=0&fife" height="200" width="auto" /><br><br>Award-winning craft beer brewed with surplus fresh bread that would otherwise be wasted. All profits go to the charity, Feedback.]]></description>
+      <styleUrl>#icon-1879-424242</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/keo6llkl93n4hbl81pi1lt71pg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY7Hi7bAlZdBQUOugOUMkzNUOXuecwb0eK44ta76Y78HphrXGVVCQLKrf3vOXUOm18fBazNgJWu9HvBwVMHcsbeIDXPNGwUdhHEXlNKaP6DLO54PcbOx8rxFd34Qisivir08g8EDo2JE1Yygpf2mKQG3XrYqZP3cRSS0rIui9_Xbjy9I3ljfcs6Wh0FsayK8g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0959520000000111,51.506463,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>bio-bean Ltd</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3qpfai2d1iooe4tvfgjgmneb88/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbgO9kA0RG7IhVODDK6OqC6mRAsOnxmdoawDsEUyDvgeLqRc4shLvm49DXLbINFzLum-J9dq7nALWhY6b1yElZAZzKym0wak6RakUErnhChRaQfRJ-wZZMeSRpiAQZCKzqKyfZOYCa9bKRRMG1IYnnqr1TF1LICvilWV75FMetf-nKd-uZPjJr-iytLKXUv5Ig?session=0&fife" height="200" width="auto" /><br><br>Coffee grounds recycling<br><br><img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/2sp35b8897oohhr5gs44vhjiro/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZi6RPK8qNdsBI8Ggt7xN3VH7I1mEwuX2vBrtTjlAbkL4FD83VNvRKbHNCNjGKEpCZK3doe3GVkdGQ9XgD1ky9a_WZ75M95mM-RPlLfUtmvKVgQX13_DYdtl2oN04eZ1ExBFmjtmpMA-zBIxEOejXtx4Lcb5J9rJBzqzAI_NptRiJ_kInH4yAQafUqVTkHCVM0?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1858-424242</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3qpfai2d1iooe4tvfgjgmneb88/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbgO9kA0RG7IhVODDK6OqC6mRAsOnxmdoawDsEUyDvgeLqRc4shLvm49DXLbINFzLum-J9dq7nALWhY6b1yElZAZzKym0wak6RakUErnhChRaQfRJ-wZZMeSRpiAQZCKzqKyfZOYCa9bKRRMG1IYnnqr1TF1LICvilWV75FMetf-nKd-uZPjJr-iytLKXUv5Ig?session=0&fife https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/2sp35b8897oohhr5gs44vhjiro/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZi6RPK8qNdsBI8Ggt7xN3VH7I1mEwuX2vBrtTjlAbkL4FD83VNvRKbHNCNjGKEpCZK3doe3GVkdGQ9XgD1ky9a_WZ75M95mM-RPlLfUtmvKVgQX13_DYdtl2oN04eZ1ExBFmjtmpMA-zBIxEOejXtx4Lcb5J9rJBzqzAI_NptRiJ_kInH4yAQafUqVTkHCVM0?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0775773000000299,51.5143365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cafédirect</name>
+      <styleUrl>#icon-1858-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0693917999999485,51.5351155,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Smartify CIC (LEGAL ADDRESS)</name>
+      <description><![CDATA[https://smartify.org/ <br><br>Scan the art, uncover the story<br>Smartify is a free app that allows you to scan and identify artworks, access rich interpretation and build a personal art collection in some of the world’s best museums and galleries.]]></description>
+      <styleUrl>#icon-1509-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.106669399999987,51.5860211,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nemi Teas @Launch Lab</name>
+      <description><![CDATA[http://www.nemiteas.com/<br><br>Stockist http://www.nemiteas.com/locations]]></description>
+      <styleUrl>#icon-1705-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0990864000000329,51.5248231,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Papi’s Pickles</name>
+      <styleUrl>#icon-1792-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0905722999999625,51.5053436,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bourgeois Boheme
+</name>
+      <description>https://www.bboheme.com/ An independent footwear brand making sustainable, cruelty-free shoes for men and women. London-based and artisan-made in Portugal, BB champions slow fashion and redefines the perception of leather-free footwear.</description>
+      <styleUrl>#icon-1683-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.27048990000003,51.4625326,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Barwell & Jones Ltd]]></name>
+      <description><![CDATA[Organic wine processor <br>https://www.barwellandjones.com<br><br>We encourage our suppliers to follow the most environmental and socially ethical principles wherever possible and we are very proud to work with some of the most sustainable wineries in the world. Find out more about the specific sustainability projects some of our winery partners are doing:<br><br>• Esporão - Portugal’s most sustainable winery <br>• Bodegas Fontana - All estate grapes are grown organically<br>• Castillo Perelada – Investing in the protection of local wildlife <br>• Eikendal - Caring for endangered animals and children with disadvantages]]></description>
+      <styleUrl>#icon-1798-424242</styleUrl>
+      <Point>
+        <coordinates>
+          0.0551634999999351,51.5802868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calverts Design and Print</name>
+      <styleUrl>#icon-1845-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0588424000000032,51.5332603,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arcola Energy</name>
+      <styleUrl>#icon-1561-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0751229999999623,51.546919,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Too Good To Go</name>
+      <styleUrl>#icon-1577-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0810443,51.5226637,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Project Sweat</name>
+      <description><![CDATA[Project Sweat <br>www.projectsweat.org]]></description>
+      <styleUrl>#icon-1549-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0811869000000343,51.5041178,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GrowUp Urban Farms</name>
+      <styleUrl>#icon-1587-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          0.0701298000000179,51.515892,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GrowUp Urban Farms Ltd. - Office</name>
+      <description><![CDATA[GrowUp Urban Farms is committed to feeding people in a way that is positive for communities and the environment, today and in the future. We produce sustainable salads and herbs using vertical growing technologies and through the use of Controlled Environment Production (CEP), we can harvest year-round.<br><br>We’re changing the way food is grown and distributed and we’re reconnecting people with the story of food from farm to fork.<br><br>https://www.growup.org.uk/]]></description>
+      <styleUrl>#icon-1587-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.193983300000014,51.5991721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Just Organic</name>
+      <styleUrl>#icon-1587-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0363007999999354,51.5658408,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Omninatural</name>
+      <styleUrl>#icon-1685-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.245513500000015,51.585875,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OmniNatural</name>
+      <styleUrl>#icon-1685-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.434823999999935,51.766468,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Little Green Radicals (Head Office)</name>
+      <description><![CDATA[100% Organic Fairtrade Cotton for Kids Clothes<br><br>We at Little Green Radials have always used 100% Fairtrade cotton from our very first days of making babygrows and T-Shirts back in 2005.]]></description>
+      <styleUrl>#icon-1549-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.113814499999989,51.4585521,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Organic Waste Logistics Ltd</name>
+      <styleUrl>#icon-1850-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0936967000000095,51.5308748,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The New Zealand Honey Shop</name>
+      <styleUrl>#icon-1578-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.178756000000021,51.4434487,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eco Cuisine</name>
+      <description><![CDATA[The home of sustainable, ethical and organic catering in London<br>Corporate and private event catering<br>We offer free tasting sessions]]></description>
+      <styleUrl>#icon-1722-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.081434100000024,51.6164427,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Lily's Kitchen]]></name>
+      <description>Organic Pet Food - B CORP</description>
+      <styleUrl>#icon-1507-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.17727339999999,51.5562266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tiana Organics</name>
+      <description><![CDATA[https://www.tiana-coconut.com/<br><br>Tiana Cocconut Organic Producs]]></description>
+      <styleUrl>#icon-1578-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.328475900000058,51.5871116,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Elvis & Kresse]]></name>
+      <description>Re-use of firehoses into bags, wallets, and many other luxury items</description>
+      <styleUrl>#icon-1549-424242</styleUrl>
+      <Point>
+        <coordinates>
+          0.775758799999949,51.3382337,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pull The Cork</name>
+      <description><![CDATA[They are an independent online wine business.<br>They Specialise in sustainably produced – natural, biodynamic, vegan and organic wines.]]></description>
+      <styleUrl>#icon-1798-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.219751900000006,51.4894929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blackbook Winery</name>
+      <description>English wine producer and London urban winery.</description>
+      <styleUrl>#icon-1798-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.149774200000024,51.4725319,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>en10ergy Ltd</name>
+      <description><![CDATA[en10ergy Limited is a social enterprise (a Registered Society under the FCA Mutuals Registration) set up by the Muswell Hill Sustainability Group and is a member of Community Energy London and Community Energy England. We have two main aims:<br><br>to promote and invest in local renewable energy<br>to encourage and facilitate the reduction in carbon emissions and waste by households, businesses and community buildings in the Muswell Hill. Hornsey and Wood Green areas.]]></description>
+      <styleUrl>#icon-1561-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.082083,51.60599,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clean for Good</name>
+      <description><![CDATA[Clean for Good is an award-winning professional cleaning company for all work spaces, based in London.<br><br>All of our cleaners are trained, uniformed, insured, friendly and most of all treated well! As a fully accredited Living Wage Employer, all of our cleaners are paid the London Living Wage and have great working conditions. <br><br>We ensure our supply-chain is as ethical as possible, including use of the UK’s best eco-friendly chemicals. We work to very high environmental standards.]]></description>
+      <styleUrl>#icon-1617-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0598132,51.5100497,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>thinkFOUND</name>
+      <description>thinkFOUND is a furniture organisation with a difference. Located in our East London workshop we dont just make custom made tables from the waste product of scaffold boards with a turnaround of 6-8 working days... we are also a Not For Profit work experience platform for young persons frustrated with a lack of meaningful work experience. At thinkFOUND young people are given the opportunity to seek structured employment, a change in career and a work reference with mentoring.</description>
+      <styleUrl>#icon-1551-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.039191,51.5701497,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Reboxed</name>
+      <description><![CDATA[Certified, refurbished mobile phones with price match guarantee, 30 day returns, 12 month warranty and more.<br><br>Bcorp, their way of doing things is to Measure, Reduce, Reuse, Recycle, Offset. <br><br>They also plant 10 trees every time we buy or sell a phone, to help offset even more CO2.]]></description>
+      <styleUrl>#icon-1647-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.112264,51.463574,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Key Changes</name>
+      <description><![CDATA[Music industry-focused recovery services in hospitals and community for musicians experiencing mental health problems<br><br>https://www.keychanges.org.uk/<br><br>Key Change's award-winning approach promotes wellbeing and recovery through studio sessions, artist development and live performance supported by music industry mentors that develops creative, technical and vocational skills and opens pathways to mainstream opportunities in education, work experience and employment.]]></description>
+      <styleUrl>#icon-1637-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1122485,51.4635014,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Key Changes</name>
+      <description><![CDATA[Music industry-focused recovery services in hospitals and community for musicians experiencing mental health problems<br><br>https://www.keychanges.org.uk/<br><br>Key Change's award-winning approach promotes wellbeing and recovery through studio sessions, artist development and live performance supported by music industry mentors that develops creative, technical and vocational skills and opens pathways to mainstream opportunities in education, work experience and employment.]]></description>
+      <styleUrl>#icon-1637-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0964365,51.5265037,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Liberation Foods</name>
+      <description>Liberation Foods is the UK’s only Fair Trade, farmer-owned nut company. Our vision is a world in which small-holder nut producers earn a decent, secure income and can plan for the future of their families and communities. We buy our nuts from the co-operatives of small-scale growers and farmers who own a 44 percent share of our company.</description>
+      <styleUrl>#icon-1587-424242</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0838933,51.5274836,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Will's Vegan Shoes]]></name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/pdi0ntm6v5h9kmnn0qbkj8ka1g/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYvJOYJ5PwZBaPt1IJn2lhKAIZqbjQiBtPMDCqjRLoObnb5b9qPiTvFKoDSYOAqXAibRsf0uP4pFbXNwCJwP-6jWWta5sqzqrcq7GfSB_PHhjyg-NupEtG70cgw3rGtX_sWAbBCEjt8e2USmwXYMYaNgeHxq61X4iYEsqr8lExW3y_XuGY3FH1iKRdyqH1e_0c?session=0&fife" height="200" width="auto" /><br><br>https://www.wills-vegan-shoes.com/<br><br>We have been a vegan company at the forefront of vegan clothing and sustainable fashion since we were established in 2012.<br><br>We provide all your vegan essentials including vegan shoes, vegan boots, vegan sneakers & vegan bags.<br><br><img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/m0f4rt6cabbealfqu6hmu0ov9s/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZn3yKBCa8szLVB64-K7xsBgSOsbJ-XPC9_--jFmtc4lqDCNkGstuqBpkTEPdnYdWT3OPiZETXjtEr856zBgOHXA5RZRIDMes9hewSaDccWAnMru9Y4urrSdKPjGOMqvy4V-Ps6-oIXBTcrmbRQprc0xjcNVBHux7y4ftFSXULviqJ-X7BQj4A82WcnCCZqtiE?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1683-424242</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/pdi0ntm6v5h9kmnn0qbkj8ka1g/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYvJOYJ5PwZBaPt1IJn2lhKAIZqbjQiBtPMDCqjRLoObnb5b9qPiTvFKoDSYOAqXAibRsf0uP4pFbXNwCJwP-6jWWta5sqzqrcq7GfSB_PHhjyg-NupEtG70cgw3rGtX_sWAbBCEjt8e2USmwXYMYaNgeHxq61X4iYEsqr8lExW3y_XuGY3FH1iKRdyqH1e_0c?session=0&fife https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/m0f4rt6cabbealfqu6hmu0ov9s/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZn3yKBCa8szLVB64-K7xsBgSOsbJ-XPC9_--jFmtc4lqDCNkGstuqBpkTEPdnYdWT3OPiZETXjtEr856zBgOHXA5RZRIDMes9hewSaDccWAnMru9Y4urrSdKPjGOMqvy4V-Ps6-oIXBTcrmbRQprc0xjcNVBHux7y4ftFSXULviqJ-X7BQj4A82WcnCCZqtiE?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.141108700000018,51.5132459,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

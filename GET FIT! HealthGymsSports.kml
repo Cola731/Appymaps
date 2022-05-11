@@ -1,0 +1,2368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>GET FIT! Health/Gyms/Sports</name>
+    <Style id="icon-1554-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1554-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1554-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1554-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1554-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1589-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1589-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1589-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1589-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1589-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1589-7CB342-nodesc-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1589-7CB342-nodesc-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1589-7CB342-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1589-7CB342-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1589-7CB342-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1652-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1652-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1652-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1652-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1652-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1680-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1680-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1680-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1680-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1680-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1681-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1681-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1681-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1681-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1681-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1696-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1696-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1696-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1696-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1696-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1696-7CB342-nodesc-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1696-7CB342-nodesc-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1696-7CB342-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1696-7CB342-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1696-7CB342-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1701-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1701-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1701-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1701-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1701-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1701-7CB342-nodesc-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1701-7CB342-nodesc-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1701-7CB342-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1701-7CB342-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1701-7CB342-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1707-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1707-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1707-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1707-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1707-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1737-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1737-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1737-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1737-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1737-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1755-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1755-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1755-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1755-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1755-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1761-7CB342-nodesc-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1761-7CB342-nodesc-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1761-7CB342-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1761-7CB342-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1761-7CB342-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1811-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1811-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1811-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1811-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1811-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1866-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1866-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1866-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1866-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1866-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Finchley Lido Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/v1de084b4oeqjha7ogip9dcjak/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbFpeo0QO871MQcBlxH1uzchpDcENR8fNafZCAlK4rOgK7L2c-GkNE-PGp93nDd8OnHxTCc7djkoU4qK8KywAeL9El4-cXRboYBZFvfERSdS2AXp9ZMgq4NX5HhjmOgiBX46TTnnDyMoVIxOhk-9LI8BEz8yOb44-CuBVJlNrJ4iW6YwUm3mGuyns357oz-PEs?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/5318ih3e0b2fp7v1iae4e39o34/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va2rK74z5MQfUdTS-MCAfpWKt2DJB180T8xpCVs72kaKRxuIcVIyW48egxcOLpXugLa9sZ-bX82SjswMVHK4ND-ccnltte7wxpv4vlvILA9SCWbZ5ccZtDFqXOmJbRXWUlEroGOn6Bs5Ebzj3_u6W9qMmTnHVWWccrJ55Kp1BQsd8aHjftLQlAcMdsl6At78r8?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/v1de084b4oeqjha7ogip9dcjak/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbFpeo0QO871MQcBlxH1uzchpDcENR8fNafZCAlK4rOgK7L2c-GkNE-PGp93nDd8OnHxTCc7djkoU4qK8KywAeL9El4-cXRboYBZFvfERSdS2AXp9ZMgq4NX5HhjmOgiBX46TTnnDyMoVIxOhk-9LI8BEz8yOb44-CuBVJlNrJ4iW6YwUm3mGuyns357oz-PEs?session=0&fife https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/5318ih3e0b2fp7v1iae4e39o34/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va2rK74z5MQfUdTS-MCAfpWKt2DJB180T8xpCVs72kaKRxuIcVIyW48egxcOLpXugLa9sZ-bX82SjswMVHK4ND-ccnltte7wxpv4vlvILA9SCWbZ5ccZtDFqXOmJbRXWUlEroGOn6Bs5Ebzj3_u6W9qMmTnHVWWccrJ55Kp1BQsd8aHjftLQlAcMdsl6At78r8?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.172602999999981,51.604513,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Be Active Social Enterprise CIC</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/lrjbgfbpqeejcukun93fubf5gg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbF8e_2DBT_vvSTLreNSv-tPqZY-VNOyfZlYibx6UjqI7lzj_jLLdkNa3ah9EWogfedFYJrtPQxkjJumyVminK83EtpkESsFpMNwHX4HbkbWVZfOUCvtgoqLHSKmxLAXmbrLPgMxU2hB6rNovO4mVJ4s2HNnywlJDEz-4_FQF8OsW-m4-fPVWoXOrMSYSswNgQ?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1707-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/lrjbgfbpqeejcukun93fubf5gg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbF8e_2DBT_vvSTLreNSv-tPqZY-VNOyfZlYibx6UjqI7lzj_jLLdkNa3ah9EWogfedFYJrtPQxkjJumyVminK83EtpkESsFpMNwHX4HbkbWVZfOUCvtgoqLHSKmxLAXmbrLPgMxU2hB6rNovO4mVJ4s2HNnywlJDEz-4_FQF8OsW-m4-fPVWoXOrMSYSswNgQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0922630000000026,51.48147,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Church Farm Leisure Centre</name>
+      <styleUrl>#icon-1589-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.155072000000018,51.635485,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wray Crescent Cricket Pitch</name>
+      <description><![CDATA[<img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/25bp5qesmlb70570q815tbmm08/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb4tr1mcqJDVE-hjZ5yHCa7E4LHSGWF-V7H4GYd9YZ5OaIIHKvNhUQzxSGRzOa0KHg_ExPu8hvCPhEU2wk4mlSTFpHn-FMczStq1KMQ7b2N4H5QOnAGBNIIAzixiWHR8nEpW7OMUYcfSis3KLSOVClJDH2-4TZ7K0FTMEoaaw-x3ZwWVXUadyWYGeWCUQf7wXQ?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1554-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/25bp5qesmlb70570q815tbmm08/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb4tr1mcqJDVE-hjZ5yHCa7E4LHSGWF-V7H4GYd9YZ5OaIIHKvNhUQzxSGRzOa0KHg_ExPu8hvCPhEU2wk4mlSTFpHn-FMczStq1KMQ7b2N4H5QOnAGBNIIAzixiWHR8nEpW7OMUYcfSis3KLSOVClJDH2-4TZ7K0FTMEoaaw-x3ZwWVXUadyWYGeWCUQf7wXQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.117973000000006,51.566738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wimbledon Leisure Centre and Spa</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/gq35fmrfiv5mtlh62gfcearmlk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ1wJ5wnU54nPRA1J54t6dm6XZk7CE8j8GK8etXVk4UYPzmR8rYLvbNrkw_dCi9veEnJ5L1F5YkYIqhlwmwtbPGXa1Vg5xnnkKpKk1Eg-p6CNZ_Nf_tb0onPm5dewO8VNa5nHGjsIS6dt5Oe83TC2JVJS2amkmD8PmEfYSxYovXaVRL2bFaV84UTuBzwEyaxW8?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/gq35fmrfiv5mtlh62gfcearmlk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ1wJ5wnU54nPRA1J54t6dm6XZk7CE8j8GK8etXVk4UYPzmR8rYLvbNrkw_dCi9veEnJ5L1F5YkYIqhlwmwtbPGXa1Vg5xnnkKpKk1Eg-p6CNZ_Nf_tb0onPm5dewO8VNa5nHGjsIS6dt5Oe83TC2JVJS2amkmD8PmEfYSxYovXaVRL2bFaV84UTuBzwEyaxW8?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.193388400000003,51.4198397,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Archway Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/fv15j8pjmra78suqlrrqli1kv8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYL7-jrlHB2CgVReg_JfFfBo2rGc_b7YwPzmbBGym-JOICpd2vKVYsbbziOxD3i8D71LaPc2B7vAeUmZ_eYpsHW4w1qekJTDqCnmamMUPKx4tcd2F5yfYx3R1onDjGYQnCggElzMPSjAl0zdlq482xGvZQE7Jq4NfF7anLGpl58EAslL9IelhHoUCoufYL9ln8?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/fv15j8pjmra78suqlrrqli1kv8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYL7-jrlHB2CgVReg_JfFfBo2rGc_b7YwPzmbBGym-JOICpd2vKVYsbbziOxD3i8D71LaPc2B7vAeUmZ_eYpsHW4w1qekJTDqCnmamMUPKx4tcd2F5yfYx3R1onDjGYQnCggElzMPSjAl0zdlq482xGvZQE7Jq4NfF7anLGpl58EAslL9IelhHoUCoufYL9ln8?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.136397699999975,51.5653501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thornton Heath Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/pk890pa03srm1kkbodjfd64dd0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ0FvPwrel3FH552QtaPCfoN2t9Xogs7HYadPge6-dj46D2A94DocR6cf9i1rdAaltQa9gQZmhd8h8KClGWM4dtvr_rXnqRW4UZ-k_qoZ7gZRPYXcl-nL5jIjmxn9WK7BqymVCGffu4VdPoc9a0W829Ida-vkeG2xTd9OqHTe5ua95QruMbDdZqSEMQEwP08t4?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/pk890pa03srm1kkbodjfd64dd0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ0FvPwrel3FH552QtaPCfoN2t9Xogs7HYadPge6-dj46D2A94DocR6cf9i1rdAaltQa9gQZmhd8h8KClGWM4dtvr_rXnqRW4UZ-k_qoZ7gZRPYXcl-nL5jIjmxn9WK7BqymVCGffu4VdPoc9a0W829Ida-vkeG2xTd9OqHTe5ua95QruMbDdZqSEMQEwP08t4?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0966797999999471,51.3990691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Better Gym, Holloway</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3u8l4tr0lb36thaomhhtci7mk0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbj8NZx4lhb1YmI7rrgsJKf5bEyO2Nl5NlSo6dIOtJBH_PGMQxQcdSlIB8PQ8PtID40j4dEizl8AFNJuBobF9yoynBWET6w7V1iQH3CqerQ9ylI2xLeiThMrfyVkoq82Gm7v8OMgS0YQ_9OoAQxE-C-DLzmdZfyvDLhkhEW2uYYeAW_6ZB4BpInL_XJuIqCR1E?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3u8l4tr0lb36thaomhhtci7mk0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbj8NZx4lhb1YmI7rrgsJKf5bEyO2Nl5NlSo6dIOtJBH_PGMQxQcdSlIB8PQ8PtID40j4dEizl8AFNJuBobF9yoynBWET6w7V1iQH3CqerQ9ylI2xLeiThMrfyVkoq82Gm7v8OMgS0YQ_9OoAQxE-C-DLzmdZfyvDLhkhEW2uYYeAW_6ZB4BpInL_XJuIqCR1E?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.113559000000009,51.55218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Whittington Park Football Pitch</name>
+      <description><![CDATA[<img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/9lsr5elg71qmomb3lsvh75anis/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZaC5zSngsmZl8K9fESw3ggsZ0AIik95UmVWoV_KVEeee9VgLc-gBXPRUi_KZN4BYw_oxDtIleIGT0yrhAE6btZ1qQ_gSCZ1yAUN3Nlj2pygCwzVKhk4ek_bd-m2x5cxik0U6FaAVvIjLfx_CY-EX_9w4aAw3yD1ldOh6es3e37NiRza1F11w_cjxohqn1n3RA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1696-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/9lsr5elg71qmomb3lsvh75anis/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZaC5zSngsmZl8K9fESw3ggsZ0AIik95UmVWoV_KVEeee9VgLc-gBXPRUi_KZN4BYw_oxDtIleIGT0yrhAE6btZ1qQ_gSCZ1yAUN3Nlj2pygCwzVKhk4ek_bd-m2x5cxik0U6FaAVvIjLfx_CY-EX_9w4aAw3yD1ldOh6es3e37NiRza1F11w_cjxohqn1n3RA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.128794999999968,51.562869,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Purley Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/c9an45u5202rok79bpbiol91rc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ60rEGAKN8OTf_TytrqUss43F10St6ascmLrtQ43y9_BpEqKGC6WBStkJEzkEPlt-HXhwtc7WswZsy-upBOFul1DSvOaE-0PxQnV94DiJ988ZywGNAsjlW6TCnGGIjfvvSHmvj5gjq_4xGvd1a06D9l0Vj9WATcWJW5-i4KnU1fJBiv0D8RTC8Cy90mqM3e7w?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/c9an45u5202rok79bpbiol91rc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ60rEGAKN8OTf_TytrqUss43F10St6ascmLrtQ43y9_BpEqKGC6WBStkJEzkEPlt-HXhwtc7WswZsy-upBOFul1DSvOaE-0PxQnV94DiJ988ZywGNAsjlW6TCnGGIjfvvSHmvj5gjq_4xGvd1a06D9l0Vj9WATcWJW5-i4KnU1fJBiv0D8RTC8Cy90mqM3e7w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.114991799999984,51.3389922,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Norwood Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/nk7abouktv501jc4e979o6sh8o/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaC3d6_I7fpzyzv8voeOfwIj_560IcV50LlU5qzJEW58hwQGUlniFfFm-jRcAOixJBWMXqE9-UnhhTiQp1g9gxPKPbPHjrXazYMhyoGdd4IjoFdzzXzN8IuPKwjXOwX8wAeOVW_pJL7aKwIOvhSQB2OaJD3JX8DRDDVkppDzGGS8bHQxtDKu4FK9yo1qODxh3Y?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/nk7abouktv501jc4e979o6sh8o/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaC3d6_I7fpzyzv8voeOfwIj_560IcV50LlU5qzJEW58hwQGUlniFfFm-jRcAOixJBWMXqE9-UnhhTiQp1g9gxPKPbPHjrXazYMhyoGdd4IjoFdzzXzN8IuPKwjXOwX8wAeOVW_pJL7aKwIOvhSQB2OaJD3JX8DRDDVkppDzGGS8bHQxtDKu4FK9yo1qODxh3Y?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0675800000000208,51.3937384,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clissold Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/o38uno3deepnt3eo0inv2b98bo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbneT2-Thn8UYEFwokQOhxEjkNIP-TUeGnkdzPp5u0GIuFfFKfK-ncxIpk5MPk4OyshoMFeux5tRsZIT2jjKu8OkSUf95iLN8ueuCdvgm571QY6OU1D5IsWlG7NxxMCg101pQlXKtYaq5dJWPURuD5L6lUM7uPrGxxGJLcB_n0xW8cP-wgr26BNyaQX3Ug5QV4?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/o38uno3deepnt3eo0inv2b98bo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbneT2-Thn8UYEFwokQOhxEjkNIP-TUeGnkdzPp5u0GIuFfFKfK-ncxIpk5MPk4OyshoMFeux5tRsZIT2jjKu8OkSUf95iLN8ueuCdvgm571QY6OU1D5IsWlG7NxxMCg101pQlXKtYaq5dJWPURuD5L6lUM7uPrGxxGJLcB_n0xW8cP-wgr26BNyaQX3Ug5QV4?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0856433000000152,51.5591388,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Highbury Fields Tennis Courts and Pitches</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/s3au7sju07gies0te6cvpsoq6k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ1_1liohUWp19SjFQh8LsD2l49bbxIwydLnf0mans-urR9QKAW5H8SRY_-NP6czlsCAugwjqudWf8yfWb5ts6zfR1Qh_2IiZTG5-GUDzWNMOLaVvz9JDAvK6mHfBq1glZFEwbsO5TE52DGYJlMaqJs9qZVlgE5jgcpxZBiOvC2py2lGwuNhK1n-znhqKRNNSI?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1707-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/s3au7sju07gies0te6cvpsoq6k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ1_1liohUWp19SjFQh8LsD2l49bbxIwydLnf0mans-urR9QKAW5H8SRY_-NP6czlsCAugwjqudWf8yfWb5ts6zfR1Qh_2IiZTG5-GUDzWNMOLaVvz9JDAvK6mHfBq1glZFEwbsO5TE52DGYJlMaqJs9qZVlgE5jgcpxZBiOvC2py2lGwuNhK1n-znhqKRNNSI?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0987800000000334,51.551501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kentish Town Sports Centre</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/1e2k86o7svvqu1u1590b73jrl8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYuweRUAfmmhmC5f5rzxx-R5OGGJdTScl0xjwFb_jnmgs3ke8Cj1YMaMF1Of83jxRk-UT1FgzDhpECltKw6E8XmSVMgAohl0ytAegqXqwgN06RaVOpcGbEIOrTYRB46HWkML6Of3gGyPVs0RNeiI9HDrbMbngZio7lxHk_p3Q5h91ZkG5Nw582ywJ6jXPqRnXI?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/1e2k86o7svvqu1u1590b73jrl8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYuweRUAfmmhmC5f5rzxx-R5OGGJdTScl0xjwFb_jnmgs3ke8Cj1YMaMF1Of83jxRk-UT1FgzDhpECltKw6E8XmSVMgAohl0ytAegqXqwgN06RaVOpcGbEIOrTYRB46HWkML6Of3gGyPVs0RNeiI9HDrbMbngZio7lxHk_p3Q5h91ZkG5Nw582ywJ6jXPqRnXI?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.144368699999973,51.5470905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradise Park</name>
+      <styleUrl>#icon-1696-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.111855999999989,51.548501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Talacre Community Sports Centre</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/emh9nemggdni5n1012q0oaj8to/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY2wJRSTvO5nyxKCXccveNdL4PR01XzJ2h8TsmmpqrvtQ1OIIEInj-KAS0lxFjMmlx-fVvhxtKAi3vEFKMvaIE1aH4KfWwN0M0kJyJrnRbg0fissJIJGOVNY-O9vhNvehdrVU2tLbzHsjUpUhwUTehImBEgE71_flapspnMSQgHxaYRfIbBAd-n4edv_6WsGHw?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1755-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/emh9nemggdni5n1012q0oaj8to/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY2wJRSTvO5nyxKCXccveNdL4PR01XzJ2h8TsmmpqrvtQ1OIIEInj-KAS0lxFjMmlx-fVvhxtKAi3vEFKMvaIE1aH4KfWwN0M0kJyJrnRbg0fissJIJGOVNY-O9vhNvehdrVU2tLbzHsjUpUhwUTehImBEgE71_flapspnMSQgHxaYRfIbBAd-n4edv_6WsGHw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.147120800000039,51.5470557,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barnet Copthall Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/9dngo7gq3prbijbr3kjf0q4rjg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZu3U3lm1XBpDLxcifu9fHaFkjHuLzKaqS7MYw8nTVmiRyDByhxC8Nl2qMLZBvt9NkhOq8CbitZ6DMF27ifRAmXJrWiEZ4uTU6rPHFnyXxawiEcuMu4BIvJtyhAeM7v76NZrVkO86ozN8JT4CYjhDyMgifW17X2ZCfSvGsSqbngQPw6to1hi0ofnMSZHAGse8I?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/9dngo7gq3prbijbr3kjf0q4rjg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZu3U3lm1XBpDLxcifu9fHaFkjHuLzKaqS7MYw8nTVmiRyDByhxC8Nl2qMLZBvt9NkhOq8CbitZ6DMF27ifRAmXJrWiEZ4uTU6rPHFnyXxawiEcuMu4BIvJtyhAeM7v76NZrVkO86ozN8JT4CYjhDyMgifW17X2ZCfSvGsSqbngQPw6to1hi0ofnMSZHAGse8I?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.22724530000005,51.6044978,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Islington Tennis Centre and Gym</name>
+      <description><![CDATA[<img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/curcatt11v2a1bpi83q0ct8ei8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb4360lawwJl68k3ldkL8EhBEQXiMeiv0dj0EI9ZWuCnJGNfjVQWzSRm_ZsgEZSLSWlTKmHjWObUcH27e2bqeCfhfBwb6T5c3zIdTvrp6i80vPwLdq49zguFUIes9PzBp_N0FznMSrOILPX4T7ZDmEjGc-VtsS0mlGBKQ2qbBkI31BNfhRcMVu76D4lphR2JJo?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1707-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/curcatt11v2a1bpi83q0ct8ei8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb4360lawwJl68k3ldkL8EhBEQXiMeiv0dj0EI9ZWuCnJGNfjVQWzSRm_ZsgEZSLSWlTKmHjWObUcH27e2bqeCfhfBwb6T5c3zIdTvrp6i80vPwLdq49zguFUIes9PzBp_N0FznMSrOILPX4T7ZDmEjGc-VtsS0mlGBKQ2qbBkI31BNfhRcMVu76D4lphR2JJo?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.121779999999944,51.546165,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Market Road ATP</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/74vcdji50n6m7gslkrrjns4q3k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaExrnu0pm0KxzENeVcjRlyNwOyUHAJj49UrNlmkiPXFTZPsLifmAmGD5ulKdRN1KoX-U2EqfdajBbR-QFWNPrUotid-yC-yI86gZ-3HzX4ounseIkFhA5gOjQFV5vOXPtyoGVYkzZ5eMiVpKq6M5maDZ1D9Am9GKXWJiqmPMhfWoL3vFD3kOQMkC1AAbiN_eA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1696-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/74vcdji50n6m7gslkrrjns4q3k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaExrnu0pm0KxzENeVcjRlyNwOyUHAJj49UrNlmkiPXFTZPsLifmAmGD5ulKdRN1KoX-U2EqfdajBbR-QFWNPrUotid-yC-yI86gZ-3HzX4ounseIkFhA5gOjQFV5vOXPtyoGVYkzZ5eMiVpKq6M5maDZ1D9Am9GKXWJiqmPMhfWoL3vFD3kOQMkC1AAbiN_eA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.124281300000007,51.5453458,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hendon Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/576pgurqlelnu2vfik1mpen4d8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZdNoLy5wU0KitfZoV_G_r9WE1EnogYqKD_BmbYD6nWZ7sYPQnL0wGP9AS1db0lX2Ik2WwJEuRW1IMImRnjni6BlA-6jtjnd7i3LGssd-mYmM71FdjfZRcNp8QWFGZoHOy0-U0HZ_91WKEbNvcYaBUzFVmjhQD3FCx2sceb5H_g6xA0w_QbARVM2eG9k4MFCHw?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/576pgurqlelnu2vfik1mpen4d8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZdNoLy5wU0KitfZoV_G_r9WE1EnogYqKD_BmbYD6nWZ7sYPQnL0wGP9AS1db0lX2Ik2WwJEuRW1IMImRnjni6BlA-6jtjnd7i3LGssd-mYmM71FdjfZRcNp8QWFGZoHOy0-U0HZ_91WKEbNvcYaBUzFVmjhQD3FCx2sceb5H_g6xA0w_QbARVM2eG9k4MFCHw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.21538780000003,51.5739335,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Highbury Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/7k2q77akfoc52n9f71icognhmk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbk-jeCago_3L9y33uFdcWlBhFZhO1_gOvZ0FSXGOf4wRwtN_DceY0ADW_6zajH_wvEi8iQ216PC_1YP-FGnqjaglBS7W3eDJJJdabjmTggtKSRMxC_uZA-nK5ENuxgAUx3NN98W4UBzNNs2jrSF35byltzg4enQP1ah5b3pfgrEVd0Jxvm2nRvDfCbKaVBVhA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/7k2q77akfoc52n9f71icognhmk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbk-jeCago_3L9y33uFdcWlBhFZhO1_gOvZ0FSXGOf4wRwtN_DceY0ADW_6zajH_wvEi8iQ216PC_1YP-FGnqjaglBS7W3eDJJJdabjmTggtKSRMxC_uZA-nK5ENuxgAUx3NN98W4UBzNNs2jrSF35byltzg4enQP1ah5b3pfgrEVd0Jxvm2nRvDfCbKaVBVhA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.103321000000051,51.547682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oasis Sports Centre</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/m2re82l8eke79n3qk8ke0olrs4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va9WUD2Kffp-SvFfv76vN4TSveS71-5KljTovIJmoJgxb_8quss0TVk4cDVtA8cGs04CUXDalCyWPbqme1V0oDgHoJuMyR8gjoVJRH-ZZ9J_3dYxhmYMNAc5ShzBGR0reeYtqN-6mQAk58rgPNKBKJZby539UFQ4CYUb3m0cPGRAVo5anCe9FOdWglwwuSFDCM?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/m2re82l8eke79n3qk8ke0olrs4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va9WUD2Kffp-SvFfv76vN4TSveS71-5KljTovIJmoJgxb_8quss0TVk4cDVtA8cGs04CUXDalCyWPbqme1V0oDgHoJuMyR8gjoVJRH-ZZ9J_3dYxhmYMNAc5ShzBGR0reeYtqN-6mQAk58rgPNKBKJZby539UFQ4CYUb3m0cPGRAVo5anCe9FOdWglwwuSFDCM?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.125743000000057,51.515723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colombo Centre</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/fccjla7nn0v44p37gdkh8visl8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbrxP-jdB9eldQphuy3v17Pxb5o3TBWKYPq9LaKx-94bXGa58E5Qut6euooRT_Uzbjz0AuboFgyBXajGJX1qGOWHumMzImjfhsDwWhBift8MkoIiw8IXIW9TME2Mg-scofja9vonESXJP6-YVlSVhG4OvJKDHjiba4V-_YUzuGleRfefpqViUlDPRXb-furViE?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/fccjla7nn0v44p37gdkh8visl8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbrxP-jdB9eldQphuy3v17Pxb5o3TBWKYPq9LaKx-94bXGa58E5Qut6euooRT_Uzbjz0AuboFgyBXajGJX1qGOWHumMzImjfhsDwWhBift8MkoIiw8IXIW9TME2Mg-scofja9vonESXJP6-YVlSVhG4OvJKDHjiba4V-_YUzuGleRfefpqViUlDPRXb-furViE?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.105150500000036,51.5056408,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kennington Park Sports Facilities - Better Gym</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/a0jq8shutj2osnuq4682sg5644/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaSmUlbe-f4LZ6J24399DqeIPTpJp92B8GpwaIim01GOY1eT0SrKSBcLVTSfkEvHTWcWCILLSBCwbsHef1Ppa3mjhNvxepnBA2QmjtK4JCP7kpY5dfdKcBgyIF-xnK6SjnPfZmpI39WJF-Ukz_i-ilSsDoErsDsiijGq6olvXZ9Wa-P0xv7m02PKGrMkXDMiQg?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/a0jq8shutj2osnuq4682sg5644/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaSmUlbe-f4LZ6J24399DqeIPTpJp92B8GpwaIim01GOY1eT0SrKSBcLVTSfkEvHTWcWCILLSBCwbsHef1Ppa3mjhNvxepnBA2QmjtK4JCP7kpY5dfdKcBgyIF-xnK6SjnPfZmpI39WJF-Ukz_i-ilSsDoErsDsiijGq6olvXZ9Wa-P0xv7m02PKGrMkXDMiQg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.109207999999967,51.484081,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vauxhall Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/2akpt1jst44oohoot56d3c7fg4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaEzoRdOlDhG9MEKOQ1v6NMrNlFBH1PjXDloMdTbxAXQ_ah1LRsdtZZTbhY4FJ7OAB6iiC25_pkTy_0eVDHiSyfyR1NvM5O1F971snkczOMyfDG1U3lOVrj4S3rR57pG5z7-miYc4RDuw8Y4o1z1ZZTX10zmKEuy6Ch1U-w1Uy7jEDsEAE7VJCh2WgW66VzPmU?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/2akpt1jst44oohoot56d3c7fg4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaEzoRdOlDhG9MEKOQ1v6NMrNlFBH1PjXDloMdTbxAXQ_ah1LRsdtZZTbhY4FJ7OAB6iiC25_pkTy_0eVDHiSyfyR1NvM5O1F971snkczOMyfDG1U3lOVrj4S3rR57pG5z7-miYc4RDuw8Y4o1z1ZZTX10zmKEuy6Ch1U-w1Uy7jEDsEAE7VJCh2WgW66VzPmU?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.123340699999972,51.4837206,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Archbishop's Park]]></name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/aq2949p6jlipojd7rek0sgt2jk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY4YQgkEJSLa6sEfHYEzPJjok5EngrR3-LZL-k0AiRDV3r7l2wgFLred9DMkTKowdeIrCHUyzlNBtH6p0fUNwvl86_r2YDKquHbQ_fp6QOBIAO4ziTfy5xz5vIxNTrg0HixWa-18SOT9SyHcotq_BV1hM4F33tS0n8QsCf3wbI4y_2eVcQd86lV93QYmSFiX78?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/aq2949p6jlipojd7rek0sgt2jk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY4YQgkEJSLa6sEfHYEzPJjok5EngrR3-LZL-k0AiRDV3r7l2wgFLred9DMkTKowdeIrCHUyzlNBtH6p0fUNwvl86_r2YDKquHbQ_fp6QOBIAO4ziTfy5xz5vIxNTrg0HixWa-18SOT9SyHcotq_BV1hM4F33tS0n8QsCf3wbI4y_2eVcQd86lV93QYmSFiX78?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.116505800000027,51.4976831,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pancras Square Leisure</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/mmjepgsdcb5i4bfiv22etpuhhg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY5SQ_81DWQ87Cxnj47TyW_MyUjQgpwXLUi54BjG_iwd1yHnjbPzLx35nENjoEn4hfx4S7bxtAs-LZdQ19OmbQaDaUj_KEzIZyM3I-QC6XrxN-6ewyTl-bqDZvPzdN3lIqmGF1zZRpL2SIB4uryHenwLJaUcnwW6g6LxxFu1GfqymkbjYiXg2ujeoK6qIPH20Y?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/mmjepgsdcb5i4bfiv22etpuhhg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY5SQ_81DWQ87Cxnj47TyW_MyUjQgpwXLUi54BjG_iwd1yHnjbPzLx35nENjoEn4hfx4S7bxtAs-LZdQ19OmbQaDaUj_KEzIZyM3I-QC6XrxN-6ewyTl-bqDZvPzdN3lIqmGF1zZRpL2SIB4uryHenwLJaUcnwW6g6LxxFu1GfqymkbjYiXg2ujeoK6qIPH20Y?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.126521499999967,51.5338059,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Finsbury Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/p3fm7usuje2k6jebkcrgue0d44/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbIFgpYZ26xdbN1gytKm5M7x3zOgn6miLd-rauRmsA331djaT-b_uEyxEoaWBpUsGqDthw9n9pS8wOZsbK6KGL1obiRQZ1lPDW4a-6q3XtGvtkgTOS9UJzNDotvjre2DckVy6ufpxHNdIsn6JleKQT8r8gUdvF-YN9I8u1rckO3iqAqbLhmsgu-PPmy6pbUVXw?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/p3fm7usuje2k6jebkcrgue0d44/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbIFgpYZ26xdbN1gytKm5M7x3zOgn6miLd-rauRmsA331djaT-b_uEyxEoaWBpUsGqDthw9n9pS8wOZsbK6KGL1obiRQZ1lPDW4a-6q3XtGvtkgTOS9UJzNDotvjre2DckVy6ufpxHNdIsn6JleKQT8r8gUdvF-YN9I8u1rckO3iqAqbLhmsgu-PPmy6pbUVXw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0952307999999675,51.5260218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ironmonger Row Baths</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/sc7m6h3st0mtnjbr9n8bae2bos/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaWQg41SCqE1ImjxigRqgnqtei2aIYjnFWiA8EAaC-ILPbHnukuAHre8LhFIqoiZy9h859GgzqrluuQFoY4rWTyB-lZ5hipwQPsSHVNzZiTBrS_ZAs-nXY0cHF8dlJZ0NYhN5LlzEySDGiW3f_Vdegrg5bqNMgMUfrxSf5GSjA2sFB8s0cmxkX0Hl282CqqcfA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/sc7m6h3st0mtnjbr9n8bae2bos/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaWQg41SCqE1ImjxigRqgnqtei2aIYjnFWiA8EAaC-ILPbHnukuAHre8LhFIqoiZy9h859GgzqrluuQFoY4rWTyB-lZ5hipwQPsSHVNzZiTBrS_ZAs-nXY0cHF8dlJZ0NYhN5LlzEySDGiW3f_Vdegrg5bqNMgMUfrxSf5GSjA2sFB8s0cmxkX0Hl282CqqcfA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0947975999999926,51.5265511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Cally Pool & Gym]]></name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/6lma00k9nkl9pjo4gsl8q0am2c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vakaB_6C9gMvyKyIT7TToAJMh3nu8YPxV7cO4upY5WY04BpNtdIDzALSq6IXnuD1BQ9Mn_47-CnhGNCvUjsQEr6-02YoviAQDW7wsuAGAtpQ6AUb9smlkua7T_31jkxAN0UBgMtsDx1Qqwg8JXnArazW3fxWWzf4b2jXls2PF9jiGfUjuf8m9RdtsZdoWPBPXE?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/6lma00k9nkl9pjo4gsl8q0am2c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vakaB_6C9gMvyKyIT7TToAJMh3nu8YPxV7cO4upY5WY04BpNtdIDzALSq6IXnuD1BQ9Mn_47-CnhGNCvUjsQEr6-02YoviAQDW7wsuAGAtpQ6AUb9smlkua7T_31jkxAN0UBgMtsDx1Qqwg8JXnArazW3fxWWzf4b2jXls2PF9jiGfUjuf8m9RdtsZdoWPBPXE?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.116992500000038,51.5383525,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chelsea Sports Centre</name>
+      <description><![CDATA[<img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/n2tbf6ppkgq9479b525cb7del8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbBCoeR-13Mf24Fzpi2-cV7yb0WSaGRDkhrgoAZa_cOTl_2eQNWEMHnJzMCeJH8MXywvvoar1aUHg2EpQk1bCDrLioQbQOjD8Dv8f_47Wa4eymP60ozXvuiSqZ1dow89gCeU_Ym5VlzQyQTdR0w-1q7j670dDlkYfN9uPbahMZ_FN9Kd-SNi_hcEzHQP8XDWHw?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/n2tbf6ppkgq9479b525cb7del8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbBCoeR-13Mf24Fzpi2-cV7yb0WSaGRDkhrgoAZa_cOTl_2eQNWEMHnJzMCeJH8MXywvvoar1aUHg2EpQk1bCDrLioQbQOjD8Dv8f_47Wa4eymP60ozXvuiSqZ1dow89gCeU_Ym5VlzQyQTdR0w-1q7j670dDlkYfN9uPbahMZ_FN9Kd-SNi_hcEzHQP8XDWHw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.167968900000005,51.4872461,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>William Tyndale School Football Pitch</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/hj09ii4t6q6rg734isvmuf70vs/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbn74Mfb_uTDxT8pacAoDfu_EhE2uW10N21Lp90Hv4EhYKB7WC4WESlp-f6p0FQPYc19bnZamRcYuQ8IU4BIOC3Qed8cBm-d6tH_D839UPdze9Xo4rCMKPNGCb5AvWc0WgQED6z1AcArHGGYpQcRdfyTtFvvox7anRs_4AidcqoUO0OPwt9K3gN-TdquuZEcRE?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1696-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/hj09ii4t6q6rg734isvmuf70vs/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbn74Mfb_uTDxT8pacAoDfu_EhE2uW10N21Lp90Hv4EhYKB7WC4WESlp-f6p0FQPYc19bnZamRcYuQ8IU4BIOC3Qed8cBm-d6tH_D839UPdze9Xo4rCMKPNGCb5AvWc0WgQED6z1AcArHGGYpQcRdfyTtFvvox7anRs_4AidcqoUO0OPwt9K3gN-TdquuZEcRE?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.101186999999982,51.542695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Britannia Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ffb7ubu82fq49kiheofq76vvs4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbsiabPQg2XhsTrv1XATYvHV_xPb6woF7lB3MINO8PCU66JfaNNcSTzdYjtUwDaCop1UMjMwsMsXhsG9epy5XUkwzmS0Pn0hHNa86yjNI4emmyV8Q_hTCffHomB9QodHaE3jt7K54n2uNZLN5sq5jJbRnUtugxMkuPaXJrx6vPhq9IM8VvmRHLQH65vRuVJNmc?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ffb7ubu82fq49kiheofq76vvs4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbsiabPQg2XhsTrv1XATYvHV_xPb6woF7lB3MINO8PCU66JfaNNcSTzdYjtUwDaCop1UMjMwsMsXhsG9epy5XUkwzmS0Pn0hHNa86yjNI4emmyV8Q_hTCffHomB9QodHaE3jt7K54n2uNZLN5sq5jJbRnUtugxMkuPaXJrx6vPhq9IM8VvmRHLQH65vRuVJNmc?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0836249999999836,51.5353,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flaxman Sports Centre</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/lt2bd5tfh752ol1k8ddhe7uqbs/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaHgSAQDPG8ONf5_FHXluyS55FZ5kDZ7yLALQTja3XeXuel9ipEkzxwTdL8qzEiLnlj9qToT-0LvLWgZhRYntd1bmclwriIxvO2XREF23pVzVmrLz5ub2XIkt5OUKhuzqp8_NJcjti7gLiRcQcix-pNKFrAtb7AmPvniGdBp_qQJredUrTw5QXF-nQvJ94-MZo?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/lt2bd5tfh752ol1k8ddhe7uqbs/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaHgSAQDPG8ONf5_FHXluyS55FZ5kDZ7yLALQTja3XeXuel9ipEkzxwTdL8qzEiLnlj9qToT-0LvLWgZhRYntd1bmclwriIxvO2XREF23pVzVmrLz5ub2XIkt5OUKhuzqp8_NJcjti7gLiRcQcix-pNKFrAtb7AmPvniGdBp_qQJredUrTw5QXF-nQvJ94-MZo?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0999480000000403,51.471621,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosemary Gardens Football Pitch</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/jjmq5pc3krrlvoqdmtlvepmo3k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYXbfBHre5Flqc8zEeVOOpNs5giQc7L4VPghLUySfWgUOm0h9DsFfdTjigWYZdAIpAFcVl_RAxWN90KiWgjHwA9_yZuV-IHQf7_HcD1Scu-WQhro2OSZX_GEOnqXPlqyNDw9kb5s1lAiQH7jkK334nTyGSLyAuLO_nbHcT0JScFWTU2g1VlPV1lqQdS5Pm7AQE?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1696-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/jjmq5pc3krrlvoqdmtlvepmo3k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYXbfBHre5Flqc8zEeVOOpNs5giQc7L4VPghLUySfWgUOm0h9DsFfdTjigWYZdAIpAFcVl_RAxWN90KiWgjHwA9_yZuV-IHQf7_HcD1Scu-WQhro2OSZX_GEOnqXPlqyNDw9kb5s1lAiQH7jkK334nTyGSLyAuLO_nbHcT0JScFWTU2g1VlPV1lqQdS5Pm7AQE?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0877520999999888,51.5386367,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>John Orwell Sports Centre</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ccaihrfd475o3beoe727oqfaeg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbJCnqu4Wtj01EEzr86kAb6bMXfA0u9hU3tBcT97KInf3OrzeGBCg8f8UxsrDAXArATQkBvyHrQEIa7eJZGa-sePGtHigq129jKQiwcTzxqSYTzVnaBcynKkAPkWKudMQjGXgdWf6r3_L0g72slKczfjwCrZcAf31qLdIuDGaxTmdM1sJYX44BwJIAE_dkzzBs?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ccaihrfd475o3beoe727oqfaeg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbJCnqu4Wtj01EEzr86kAb6bMXfA0u9hU3tBcT97KInf3OrzeGBCg8f8UxsrDAXArATQkBvyHrQEIa7eJZGa-sePGtHigq129jKQiwcTzxqSYTzVnaBcynKkAPkWKudMQjGXgdWf6r3_L0g72slKczfjwCrZcAf31qLdIuDGaxTmdM1sJYX44BwJIAE_dkzzBs?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0616916000000174,51.5048901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hammersmith Fitness and Squash Centre</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/hqpotrur2oftc32h46nofqrpc0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vagj89naCPhZoW_CiYwphZfsvz6_Vr4DcWunHWQ5THQrOg9QA7ZqZL6UeklOLYHXjnwLSI1WnzmZatzgq31yUIjYbLmUAFdcW1f3nAysFk6uIzhMNl7JN1H6elh7JJ-DH_GsRAvFaMCIQibakl4Mj0RhHKZ-XhaHRQKlFBAHLbS8eTuTK6aCj2eenIrFYzqs4E?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/hqpotrur2oftc32h46nofqrpc0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vagj89naCPhZoW_CiYwphZfsvz6_Vr4DcWunHWQ5THQrOg9QA7ZqZL6UeklOLYHXjnwLSI1WnzmZatzgq31yUIjYbLmUAFdcW1f3nAysFk6uIzhMNl7JN1H6elh7JJ-DH_GsRAvFaMCIQibakl4Mj0RhHKZ-XhaHRQKlFBAHLbS8eTuTK6aCj2eenIrFYzqs4E?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.221171599999934,51.4921022,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lillie Road Fitness Centre</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/9tpnthfpe4coqg828cf5lttt8c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZcSNx_E1OtE99hV4yI9RbPnqsdE2gS6FUjHUoex6JXf8VFfd8jVaZ7nOSXq8_tdvo5XD2ghQfXzWMq036GWKf1gGYDOdRoxtTl9aUvQ2AZHYTZvsEbin_hRbXXLtgjMZGr58II37cpx0pX_ePKrXgmpfbCzyZjbs3NYpH8RSPoQsoGLUU-fyzRex5ms4ppCh8?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/9tpnthfpe4coqg828cf5lttt8c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZcSNx_E1OtE99hV4yI9RbPnqsdE2gS6FUjHUoex6JXf8VFfd8jVaZ7nOSXq8_tdvo5XD2ghQfXzWMq036GWKf1gGYDOdRoxtTl9aUvQ2AZHYTZvsEbin_hRbXXLtgjMZGr58II37cpx0pX_ePKrXgmpfbCzyZjbs3NYpH8RSPoQsoGLUU-fyzRex5ms4ppCh8?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.216489700000011,51.4831336,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phoenix Fitness Centre and Janet Adegoke Swimming Pool</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/hpd5tdln2n1bc35kol0ckk8tps/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYkGCy97GJDhg_d46B-0CullS8wUEQ_6A8GAWKxIvf8dBZ6M_0Qj1BWeA-FCEZ4pEmdZrdcj8SfxeFvMu95NlPcXeGLgVYx19oiwLVPTqEKGFq4VhzbsvJQOHU1rvYloH4TdIX7c4Jwm-LceY4E15UCMIWaMeH5kPaOEmJKFbSMwD-Xw4FBgeKBYXIX24dIhms?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/qn8clvberjl351dvd55g8nmanc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbNh8Lmpcd5RQYhHwu8pDZPW4EuBKQbbZ7nNtN2B6tj0EqaMmNr0FF8m2hSRsjRH-_A4Kx3gzILmXWZL1kUT6nlvJlib5fivC7ek-YJHh4Xb67b47eKCsJlwCHR1xTVlwtF8dT7ZxVlqe1X-Gw_lr3-cQh8v1-quD2DTrpPZK3Um0MJsFEzfQhv_ujW1mBpnXM?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/hpd5tdln2n1bc35kol0ckk8tps/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYkGCy97GJDhg_d46B-0CullS8wUEQ_6A8GAWKxIvf8dBZ6M_0Qj1BWeA-FCEZ4pEmdZrdcj8SfxeFvMu95NlPcXeGLgVYx19oiwLVPTqEKGFq4VhzbsvJQOHU1rvYloH4TdIX7c4Jwm-LceY4E15UCMIWaMeH5kPaOEmJKFbSMwD-Xw4FBgeKBYXIX24dIhms?session=0&fife https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/qn8clvberjl351dvd55g8nmanc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbNh8Lmpcd5RQYhHwu8pDZPW4EuBKQbbZ7nNtN2B6tj0EqaMmNr0FF8m2hSRsjRH-_A4Kx3gzILmXWZL1kUT6nlvJlib5fivC7ek-YJHh4Xb67b47eKCsJlwCHR1xTVlwtF8dT7ZxVlqe1X-Gw_lr3-cQh8v1-quD2DTrpPZK3Um0MJsFEzfQhv_ujW1mBpnXM?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.235911699999974,51.5124621,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barnet Burnt Oak Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ua193fahchsi6g8ol78jgf8ph4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYcOhegF8dhBeIOW9xjx2s_sX44DxxmOt7yGm24HoHuB-qqNe-2sdWf_Fq5WJNaoXVuu0Nvep4LRunNiODwJNVQdZL46nBH22wK-0AkrN-YK5u34qJxoJR-T_gPfGjARSqwut2P7yAVKaW5AL5ycTL5vWy80qRpW2eLQPx2KuVxyC5kg0vDSx8jTPUPUEI4qpY?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/16t68viag2s7pcgd50na7v7n4c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZbMOt3kiasjIThUwiWBupzushAwhPt5Dmvje-1d_NNrAnzNj71l2SCjrkT9jYJCj2vHI234d-7uC1V2Oy1g8HYukmu-LAWhQRs6BR7Gbjtzb34IE-SFes7rc7hl_xaclO7dmNzACeu_JSqBzOX2pV640zMIdRhJenBwItyJL8l7B-jKFimG-43SifhgzYG5rE?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/1ofjb7hthl7hn6us6bdgn8ksm8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZzdbTVcoiEdHI_GMeRm72BSFKauq0axUgQx3ir2sY7qPQoVqbxEBCgQASkoJjYmltImERzxYqQaW8G6jHNXrWZuthW7tDwxhCd1G3kmdgz8A7MkcapCv23j1z0Zn2yV-MWIMrjIMlWpxiRLt7AZwoXvmoRabTfxa0x9GLUMffOPFTYzP7vj8zx_ZD8pwGYjbA?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ua193fahchsi6g8ol78jgf8ph4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYcOhegF8dhBeIOW9xjx2s_sX44DxxmOt7yGm24HoHuB-qqNe-2sdWf_Fq5WJNaoXVuu0Nvep4LRunNiODwJNVQdZL46nBH22wK-0AkrN-YK5u34qJxoJR-T_gPfGjARSqwut2P7yAVKaW5AL5ycTL5vWy80qRpW2eLQPx2KuVxyC5kg0vDSx8jTPUPUEI4qpY?session=0&fife https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/16t68viag2s7pcgd50na7v7n4c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZbMOt3kiasjIThUwiWBupzushAwhPt5Dmvje-1d_NNrAnzNj71l2SCjrkT9jYJCj2vHI234d-7uC1V2Oy1g8HYukmu-LAWhQRs6BR7Gbjtzb34IE-SFes7rc7hl_xaclO7dmNzACeu_JSqBzOX2pV640zMIdRhJenBwItyJL8l7B-jKFimG-43SifhgzYG5rE?session=0&fife https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/1ofjb7hthl7hn6us6bdgn8ksm8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZzdbTVcoiEdHI_GMeRm72BSFKauq0axUgQx3ir2sY7qPQoVqbxEBCgQASkoJjYmltImERzxYqQaW8G6jHNXrWZuthW7tDwxhCd1G3kmdgz8A7MkcapCv23j1z0Zn2yV-MWIMrjIMlWpxiRLt7AZwoXvmoRabTfxa0x9GLUMffOPFTYzP7vj8zx_ZD8pwGYjbA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.255346000000031,51.605038,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barking Sporthouse and Gym</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/h7dd4cg14h5m7sja73m78nqkd4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZhdPmwsxaPnjv9xjbAALlX0Ev_GB5SjIfp6BZeE9crFPTMOqOb0RpQoUwQk-RCojkkl9rc1dnr7CYjedUJTL68DHHMm9oRw6X3jUhaYDtPxlNbCWKUqUbNmKtQ38HgpawEkIEhco8brGPFJJg7ShHY91O4xio-Sz2bxEBYLqIuHiyPVokdEaaay85UQAz_lTg?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/h7dd4cg14h5m7sja73m78nqkd4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZhdPmwsxaPnjv9xjbAALlX0Ev_GB5SjIfp6BZeE9crFPTMOqOb0RpQoUwQk-RCojkkl9rc1dnr7CYjedUJTL68DHHMm9oRw6X3jUhaYDtPxlNbCWKUqUbNmKtQ38HgpawEkIEhco8brGPFJJg7ShHY91O4xio-Sz2bxEBYLqIuHiyPVokdEaaay85UQAz_lTg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.110849400000006,51.546166,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ashburton Hall</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/b2lc39qknv37vedc2vpjh1924g/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb_JsNInHmeQ6Z_GgRGDdvh692x4pPDrn6ZDT2kCXiTGQbhoID6FypviO_WUNRXwJG9xjQ6G326RZ26si6wCnXTJTQeCONPQ2UupJF7GQOZ5J6unwtYZKHxkkC5XphEOqPVDOcnO5A7wRhwDiL24hwk-LtUz6Ooa6QPAhkge5LQquPmA5u9QqagvmDwuxAeqEY?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1707-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/b2lc39qknv37vedc2vpjh1924g/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb_JsNInHmeQ6Z_GgRGDdvh692x4pPDrn6ZDT2kCXiTGQbhoID6FypviO_WUNRXwJG9xjQ6G326RZ26si6wCnXTJTQeCONPQ2UupJF7GQOZ5J6unwtYZKHxkkC5XphEOqPVDOcnO5A7wRhwDiL24hwk-LtUz6Ooa6QPAhkge5LQquPmA5u9QqagvmDwuxAeqEY?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0660460000000285,51.3834761,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Croydon Arena</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/753nfctkh3i5mov8j9veqou3jg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbBF7ImIko55o22TevDOjm5e3h5Ew_0nb4iZEePVcZthpBXcK7fa6ZScFin-mU6tydPMqPLGZ1ZYYw86uzfpYi3Q-t4tDS2hTB1-3ewW9vc0sTbzIwBUbrIBbjbw2-wslG6rqtrmhpZKsGBuyb-vKahjpY71qr-o3d8cbQwFj5Y4i7YrJMoin-SJfMkxE6be4g?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1696-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/753nfctkh3i5mov8j9veqou3jg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbBF7ImIko55o22TevDOjm5e3h5Ew_0nb4iZEePVcZthpBXcK7fa6ZScFin-mU6tydPMqPLGZ1ZYYw86uzfpYi3Q-t4tDS2hTB1-3ewW9vc0sTbzIwBUbrIBbjbw2-wslG6rqtrmhpZKsGBuyb-vKahjpY71qr-o3d8cbQwFj5Y4i7YrJMoin-SJfMkxE6be4g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.060623899999996,51.3935487,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monks Hill Sport Centre</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/1q78gg7fbmodpav1e3coj6or1g/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYsiRpXCzXtJ6VqivTHO1Zgu3pCGcR_7gNqlmU72cTcvn0kktCEXLcXFL5rEjZgbEJdMhdLTLmhugWrtJzeMS_UN4DA1Uc89gqzQplAjLWyPpzIksGgbk8o1aP3BA9tOk0pBU6SkFkk_dZR3k47KN0WLt0UvJGXr5F-Az1ghXPXy22XBGt1QmbUedPP_KMNd0Q?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1696-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/1q78gg7fbmodpav1e3coj6or1g/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYsiRpXCzXtJ6VqivTHO1Zgu3pCGcR_7gNqlmU72cTcvn0kktCEXLcXFL5rEjZgbEJdMhdLTLmhugWrtJzeMS_UN4DA1Uc89gqzQplAjLWyPpzIksGgbk8o1aP3BA9tOk0pBU6SkFkk_dZR3k47KN0WLt0UvJGXr5F-Az1ghXPXy22XBGt1QmbUedPP_KMNd0Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0490730000000212,51.3515245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Addington Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/655anedp4oj1d3e1rg5hs29sh8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYjmuF9HPnQYFNXuUd_XTrGADcAwSWF_9Zx3h7K7lBmXe0b5_x8Q3D0Kbi2pG8dOpmxYEWzsKvTGDhGYJ8xzIBOsr1tWIJtGJo1JB__1ivHR0jQEt36_dj7RrlX0pzGRi7jRHfaWlwsqU2eIPTH4QsuuI_XehyTscQx2EzWKSA9deg4Q4c9_BDYJWatc-NDPk4?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/655anedp4oj1d3e1rg5hs29sh8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYjmuF9HPnQYFNXuUd_XTrGADcAwSWF_9Zx3h7K7lBmXe0b5_x8Q3D0Kbi2pG8dOpmxYEWzsKvTGDhGYJ8xzIBOsr1tWIJtGJo1JB__1ivHR0jQEt36_dj7RrlX0pzGRi7jRHfaWlwsqU2eIPTH4QsuuI_XehyTscQx2EzWKSA9deg4Q4c9_BDYJWatc-NDPk4?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0157577999999603,51.3405433,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waddon Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0kulrmocsvtluuobcdovm6dj0k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY7eVQrIaf6acx2krsOoj4XIuhMXbup_84CK9wCWZi32bOmMrVISIg7yS5g-lHNRLWRrYiDV-Dhx1Q6YnvSJmIHl6_Cnrv3fiMxFPWyfQt24bG56vj-5plULGzXASOO-CGvVxdH7nsnJfvmwunedC1fIhVYbM0RAWIjEA0j3o_0WwkLtaHkTTW46AV3yMW4Gf0?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0kulrmocsvtluuobcdovm6dj0k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY7eVQrIaf6acx2krsOoj4XIuhMXbup_84CK9wCWZi32bOmMrVISIg7yS5g-lHNRLWRrYiDV-Dhx1Q6YnvSJmIHl6_Cnrv3fiMxFPWyfQt24bG56vj-5plULGzXASOO-CGvVxdH7nsnJfvmwunedC1fIhVYbM0RAWIjEA0j3o_0WwkLtaHkTTW46AV3yMW4Gf0?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.117667999999981,51.364179,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brixton Recreation Centre Better Gym</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8639j6smsrfage483t7ffalg5o/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZIYeXeONbjUcAtuGORnxmFs-Sowt3SJfVUUAyQMwEp3x3grG-ggEe9wQHqBVzQ4vDT9tMi5tB6Vw6vxiWgcKZ7x_aXKIF4q5Zlbtg4Ws7KogFJ_rEF3iYjfjrbR47jaK5OREMej-t2nfjDQq6j3h0QmJ_ZDC7qseefnWW3AsLJJQn1yu8mR8zGpfYXO-Mp2FA?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/nrfh529fcjhgib88elvanpbrrg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbaeWPq56YoqiWd-ZYleC-1x-E5jz_F2VCxwdq3BJS_aopsmFRkSZ5BXgyRdwwe6iS72O38usGAeV3DakeUC_q1uoZlyCX_51R5wsV32CQ2MKxU2zrz77HCm2qgue1hNpEfog1p2QHMydtcKfLgb9YpcQcQs5ZdHBgvMzV3iu1bSMxUnR3SvA7FtSKjRo65Gpk?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8639j6smsrfage483t7ffalg5o/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZIYeXeONbjUcAtuGORnxmFs-Sowt3SJfVUUAyQMwEp3x3grG-ggEe9wQHqBVzQ4vDT9tMi5tB6Vw6vxiWgcKZ7x_aXKIF4q5Zlbtg4Ws7KogFJ_rEF3iYjfjrbR47jaK5OREMej-t2nfjDQq6j3h0QmJ_ZDC7qseefnWW3AsLJJQn1yu8mR8zGpfYXO-Mp2FA?session=0&fife https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/nrfh529fcjhgib88elvanpbrrg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbaeWPq56YoqiWd-ZYleC-1x-E5jz_F2VCxwdq3BJS_aopsmFRkSZ5BXgyRdwwe6iS72O38usGAeV3DakeUC_q1uoZlyCX_51R5wsV32CQ2MKxU2zrz77HCm2qgue1hNpEfog1p2QHMydtcKfLgb9YpcQcQs5ZdHBgvMzV3iu1bSMxUnR3SvA7FtSKjRo65Gpk?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.112934399999972,51.4634841,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lambeth Parks Sports Facilities</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/69c53chuenrlirn9gp2em17880/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYeDPX5clg8nKjsAwa4SF0gBuddoMeE3BspI_Hp4m2PvDUvzHVQF0MolaNL7L26yvvG3yKZ6P_00CPR8RrcHhAcAU2pVjJahHufe9-eKdgwDI2vxdQMXCvZ3W3SfBmITp3LejbqRnzPYGvtqjxOXk-Bwf-S25qGenNTu6dP3OZDknWVbWBks-atDg3-bxamQLI?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1696-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/69c53chuenrlirn9gp2em17880/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYeDPX5clg8nKjsAwa4SF0gBuddoMeE3BspI_Hp4m2PvDUvzHVQF0MolaNL7L26yvvG3yKZ6P_00CPR8RrcHhAcAU2pVjJahHufe9-eKdgwDI2vxdQMXCvZ3W3SfBmITp3LejbqRnzPYGvtqjxOXk-Bwf-S25qGenNTu6dP3OZDknWVbWBks-atDg3-bxamQLI?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.117881099999977,51.4940324,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ferndale Community Sports Centre</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8tsncvtaljbrvfhqt8uuk4abhg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb1ljuqA-lVIsZyYC93BJvIT0Stt4COheOgYWs5R9__z8JfOY0TFGUW0HNDDA06cEHF9pi751rt59eiFkRSpUFls7A6GqrctB346lRkzv8aPlMm2hJ8yStJBWNgqiVlTe1QbC9VfzHFQK88c7OPVpl-LvrYOm9yWW52a2mubKDWdBsa78caQjxOfDwGqCky8XE?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1696-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8tsncvtaljbrvfhqt8uuk4abhg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb1ljuqA-lVIsZyYC93BJvIT0Stt4COheOgYWs5R9__z8JfOY0TFGUW0HNDDA06cEHF9pi751rt59eiFkRSpUFls7A6GqrctB346lRkzv8aPlMm2hJ8yStJBWNgqiVlTe1QbC9VfzHFQK88c7OPVpl-LvrYOm9yWW52a2mubKDWdBsa78caQjxOfDwGqCky8XE?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.11722199999997,51.463255,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clapham Leisure Centre</name>
+      <styleUrl>#icon-1701-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.134773600000017,51.4639981,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clapham Common Tennis Courts</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/eq92gb2seed6pg9kjguc3ds75c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbAsLnnkJGc8EjfztxEAP517HoXjpiH-8lzFLM4I6he-skxt3rLO8MzDVFuZrVRdPsVDM6ngJK6q58vMQEofHKWyXm9CEGWYDfnz04DWPJ9H8NKfS8t6iVk5wNNEP6P_IrV7NA5xtQXKPoeVPCxm9KOhCNZ6BZnodlHykG4iwwdA8I-pZ5Uit660ZGDg8wmnS4?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/79glr5mm7345krlv0jl45quqnc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vajS1d-BllfGH_UYEKaTSzvaxE0_MnpVU46bQRJ5KmTPY-SQrX-hSVqWMh6lla_2-qtN4iCSFqM-sYNTD2nq38PQEGgHgV4zAngy3KCTitVqTRR6jf84bPxU7C5umOrav-o0PVzTYZ0JvpEGnt4N_Gbnv94shoVHOUldpEKZF-ccOEuqVlyzY4T6rbQ6tv-BqY?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/fb3cb6vae8ncdd56k0fhb2n2f0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va5jNVY4jzZlNGJ6_xA1sMSKiPr46yANcQQhM7Vw0r7558kBCxX-PFnkOJ7yGYctO28jQisI_2GdQOuK0rPJNqn1Zt0pQP7PC2grJ2AGBIMhOTNwc5xU3UMw72op8njiwn0oyma3D9gZYopJUEexQhHAq-4AMwPh_P60rK-0_p51-tXvro1rvg2nRZ0iNFBK9c?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1707-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/eq92gb2seed6pg9kjguc3ds75c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbAsLnnkJGc8EjfztxEAP517HoXjpiH-8lzFLM4I6he-skxt3rLO8MzDVFuZrVRdPsVDM6ngJK6q58vMQEofHKWyXm9CEGWYDfnz04DWPJ9H8NKfS8t6iVk5wNNEP6P_IrV7NA5xtQXKPoeVPCxm9KOhCNZ6BZnodlHykG4iwwdA8I-pZ5Uit660ZGDg8wmnS4?session=0&fife https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/79glr5mm7345krlv0jl45quqnc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vajS1d-BllfGH_UYEKaTSzvaxE0_MnpVU46bQRJ5KmTPY-SQrX-hSVqWMh6lla_2-qtN4iCSFqM-sYNTD2nq38PQEGgHgV4zAngy3KCTitVqTRR6jf84bPxU7C5umOrav-o0PVzTYZ0JvpEGnt4N_Gbnv94shoVHOUldpEKZF-ccOEuqVlyzY4T6rbQ6tv-BqY?session=0&fife https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/fb3cb6vae8ncdd56k0fhb2n2f0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va5jNVY4jzZlNGJ6_xA1sMSKiPr46yANcQQhM7Vw0r7558kBCxX-PFnkOJ7yGYctO28jQisI_2GdQOuK0rPJNqn1Zt0pQP7PC2grJ2AGBIMhOTNwc5xU3UMw72op8njiwn0oyma3D9gZYopJUEexQhHAq-4AMwPh_P60rK-0_p51-tXvro1rvg2nRZ0iNFBK9c?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.151060799999982,51.453648,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Streatham Ice and Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/koi6a8pig27naalha1eg3j2384/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZmNmsErmgIP2zQ4V1-D5QVlUWkxgfRr2o2Nwxhw_uPF4iiM1YRDRAGtBzUk8Ffpt2Kk212fscmc8tWRmDhEcXcEjYH8SlW-5f5SwMvEqhPbzOt5RyfxT-fJSunhJnCNQfKlPSMKYB42pmahF1bstqdLts1JgijbyIa0RuHlw3lK3CVuyNni7Lmyn39NNLooAI?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/l6vb048n44suj5lcbm6oop8jb0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vao84_lFZ9cviTzEtbYEvII5R_pBbCoUSgmZFJtMhvMcc6hlafWUOxIx9L_IuhiQ63_JnBiRfu-OrFqvpnzBrab_cBEbua33SqT9vtTQv3i84JHcPGWY0DOCdkAfB5iKeQeMA2M1r39lcgKTBCBFh8-LhjI8m3QKpMHKehETdDb6F6pR--y3pQKJhNxDSOH320?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/d69u94qms97nijiuhlfgh5shgg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYdZuE0Xawd3tvrp9e2a4AxkQmE470V23UWNDOfEyyL-mR6vNn8hMX3IgBjAWq_Ak14t69J7eEwsYC_eTLuNJewtWkB9DKrwbyDLMunY2wO0zWQCkRXD-8mgLRhQvn0qLLbN9494smaFbmtBPbB-FcFBtYIf5dCsXIf6mZW9jY44umSnjFmG-rekKcpXs3Uy14?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/koi6a8pig27naalha1eg3j2384/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZmNmsErmgIP2zQ4V1-D5QVlUWkxgfRr2o2Nwxhw_uPF4iiM1YRDRAGtBzUk8Ffpt2Kk212fscmc8tWRmDhEcXcEjYH8SlW-5f5SwMvEqhPbzOt5RyfxT-fJSunhJnCNQfKlPSMKYB42pmahF1bstqdLts1JgijbyIa0RuHlw3lK3CVuyNni7Lmyn39NNLooAI?session=0&fife https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/l6vb048n44suj5lcbm6oop8jb0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vao84_lFZ9cviTzEtbYEvII5R_pBbCoUSgmZFJtMhvMcc6hlafWUOxIx9L_IuhiQ63_JnBiRfu-OrFqvpnzBrab_cBEbua33SqT9vtTQv3i84JHcPGWY0DOCdkAfB5iKeQeMA2M1r39lcgKTBCBFh8-LhjI8m3QKpMHKehETdDb6F6pR--y3pQKJhNxDSOH320?session=0&fife https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/d69u94qms97nijiuhlfgh5shgg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYdZuE0Xawd3tvrp9e2a4AxkQmE470V23UWNDOfEyyL-mR6vNn8hMX3IgBjAWq_Ak14t69J7eEwsYC_eTLuNJewtWkB9DKrwbyDLMunY2wO0zWQCkRXD-8mgLRhQvn0qLLbN9494smaFbmtBPbB-FcFBtYIf5dCsXIf6mZW9jY44umSnjFmG-rekKcpXs3Uy14?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.131171999999992,51.423794,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Norwood Health and Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/l8pmdk9hfe1itjhtqv8pkghf3c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vamNEHkCnd2nuwrOM695fOBpHGhothVl8cuAYNbkrb2RkcWX-9GiMbFRkXRnVEDngsM9eAEeHxONU0-hDUnLJNK5GKzqJDRwVUz_FpXkdubn5lyvsLjClpQuGvzcaPZ9jsmamvmf5kFTxbC-riwFeJMKspobfBSoWWdQfyVLyud4gCf-MEVXcOYmmZX08TLGmo?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/l8pmdk9hfe1itjhtqv8pkghf3c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vamNEHkCnd2nuwrOM695fOBpHGhothVl8cuAYNbkrb2RkcWX-9GiMbFRkXRnVEDngsM9eAEeHxONU0-hDUnLJNK5GKzqJDRwVUz_FpXkdubn5lyvsLjClpQuGvzcaPZ9jsmamvmf5kFTxbC-riwFeJMKspobfBSoWWdQfyVLyud4gCf-MEVXcOYmmZX08TLGmo?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.105965999999967,51.4327614,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Better Gym Woolwich</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/2d0tj55qmrl8q8tkel3qekjar0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ8KapeWYBJccsAL686-NfeiFRLC0iNkQxHoeaVe9oWSfDSx-zXRuXtkPxCtFtAAL4dsk_q_kGmnlGo2H9zmEAfCueHcq5ZusC-MgHE3tZ4defA3X3hUmcZrbFRSuIKqssuHvP-BKeMbVZoE6XqzHJSl29bE7QGjjODX0vhyQX3MzquBU3mOs9vAmXuaJqBTfI?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/2d0tj55qmrl8q8tkel3qekjar0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ8KapeWYBJccsAL686-NfeiFRLC0iNkQxHoeaVe9oWSfDSx-zXRuXtkPxCtFtAAL4dsk_q_kGmnlGo2H9zmEAfCueHcq5ZusC-MgHE3tZ4defA3X3hUmcZrbFRSuIKqssuHvP-BKeMbVZoE6XqzHJSl29bE7QGjjODX0vhyQX3MzquBU3mOs9vAmXuaJqBTfI?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.0655460000000403,51.492632,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Better Gym, North Greenwich</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ineoehmmroqss7gvho4qtfjvt8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZm5RBswOsmoidJyBPJ4HDqyGWKRvYsqzyNxy68rs19Fzy0dN3WezZhueamm9POx1bZNEe0EF4p5RgCbXwee0jVaB4__XCnFyN5JBDEgFobTUe7-N85tNmc4G4p37JzbPdmFlqV6A_nSL2m7-2fhRCN0q3ephr3n6iW6Dk-pZNehOk2Yc2UqxRfT4wabMDbQA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ineoehmmroqss7gvho4qtfjvt8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZm5RBswOsmoidJyBPJ4HDqyGWKRvYsqzyNxy68rs19Fzy0dN3WezZhueamm9POx1bZNEe0EF4p5RgCbXwee0jVaB4__XCnFyN5JBDEgFobTUe7-N85tNmc4G4p37JzbPdmFlqV6A_nSL2m7-2fhRCN0q3ephr3n6iW6Dk-pZNehOk2Yc2UqxRfT4wabMDbQA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.0064466999999695,51.5005233,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charlton Lido and Lifestyle Club</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/6ov075rapv6irfse3lpkt2dvck/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY4BAGHmEulgeQ65uRrLc-CSCrFDOtpRD2IYP-IhzJFPEeHlec0IiA2QFnitCC5dNWYz8RbhSFz42QxU-IWWsfdiOOtjP3ftpCkWJCE1uDWstKLVTMyBGIn70-16kfNtTG1GE5es4cQ3Bjfc72Y3MiT5kHIwYDpLf6kNYwtI78UJrEQ4mZehDtwTZxfI4qOMKA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/6ov075rapv6irfse3lpkt2dvck/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY4BAGHmEulgeQ65uRrLc-CSCrFDOtpRD2IYP-IhzJFPEeHlec0IiA2QFnitCC5dNWYz8RbhSFz42QxU-IWWsfdiOOtjP3ftpCkWJCE1uDWstKLVTMyBGIn70-16kfNtTG1GE5es4cQ3Bjfc72Y3MiT5kHIwYDpLf6kNYwtI78UJrEQ4mZehDtwTZxfI4qOMKA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.0389824999999746,51.4753104,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coldharbour Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0iikapuh6a42rpioi2rinlohc4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaus71RH9epdBI8cTdmMit6dmskOg0eYoHuqbSSPBGZZIPhBpG33ai-kl_AMaaLb9sGG-C3foecxxm5A-DlULoPZ2BVu4irFeo3VrkS4WRj1av3AfYlhr_9BNd4iX8QdElCwZFegwlNmreWhD5wIdmrIDPt2pwEwqzV0zISRu0T8vbIvxng8Gq_k_5KWZ8jC0c?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0iikapuh6a42rpioi2rinlohc4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaus71RH9epdBI8cTdmMit6dmskOg0eYoHuqbSSPBGZZIPhBpG33ai-kl_AMaaLb9sGG-C3foecxxm5A-DlULoPZ2BVu4irFeo3VrkS4WRj1av3AfYlhr_9BNd4iX8QdElCwZFegwlNmreWhD5wIdmrIDPt2pwEwqzV0zISRu0T8vbIvxng8Gq_k_5KWZ8jC0c?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.0543969000000288,51.4366249,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sutcliffe Park Sports Centre</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ihkm4pk2qg22g11ceb18rgdsrg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbJcvHC_uk8Kg4JV-7KbtxfNK4oNCtySRNczuVjsUGuoUwUYCZMpVjBjSahbqm9smfnt4al-TfncJn82AcCzXTezImZnkEOgKFlYBPY20ZkR1sZoCvGLGmjM5v1QNgpZSVHcS96P_HkA7sIG4DwEBxq6sKVvTDAILEHmD0Jd-myD4PLTSY8USYZo1rt_7R84ww?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/slf5rso9i26lqscu8kr64pobpg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vanKHi8U4DcxVeWBmG45WH9SePEUPnwx75aObxUeroDoSKXSo-lO50uLLJjfcEu-2Fj8023xY-94zHg4jNQKv3cdNcdesS-bclvDCZkRwc_SXaJDGSI-LFIj8MUfuL9gKI6jaJpRGXwRPGP6d6LRWP1peIscTCxOneGfFalNt66xRcX_PMwmMDy2B_WAINUxcc?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/dckkcq01tnssm8ajn50cnfvgk8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb-QgwsPowWDvuNFmtX4fbW5iPJRNXqXENB-R07Lo3EcyPHW0_G-drUSf6mgX8aXlfLjuZ-_ertfCkZW2peoZSdiwmmGa8C7_FxGVc9HK2e0qhY8BGcJD-akeP9g55Dk9_k-bmTEIP7r51BFs9NEAnPqLGPpwDjZLX84e2YRYPMGYvZ1hQYypAA_TcPrkrzdQ?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1866-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ihkm4pk2qg22g11ceb18rgdsrg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbJcvHC_uk8Kg4JV-7KbtxfNK4oNCtySRNczuVjsUGuoUwUYCZMpVjBjSahbqm9smfnt4al-TfncJn82AcCzXTezImZnkEOgKFlYBPY20ZkR1sZoCvGLGmjM5v1QNgpZSVHcS96P_HkA7sIG4DwEBxq6sKVvTDAILEHmD0Jd-myD4PLTSY8USYZo1rt_7R84ww?session=0&fife https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/slf5rso9i26lqscu8kr64pobpg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vanKHi8U4DcxVeWBmG45WH9SePEUPnwx75aObxUeroDoSKXSo-lO50uLLJjfcEu-2Fj8023xY-94zHg4jNQKv3cdNcdesS-bclvDCZkRwc_SXaJDGSI-LFIj8MUfuL9gKI6jaJpRGXwRPGP6d6LRWP1peIscTCxOneGfFalNt66xRcX_PMwmMDy2B_WAINUxcc?session=0&fife https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/dckkcq01tnssm8ajn50cnfvgk8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb-QgwsPowWDvuNFmtX4fbW5iPJRNXqXENB-R07Lo3EcyPHW0_G-drUSf6mgX8aXlfLjuZ-_ertfCkZW2peoZSdiwmmGa8C7_FxGVc9HK2e0qhY8BGcJD-akeP9g55Dk9_k-bmTEIP7r51BFs9NEAnPqLGPpwDjZLX84e2YRYPMGYvZ1hQYypAA_TcPrkrzdQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.0279241000000638,51.4540192,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thamesmere Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/en4pcsi7do8p8s8b637di5c7e8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ-wvz2l7eHG2f2jG2AEFk5CccxIm_dkOpS__UcaBDq44ND8WbUjNVVMoiNYnCXWmoaCaCeeTpT8mn0WRWgTK9x5rImyxPE9O0OH_M5fzMoNj4uj1_VIm2V9c_UzVg-GCJBHqvfow0ZvW214JB4Dm0BtrddXZRP6Chct0YDvGvkJpVugD3Y39a2Johe-lvkhxA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/en4pcsi7do8p8s8b637di5c7e8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ-wvz2l7eHG2f2jG2AEFk5CccxIm_dkOpS__UcaBDq44ND8WbUjNVVMoiNYnCXWmoaCaCeeTpT8mn0WRWgTK9x5rImyxPE9O0OH_M5fzMoNj4uj1_VIm2V9c_UzVg-GCJBHqvfow0ZvW214JB4Dm0BtrddXZRP6Chct0YDvGvkJpVugD3Y39a2Johe-lvkhxA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.109024800000043,51.5077584,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Eltham Centre</name>
+      <description><![CDATA[<img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/bu127vkoaruvpugo790e70jh98/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYWT9Zk-6sbv9ZXngOQofsX4caf7vLB5f0C8-MnWiKJDAasdpklNOiYtNwa52jR2p-Dl1GMSs8CLwhpHROSg8Bb2-rHnPa3VlJ5ncCIVSB170gEzqx5ALqGXcB5yMTKPYgQ6MWLXQ8ny_gJFm0UYg3NeV38GLpF8SOp_5MI-S-7Twlvz3DmcRaebIxARpRWesE?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/h8map79qrpipbh588ebu9pm30k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYIAH3j6HgifzRSEtHKiWeY1CG2WsDCNdUDYgxELchCmlaq2woOiJMFUWbwpmv4MjJHWwmoiFI796y0Y5nt9WRAnodRCkJapQW_ReQjY-fCNykJKLasZy5F2Ji1Joje1LtQ_5D1P18XYe9eG86asLbjetsqjN4Fpl-Y_NXGx151_ZBJsrtPhLhoonzkcqYI_jk?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/bu127vkoaruvpugo790e70jh98/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYWT9Zk-6sbv9ZXngOQofsX4caf7vLB5f0C8-MnWiKJDAasdpklNOiYtNwa52jR2p-Dl1GMSs8CLwhpHROSg8Bb2-rHnPa3VlJ5ncCIVSB170gEzqx5ALqGXcB5yMTKPYgQ6MWLXQ8ny_gJFm0UYg3NeV38GLpF8SOp_5MI-S-7Twlvz3DmcRaebIxARpRWesE?session=0&fife https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/h8map79qrpipbh588ebu9pm30k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYIAH3j6HgifzRSEtHKiWeY1CG2WsDCNdUDYgxELchCmlaq2woOiJMFUWbwpmv4MjJHWwmoiFI796y0Y5nt9WRAnodRCkJapQW_ReQjY-fCNykJKLasZy5F2Ji1Joje1LtQ_5D1P18XYe9eG86asLbjetsqjN4Fpl-Y_NXGx151_ZBJsrtPhLhoonzkcqYI_jk?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.0576372000000447,51.451454,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Greenwich Centre</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0m42r2dkg7q902qpd8lmsjp4bg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY_z6MdFdYnud44r2xtg_DoBBrcub6BQq5QVvzYSIBx8vjIFZuInt3e0MxRwiBGZVk9x1eEMZHs6C1MxT-Prc-7zvXyaULWqbwDLPsR9o0dM0uRqZxMadin-2SZHrK-zpei4cfJsZtadgMD1FZrxTt8NJlvwF2p11lKLe0UVm0ZhaqqbkUGHeQJAttfEPGD0NI?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/9mq162lnuhfuot2onpshmsh25g/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZa_fUsGzExaRjGVYJy9jQ2H9k0JRbu8oWeAuSiuzVrmNbNdTY4vFfXk2Qxac5IwsSyDtrQ0wEMZau5AgrA27ihyOu-bax_KlNapWESyQDp1qIutbSpXCU6O0O95r1V1rvtIAV7DdK6nCXt3P8Ul_j3xt62UE9lR7tyWAbRFhQyDjhhvNZHaOPBodFEvtZ5FxI?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/bbh4c9vrn1rctarbm7i1vh4rpc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbdCx9apQ_W23NNgAGbTNiwxhQEQlEe6f7C8nQv57oRknaQxJ3lt9aupPlW84qq69CnhdKU48Jc-IWgy6t7QpPOwvJG4kbXLLKxse4IJjq3bjrYInexYGFKJKTA3_Dx0I14dNUK3Y0UCJF50E4dXeYRO70JHZPK3p8elZ_Qr0MFV46U3Yv98gDmPX18a6gZBVk?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0m42r2dkg7q902qpd8lmsjp4bg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY_z6MdFdYnud44r2xtg_DoBBrcub6BQq5QVvzYSIBx8vjIFZuInt3e0MxRwiBGZVk9x1eEMZHs6C1MxT-Prc-7zvXyaULWqbwDLPsR9o0dM0uRqZxMadin-2SZHrK-zpei4cfJsZtadgMD1FZrxTt8NJlvwF2p11lKLe0UVm0ZhaqqbkUGHeQJAttfEPGD0NI?session=0&fife https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/9mq162lnuhfuot2onpshmsh25g/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZa_fUsGzExaRjGVYJy9jQ2H9k0JRbu8oWeAuSiuzVrmNbNdTY4vFfXk2Qxac5IwsSyDtrQ0wEMZau5AgrA27ihyOu-bax_KlNapWESyQDp1qIutbSpXCU6O0O95r1V1rvtIAV7DdK6nCXt3P8Ul_j3xt62UE9lR7tyWAbRFhQyDjhhvNZHaOPBodFEvtZ5FxI?session=0&fife https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/bbh4c9vrn1rctarbm7i1vh4rpc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbdCx9apQ_W23NNgAGbTNiwxhQEQlEe6f7C8nQv57oRknaQxJ3lt9aupPlW84qq69CnhdKU48Jc-IWgy6t7QpPOwvJG4kbXLLKxse4IJjq3bjrYInexYGFKJKTA3_Dx0I14dNUK3Y0UCJF50E4dXeYRO70JHZPK3p8elZ_Qr0MFV46U3Yv98gDmPX18a6gZBVk?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.00858900000002905,51.485994,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thomas Tallis School Sports Facilities</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/mud6imbeumkphuqem719h03ujk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ3Ap9XASeRhlDhR2pi575bGxfWyGETa3oinBNohpHafz3jqWrjHOpuNdpsCeqa1m48PHr8DjFLxjGGOTLRq1M8kxx7MhfuuKqhsqEhsNV4Ht1W-GeOCbIpqP8A0LxEJYqlyIthYqSGuq_ofYWM4A5ujrZ5xoR2JTdEWysAxWIhycLFEtWecIPckz37qFFfYA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1696-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/mud6imbeumkphuqem719h03ujk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ3Ap9XASeRhlDhR2pi575bGxfWyGETa3oinBNohpHafz3jqWrjHOpuNdpsCeqa1m48PHr8DjFLxjGGOTLRq1M8kxx7MhfuuKqhsqEhsNV4Ht1W-GeOCbIpqP8A0LxEJYqlyIthYqSGuq_ofYWM4A5ujrZ5xoR2JTdEWysAxWIhycLFEtWecIPckz37qFFfYA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.0266219999999748,51.4657889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waterfront Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/mmc4jfn04kf2jioqiid18v7620/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZEdTdTMPJfu9d1DEANdWW-p_vbITB1H4jdUT6MaVsGPW8cjH6_blrIoTH6VSgwGvKf86OtwO-iBip9ETlOffSy4_A5QGjARjq1x19TiKhHZ2BIkpnlrXVI6M0qGk5OXCgi6BU6WFaVnRU6njrNPmJ0ADfaP1H5rx5H6ipdiLWdlP1xpaQzbOZK2CMvE1o2Aho?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/mmc4jfn04kf2jioqiid18v7620/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZEdTdTMPJfu9d1DEANdWW-p_vbITB1H4jdUT6MaVsGPW8cjH6_blrIoTH6VSgwGvKf86OtwO-iBip9ETlOffSy4_A5QGjARjq1x19TiKhHZ2BIkpnlrXVI6M0qGk5OXCgi6BU6WFaVnRU6njrNPmJ0ADfaP1H5rx5H6ipdiLWdlP1xpaQzbOZK2CMvE1o2Aho?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.0632806999999502,51.4941909,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gunnersbury Park</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/mo04sfhcmcdoq166768i55qsgg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZZ21VP5d9gOnGWLZsZ7zEz58-e8lJfyL2lTLNU_z0xOGsyHkebHnzqaO3YbRahHGm0i5-VBK7a1aGdAQIBlgqqEBkmYD0XGbu486qwLbjDvVnNcn-Zkgy8Glod7Mj7n6qAwAkjGHSosn6Kt21A_GfCdFn_atinOk8pxzQPPKNPaiLEPSy9wNeWGam-rEAY-g?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1707-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/mo04sfhcmcdoq166768i55qsgg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZZ21VP5d9gOnGWLZsZ7zEz58-e8lJfyL2lTLNU_z0xOGsyHkebHnzqaO3YbRahHGm0i5-VBK7a1aGdAQIBlgqqEBkmYD0XGbu486qwLbjDvVnNcn-Zkgy8Glod7Mj7n6qAwAkjGHSosn6Kt21A_GfCdFn_atinOk8pxzQPPKNPaiLEPSy9wNeWGam-rEAY-g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.292510900000025,51.4978968,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Better Gym, Harrow</name>
+      <description><![CDATA[<img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/pp8o5a55ifbbo31r4hkm9l6de4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbOiFB2FzDw12kb-Vf1pz-lcnpMGqvMmLB0nNQ7P1ESPLie4l4txk2ScPzl6qb_CLQ04ZpV7CTIUv6VXVET9TbMx7GPjcmliIC1bC5Y1SU1_pu8VUsMPfCJlWHI2f1nnnhXu_ULV1jvEL9svS1HSerdk0OODs13zU2t6CbGdmlFni0gUFQYDfbh5HSkyqQ3Mas?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/pp8o5a55ifbbo31r4hkm9l6de4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbOiFB2FzDw12kb-Vf1pz-lcnpMGqvMmLB0nNQ7P1ESPLie4l4txk2ScPzl6qb_CLQ04ZpV7CTIUv6VXVET9TbMx7GPjcmliIC1bC5Y1SU1_pu8VUsMPfCJlWHI2f1nnnhXu_ULV1jvEL9svS1HSerdk0OODs13zU2t6CbGdmlFni0gUFQYDfbh5HSkyqQ3Mas?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.339808800000014,51.5812377,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Better Gym Pinner</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/6u4660vup1c2tqvd1lrlshb4fo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbrOhfp9nqZikyH6xboPKVZln_Ubwa9SBSpSMi3ZMs1gC6FQEWnTYrnhGY2bzQV-3KlL710_SKc84LB-rb3hXOfowAke3w05YtiYxI9TGW3M0W5SXSD91WR1-9OuMxM9dfakBm8mUcaKoRXzpvg4xhQzzimaU9SSRnNj9LgQTtFSSNVoYl_NAmwg1c3Yww_UMg?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/6u4660vup1c2tqvd1lrlshb4fo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbrOhfp9nqZikyH6xboPKVZln_Ubwa9SBSpSMi3ZMs1gC6FQEWnTYrnhGY2bzQV-3KlL710_SKc84LB-rb3hXOfowAke3w05YtiYxI9TGW3M0W5SXSD91WR1-9OuMxM9dfakBm8mUcaKoRXzpvg4xhQzzimaU9SSRnNj9LgQTtFSSNVoYl_NAmwg1c3Yww_UMg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.385349099999985,51.5952619,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mile End Park Leisure Centre and Stadium</name>
+      <description><![CDATA[<img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0kfin8bv670bu48q3a82m3e538/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaGPcZLwvezc4ULY3nqG8BPn5ZoyXn7YTAwl4D6kRhrAu0it2brEwnaXRGI8tQAWm36kCaw-FN9uEgzJhiav_K419F482PXnksgVsrmewl9Y0Xh3MnbCnVNmyg6wEZ9zjI1kDkHfXtW9X2WpzaICNqegWl5hOcRrgviriCMbcijj3ffCZ_2cqYxv-biKPVvojI?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/edlpjg8ou09sttsm37389cqbec/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaQ0PM-4sGtYD_Sw6Ca9c9u9ub7gsBzrRc9waKkN5bg1CbfIzZ_KSSwxI_zbEc2I5p8k89k3f5qom5Sotmx5lJEECzs8feXRWeroZWuDhreWrpnyqIPOA4J2RqbJfhkcc3K5BUsR1mxdVBhtKI557nOCMK3oTdG2mHDg9wMAlroYew6nwOlRxZ6FQi4Xe8aZpA?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/l6hi3dg6pb6uj8o5hbran6m6uk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZcHPP8_OWrlGFiAT9O64bBLEGfxaBR5vKIDJIOIm4Vb7QpxHmtiotqXlXtwFqM6XwpKNl7Tf6_PQ3BL3Pq5j1axR5VVxdI7r2go3GVIzKxICyYmwlF2s7b5iqmFk9t53n5MgdP_T6a7vHQNRLIuY_HrAmxNaBd_D6Gk6PHoTDc0ShJCUp3pe8sEQQlS6t8jr8?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0kfin8bv670bu48q3a82m3e538/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaGPcZLwvezc4ULY3nqG8BPn5ZoyXn7YTAwl4D6kRhrAu0it2brEwnaXRGI8tQAWm36kCaw-FN9uEgzJhiav_K419F482PXnksgVsrmewl9Y0Xh3MnbCnVNmyg6wEZ9zjI1kDkHfXtW9X2WpzaICNqegWl5hOcRrgviriCMbcijj3ffCZ_2cqYxv-biKPVvojI?session=0&fife https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/edlpjg8ou09sttsm37389cqbec/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaQ0PM-4sGtYD_Sw6Ca9c9u9ub7gsBzrRc9waKkN5bg1CbfIzZ_KSSwxI_zbEc2I5p8k89k3f5qom5Sotmx5lJEECzs8feXRWeroZWuDhreWrpnyqIPOA4J2RqbJfhkcc3K5BUsR1mxdVBhtKI557nOCMK3oTdG2mHDg9wMAlroYew6nwOlRxZ6FQi4Xe8aZpA?session=0&fife https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/l6hi3dg6pb6uj8o5hbran6m6uk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZcHPP8_OWrlGFiAT9O64bBLEGfxaBR5vKIDJIOIm4Vb7QpxHmtiotqXlXtwFqM6XwpKNl7Tf6_PQ3BL3Pq5j1axR5VVxdI7r2go3GVIzKxICyYmwlF2s7b5iqmFk9t53n5MgdP_T6a7vHQNRLIuY_HrAmxNaBd_D6Gk6PHoTDc0ShJCUp3pe8sEQQlS6t8jr8?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0321641000000454,51.5192054,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Poplar Baths Leisure Centre and Gym</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/b14nocrni5sdpg24a9idjs0s2o/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ2jLZa9cPxGZrBK5KMq1dGcLMvuYzkkzu28NDWbG-y6DunaQLl1HYIPrKzrBsZwVUyHQf3ZRN7FL2oLe7sbr-Baks7aXpFi2yDub4eGCO-O_NnxRPNJR3VOs4gB-r61gaOe4k_lZk_yEFyaQWfPoC6nbmfLm0KVBPkwaP6qq9MTSkszbZniIHQTNKBOwYl3jk?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/m27rkj0psgsrej7393k72ebu98/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYgGEDKPK7kDXetDdKKF1KlqmMQyHVXtKKzYeGsXT042c4YnAcaZaXnx8HDzaRQLa3mTM8iEHGxPszkqjKOMQpWd7jqApK7J_ozR51XpNNDESd03ftH57_wJIfjcRTrLALfizsrvzfQGX6mvWj3DTuf8hxSpoMfYX_gnl5RA6U6nqfOLxlrtGXM6jLkXxKtFus?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/7e26siohpqa4i03jele43f73lc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaTkXFvH37gkS8APAtzo08sWZFnv64G2wMwThN6-yAPDN3QHLHGDlanOlJRtq-X5tTaNaLOFoVqeckT0w7jtQalkl0aOyyIV4U3YFzo2h9O9hlDlzsGfzNrdqhYatJdniSyNuOd8DB2vfz5eczxUrc6C4Xpzw3w44bFqH52zpEDw1KgGObdbPf9gdBmreCsD58?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/b14nocrni5sdpg24a9idjs0s2o/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ2jLZa9cPxGZrBK5KMq1dGcLMvuYzkkzu28NDWbG-y6DunaQLl1HYIPrKzrBsZwVUyHQf3ZRN7FL2oLe7sbr-Baks7aXpFi2yDub4eGCO-O_NnxRPNJR3VOs4gB-r61gaOe4k_lZk_yEFyaQWfPoC6nbmfLm0KVBPkwaP6qq9MTSkszbZniIHQTNKBOwYl3jk?session=0&fife https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/m27rkj0psgsrej7393k72ebu98/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYgGEDKPK7kDXetDdKKF1KlqmMQyHVXtKKzYeGsXT042c4YnAcaZaXnx8HDzaRQLa3mTM8iEHGxPszkqjKOMQpWd7jqApK7J_ozR51XpNNDESd03ftH57_wJIfjcRTrLALfizsrvzfQGX6mvWj3DTuf8hxSpoMfYX_gnl5RA6U6nqfOLxlrtGXM6jLkXxKtFus?session=0&fife https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/7e26siohpqa4i03jele43f73lc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaTkXFvH37gkS8APAtzo08sWZFnv64G2wMwThN6-yAPDN3QHLHGDlanOlJRtq-X5tTaNaLOFoVqeckT0w7jtQalkl0aOyyIV4U3YFzo2h9O9hlDlzsGfzNrdqhYatJdniSyNuOd8DB2vfz5eczxUrc6C4Xpzw3w44bFqH52zpEDw1KgGObdbPf9gdBmreCsD58?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0140152999999827,51.5110007,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St George's Leisure Centre]]></name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/kt2vn8okglmh1ov6haqpf0jmqg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va2ZN3TQEsCx4pZoBtkJ6UMffvF0jOuiFBoxIEangLOZbSiV-Ws_CEtxFHD8n7NkTKzzOH7ruUnPaGaHY8kQ44L7pqQf49zR_dna8juWMMdQoYYTa16BZyRai_v8ozZ5Cg3g8uexeaAukbQ9OwHKHMSWC0JNmdHR3cFOdXJg0opXP3Cu6iTIXgcJCVpMJnlLJg?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0r31fbmjvbr7s3bedfe9mt5mhk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZADKduvEWVQh1EWxm_21Fr0BvpbaJqEiihxry6lyp_MLE5p8CgpYrh-17nDgH0zE9Zo3lV7IK8lPmEF9NP_b3NoLR8X0opV_DcAJJ9XBFkp4ZsGX8yXoVbKGu3K3TJEsLYv75nU3Asr2F_wkWPf7UgEk5U53GRgV5l3yGyEo4hoPsbwnVppFhrcgM4ffVowcA?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/kt2vn8okglmh1ov6haqpf0jmqg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va2ZN3TQEsCx4pZoBtkJ6UMffvF0jOuiFBoxIEangLOZbSiV-Ws_CEtxFHD8n7NkTKzzOH7ruUnPaGaHY8kQ44L7pqQf49zR_dna8juWMMdQoYYTa16BZyRai_v8ozZ5Cg3g8uexeaAukbQ9OwHKHMSWC0JNmdHR3cFOdXJg0opXP3Cu6iTIXgcJCVpMJnlLJg?session=0&fife https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0r31fbmjvbr7s3bedfe9mt5mhk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZADKduvEWVQh1EWxm_21Fr0BvpbaJqEiihxry6lyp_MLE5p8CgpYrh-17nDgH0zE9Zo3lV7IK8lPmEF9NP_b3NoLR8X0opV_DcAJJ9XBFkp4ZsGX8yXoVbKGu3K3TJEsLYv75nU3Asr2F_wkWPf7UgEk5U53GRgV5l3yGyEo4hoPsbwnVppFhrcgM4ffVowcA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0583046000000422,51.509789,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tiller Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/36kkf6p7ko7jpl3api3hlc1o50/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaYSHTxiYyEPY9iCGv7mZuUiv_aE6ZC-YHNKIrTcEuj5msFRB6zxJ83qWzDa7c3gvFcV5Q9ObdZHfmf7d1TiHgsCc5SX66vAmd4Q10aqJCBrGyQFNwzM2ZLPVtGc469nvVJ1B13yhWIFRkoKsk4DNOh2uFfaO8Mes5w8ZEkI1xe4maDPsKkLKzAL7yg4HLn4Ss?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/t0a93o4i4ind2rf5hg9svpjdbo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaVtaZvgpgX77nbFCo0fYOs9kgrTWh5Cg2zEFL1n9PSdr5eYytp9pn5L4qqT2gggMPfLWrSKXER4sNkqR7OWSsBu323B78pdPAY716Tt5xtS4o8xHtPAcuWmc8aH9Fdx5IYl51PaXVge7g8OC-qUydgRCt9MEFN9pIpsk_IvPbdjsxnHpiTNzi0h-8EbyOcK7c?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/36kkf6p7ko7jpl3api3hlc1o50/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaYSHTxiYyEPY9iCGv7mZuUiv_aE6ZC-YHNKIrTcEuj5msFRB6zxJ83qWzDa7c3gvFcV5Q9ObdZHfmf7d1TiHgsCc5SX66vAmd4Q10aqJCBrGyQFNwzM2ZLPVtGc469nvVJ1B13yhWIFRkoKsk4DNOh2uFfaO8Mes5w8ZEkI1xe4maDPsKkLKzAL7yg4HLn4Ss?session=0&fife https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/t0a93o4i4ind2rf5hg9svpjdbo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaVtaZvgpgX77nbFCo0fYOs9kgrTWh5Cg2zEFL1n9PSdr5eYytp9pn5L4qqT2gggMPfLWrSKXER4sNkqR7OWSsBu323B78pdPAY716Tt5xtS4o8xHtPAcuWmc8aH9Fdx5IYl51PaXVge7g8OC-qUydgRCt9MEFN9pIpsk_IvPbdjsxnHpiTNzi0h-8EbyOcK7c?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.02190829999995,51.4962871,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Whitechapel Sports Centre</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/6oa960o5ja8ssb3t5tk4flcbec/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vayFzVvwv57pU9FsNrn3hIT0FL3Lq5pN5kJ4tkQCcfJhYXCZTRxlKkP6GiR6aM2-C2O4wthGaEM8FFtgcIek-PuFOxAXXL9kYAHwhaE0y5L-xjjIcgranq0En32cRjlWgKAgBOwjLc0Nl5fI59tNWf9iiJS86UJ3DsHVzJ1pM1c5cPi3S73FyJQM9UTV31q9qo?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/6oa960o5ja8ssb3t5tk4flcbec/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vayFzVvwv57pU9FsNrn3hIT0FL3Lq5pN5kJ4tkQCcfJhYXCZTRxlKkP6GiR6aM2-C2O4wthGaEM8FFtgcIek-PuFOxAXXL9kYAHwhaE0y5L-xjjIcgranq0En32cRjlWgKAgBOwjLc0Nl5fI59tNWf9iiJS86UJ3DsHVzJ1pM1c5cPi3S73FyJQM9UTV31q9qo?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.061447600000065,51.5200234,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>York Hall Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/va97fn1plpjhrikili5i9ln4b0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZoP8Yk_KFS-78mKaKrXitEF9V_VaQFVFfoWJPJO0mS6aYT0kW7LZRmcrHnoT5_Y1NCG6w7pWNOiXZOB_z8o8U4bBZ34ErpqZI5yAunyvc4hBhTDj2raSwpAeqIYnjxfk9Ia_w0BQkOobIpzmMMEzvy2yCBKaw-r4ItWaKHCPpD0O-FNRmpHADgL7GEm_71fHg?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ahabjje31o5mgjgk86irs1cm1o/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYLHPC5FzkSgDEuheVwjn349XegQB8i7cEQAsoobaPWaARZvehmTj6vPQKlWs-5e_9iTNTtVlPDak8iAatSJD90Rjyu41QzWdcQulTDpzQfUeVsCLXPEOKNFcVihKxEWSnZ7QKk41NihWZcrEbBanZBbw-KGyfavRWKao_xoRIezF2F_QXQNeabl4OZcpp5yqk?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/t4g8f57aenp2v0rl3phs9dquu0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbcPipFB_idhj7GmUoV3LWphS5qnweSnPdkVh48QEs1CgS6xjMukPly2IaOSdF4oiZsqVzDNe1cHFLCyP-Hk0-VaW9RMDrQSaIAgmxODg13x54vcCqXD6UcJkBjVo19myUq5iGJRScC89BhQFW4Yp9MsQqLpoYB6Eb0kPY5ZqyPzhkeMjXJILe_UBhjs1JkA4E?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/va97fn1plpjhrikili5i9ln4b0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZoP8Yk_KFS-78mKaKrXitEF9V_VaQFVFfoWJPJO0mS6aYT0kW7LZRmcrHnoT5_Y1NCG6w7pWNOiXZOB_z8o8U4bBZ34ErpqZI5yAunyvc4hBhTDj2raSwpAeqIYnjxfk9Ia_w0BQkOobIpzmMMEzvy2yCBKaw-r4ItWaKHCPpD0O-FNRmpHADgL7GEm_71fHg?session=0&fife https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ahabjje31o5mgjgk86irs1cm1o/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYLHPC5FzkSgDEuheVwjn349XegQB8i7cEQAsoobaPWaARZvehmTj6vPQKlWs-5e_9iTNTtVlPDak8iAatSJD90Rjyu41QzWdcQulTDpzQfUeVsCLXPEOKNFcVihKxEWSnZ7QKk41NihWZcrEbBanZBbw-KGyfavRWKao_xoRIezF2F_QXQNeabl4OZcpp5yqk?session=0&fife https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/t4g8f57aenp2v0rl3phs9dquu0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbcPipFB_idhj7GmUoV3LWphS5qnweSnPdkVh48QEs1CgS6xjMukPly2IaOSdF4oiZsqVzDNe1cHFLCyP-Hk0-VaW9RMDrQSaIAgmxODg13x54vcCqXD6UcJkBjVo19myUq5iGJRScC89BhQFW4Yp9MsQqLpoYB6Eb0kPY5ZqyPzhkeMjXJILe_UBhjs1JkA4E?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0553093999999419,51.529924,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Botwell Green Sports and Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/4tteb2uistni8u32d6t16iticg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYheMNf3BGMCmMdYttcE2TcB0yNtFBsjC2E5Fy9Dk1I5Awmdr6bjWfF5chQBdKMAVpvIcb0feHmevpAz5eYFjO9-2RDzaqkaTFA5KMrRPWDsf4QvaQkW82eoRTTdA86o9zBYnN1mPvpzKAr00m_g5ujUnfHc5GPxa4SXe7Rt9pjSzDFslTBaVOCsojiZMYbEjE?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/4tteb2uistni8u32d6t16iticg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYheMNf3BGMCmMdYttcE2TcB0yNtFBsjC2E5Fy9Dk1I5Awmdr6bjWfF5chQBdKMAVpvIcb0feHmevpAz5eYFjO9-2RDzaqkaTFA5KMrRPWDsf4QvaQkW82eoRTTdA86o9zBYnN1mPvpzKAr00m_g5ujUnfHc5GPxa4SXe7Rt9pjSzDFslTBaVOCsojiZMYbEjE?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.418358200000057,51.5085758,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Highgrove Pool and Fitness Centre</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/cg6j3bil64epnam1m2beu7gv1k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbFrdQbQx6rxwqK2iQWeNcECwt7DhsFfC81nEN4RK-KBOYeDHTkzqAGz4Uykm-37Wz6jiKHmhlMEdztVyg05SF0esC3fGNCQS0Kl8RVKVzB77sfPH-7YEkJIuaXcJaG0LUYzKNN5c2RWWrCdDWx7xhkhL_mMDGSbrEqPYUUIe11epWHetj8kIbzSArVC0xvamA?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/r9nn4gflisn3v29et6cu9h1r00/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZYOnnc4ewUmRRiW8ODTZlsXSV_OCEvowK_n76lXTkg4UzU3QkUJZvPdJ2Z_MM1RyJBJyYjDyTl_xz-Q5HGMH0904WOHF354xgQCJ13BqpWykBW4KlTVHUHlPoCRu1E0VZznDoDk502HGA4zCNmMV5NwqwsAYWGysYEEvSm7CAlrbaWIgHl_M8YPNzjOjyB3i0?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/cg6j3bil64epnam1m2beu7gv1k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbFrdQbQx6rxwqK2iQWeNcECwt7DhsFfC81nEN4RK-KBOYeDHTkzqAGz4Uykm-37Wz6jiKHmhlMEdztVyg05SF0esC3fGNCQS0Kl8RVKVzB77sfPH-7YEkJIuaXcJaG0LUYzKNN5c2RWWrCdDWx7xhkhL_mMDGSbrEqPYUUIe11epWHetj8kIbzSArVC0xvamA?session=0&fife https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/r9nn4gflisn3v29et6cu9h1r00/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZYOnnc4ewUmRRiW8ODTZlsXSV_OCEvowK_n76lXTkg4UzU3QkUJZvPdJ2Z_MM1RyJBJyYjDyTl_xz-Q5HGMH0904WOHF354xgQCJ13BqpWykBW4KlTVHUHlPoCRu1E0VZznDoDk502HGA4zCNmMV5NwqwsAYWGysYEEvSm7CAlrbaWIgHl_M8YPNzjOjyB3i0?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.409266600000024,51.5801106,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Queensmead Sports Centre</name>
+      <description><![CDATA[<img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/sk6bq1rv31r62t3fffbu6m9484/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZAfOFxK1CrS2XPmIjzz3svBme2HVYq5UnT73P1BnCKgyR1e3slzyL6EVOjcUC4YTxF3RpVUuDy-NSCTWUFxnF9e4ZpjF7ffV59t4g-mOp9KfddqTsc1wAYLpYzIte9t5I0RCwVVUAdNsfB1w3vMXXDONO8kKvmIG3UrlBIPiDYaygTJ3N1TumiWNtxvs3vG84?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/c20rmp27r2k918ohu4k5osiq50/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZYrgyV5gCL4ERLcUviclO9YEPg_aYISpbbaSp2xCI3ueH_528ZLVYZVHW8-RHZsicieYdzfPzNEN8grKNWSfuwvukMZ4fEyMny2ieyWji-9fv3OrMKbIm3ThmKgZxkIcD0a680CpznYKm4wNfeXigrnKEwO9nfMu-1LsXC3LDKxwxyHmLk4gWkNghGLy6Ro2A?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/sk6bq1rv31r62t3fffbu6m9484/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZAfOFxK1CrS2XPmIjzz3svBme2HVYq5UnT73P1BnCKgyR1e3slzyL6EVOjcUC4YTxF3RpVUuDy-NSCTWUFxnF9e4ZpjF7ffV59t4g-mOp9KfddqTsc1wAYLpYzIte9t5I0RCwVVUAdNsfB1w3vMXXDONO8kKvmIG3UrlBIPiDYaygTJ3N1TumiWNtxvs3vG84?session=0&fife https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/c20rmp27r2k918ohu4k5osiq50/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZYrgyV5gCL4ERLcUviclO9YEPg_aYISpbbaSp2xCI3ueH_528ZLVYZVHW8-RHZsicieYdzfPzNEN8grKNWSfuwvukMZ4fEyMny2ieyWji-9fv3OrMKbIm3ThmKgZxkIcD0a680CpznYKm4wNfeXigrnKEwO9nfMu-1LsXC3LDKxwxyHmLk4gWkNghGLy6Ro2A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.391692400000011,51.5564121,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kensington Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/btahqselfhsaru56ksf8p5cio4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb8iSNG4RVJPPhs5FdxAK3QXCd8L65w-iN23ICWy0HYYwsWiapbjtSQnTJiDXNclgPjX36vdh70k88lQ1duPVMQXP7elxpSsK68irhN4dGdfdAmV4YH9HvNXR1CsWUSlXkfzPP9poC8aEvVVC15J-NVRJ_0FIU8ju79T-XLTI71hXbFpO1uThiDQDykRAW2YLI?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/s2l5gdlmqrqtns2mug1vua4qrc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY0ecKT20C4gru6E3tpXyOXZqCzNezMaPuB5WtU1_3eWhtyFUW6A1-_qFBbchwZNaKqor2z3EmE18gKc_XYynUNGlqn1-rhjRDj6MgbePtZmewhEZ4QFUaw_YJi3jplyfPQwgWKW0LuJCO1J2HbOkajyhHXKsOoVhc6LvTaZYNNNV7v7pTYLN5xNVYpQ9twXJ8?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/9cg0ibfpa1sgc1cibrfg7d58kk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbuSpkge_HO16JKfSUPqJsDZ-yyGJUDdWHuo4R10zuForGP-xFaXJ8P5QN3AOa68wjxmseeNyQtIQl0DBnNJWbCrIIGy2F6Ec__0gzZ-oXzDdjCbowzc2_NQ7q0BhiAmwfE603EXJevE2D8skGUao7P910gEHVEVrwFTwqbPFMGI6H8p6A9d-rN8ztQCPOJoF8?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/btahqselfhsaru56ksf8p5cio4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb8iSNG4RVJPPhs5FdxAK3QXCd8L65w-iN23ICWy0HYYwsWiapbjtSQnTJiDXNclgPjX36vdh70k88lQ1duPVMQXP7elxpSsK68irhN4dGdfdAmV4YH9HvNXR1CsWUSlXkfzPP9poC8aEvVVC15J-NVRJ_0FIU8ju79T-XLTI71hXbFpO1uThiDQDykRAW2YLI?session=0&fife https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/s2l5gdlmqrqtns2mug1vua4qrc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY0ecKT20C4gru6E3tpXyOXZqCzNezMaPuB5WtU1_3eWhtyFUW6A1-_qFBbchwZNaKqor2z3EmE18gKc_XYynUNGlqn1-rhjRDj6MgbePtZmewhEZ4QFUaw_YJi3jplyfPQwgWKW0LuJCO1J2HbOkajyhHXKsOoVhc6LvTaZYNNNV7v7pTYLN5xNVYpQ9twXJ8?session=0&fife https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/9cg0ibfpa1sgc1cibrfg7d58kk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbuSpkge_HO16JKfSUPqJsDZ-yyGJUDdWHuo4R10zuForGP-xFaXJ8P5QN3AOa68wjxmseeNyQtIQl0DBnNJWbCrIIGy2F6Ec__0gzZ-oXzDdjCbowzc2_NQ7q0BhiAmwfE603EXJevE2D8skGUao7P910gEHVEVrwFTwqbPFMGI6H8p6A9d-rN8ztQCPOJoF8?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.214567200000033,51.5138856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dormers Wells Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/2lrs1s28sdbt5reuga2e4orc7s/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ24dprDwqjhuUe2OmkkC3xSp7LlGl4RPeWCP7aPqpVjE9KUpijiPDYZ0y6qHYQpn6zkjw8oOWti0waBWnjPbpnpGNCBnbrj55Ezsra676G0FL1e6Xs7aU6-lfDcKZJHd-_jcl5sxrkCgzdxVT6lTE2DD9QaRr5GBMKKXN4fLfOqRvpJB2oF-CoieSf2NJuNfQ?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3kc5591plp9avaqr2rknp556fk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYot93IrbJftS9npiO8XwQfIismwQM-Z_xzGfWmdZBZk5qDQjTVui3usM-g_q9BWJLXAk3h_9sG4hkpxTS4MHCbB63uJhjCaHNhcvozi9kaE4oKE7C1vYNrraL1sGQRF0S06l6vhtb3TiVMx5wgWpdpeJDT2TEDlmUGI1xkLvFcQdu8rUyCMf3I3AmrTkMSHbQ?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/2lrs1s28sdbt5reuga2e4orc7s/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ24dprDwqjhuUe2OmkkC3xSp7LlGl4RPeWCP7aPqpVjE9KUpijiPDYZ0y6qHYQpn6zkjw8oOWti0waBWnjPbpnpGNCBnbrj55Ezsra676G0FL1e6Xs7aU6-lfDcKZJHd-_jcl5sxrkCgzdxVT6lTE2DD9QaRr5GBMKKXN4fLfOqRvpJB2oF-CoieSf2NJuNfQ?session=0&fife https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3kc5591plp9avaqr2rknp556fk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYot93IrbJftS9npiO8XwQfIismwQM-Z_xzGfWmdZBZk5qDQjTVui3usM-g_q9BWJLXAk3h_9sG4hkpxTS4MHCbB63uJhjCaHNhcvozi9kaE4oKE7C1vYNrraL1sGQRF0S06l6vhtb3TiVMx5wgWpdpeJDT2TEDlmUGI1xkLvFcQdu8rUyCMf3I3AmrTkMSHbQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.365348799999992,51.5171913,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gurnell Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/m8ldqsj8rnmblg1g224i4k6qrk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZVcbbyP_R2DMzxzCr314Ep6dwQTBszEsqiZgtLJTjBKurSzb4ZbTxfnxyemCDtQWByRRi9WkyrD6n_PGgWNbQotC6OyK9_sQy5f92VptrB508uB5QX0C260pTZhGjU8DEaqqUAxiuiK3JVei6SZ7PTQOkyxdKGwCK7HSHDwrKDQVgIrxfjITVnHKpXxDKlAl4?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/j1k21d2e4kq26fi61jsajtq16k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va7Zy3lWlguPSsmslioJL3vea3FYxTvATVRqOAewxUvLEsbnNIE3OvayYkaGVnIiam310ijtolDYz-H_TZMMqVnfbljFWHMzIkOwNd0JlIVDEmAtDq1Nj-zaT-45shSKAb5CSfpscr2CGGx_wafS4P5Bu-OpkE5bhvvfmAN6eNFfdUoaft7Wp1kkAIL2mNfCgY?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/m8ldqsj8rnmblg1g224i4k6qrk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZVcbbyP_R2DMzxzCr314Ep6dwQTBszEsqiZgtLJTjBKurSzb4ZbTxfnxyemCDtQWByRRi9WkyrD6n_PGgWNbQotC6OyK9_sQy5f92VptrB508uB5QX0C260pTZhGjU8DEaqqUAxiuiK3JVei6SZ7PTQOkyxdKGwCK7HSHDwrKDQVgIrxfjITVnHKpXxDKlAl4?session=0&fife https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/j1k21d2e4kq26fi61jsajtq16k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va7Zy3lWlguPSsmslioJL3vea3FYxTvATVRqOAewxUvLEsbnNIE3OvayYkaGVnIiam310ijtolDYz-H_TZMMqVnfbljFWHMzIkOwNd0JlIVDEmAtDq1Nj-zaT-45shSKAb5CSfpscr2CGGx_wafS4P5Bu-OpkE5bhvvfmAN6eNFfdUoaft7Wp1kkAIL2mNfCgY?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.332258799999977,51.528704,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Swift Road Outdoor Sport Centre</name>
+      <description><![CDATA[<img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/e4vmeu17ge8isshvkt598dj0ok/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYocFW8B13oM6KbK7Tl1cPgb8p7d1mRlZT4BZTfiOLJlIc6NLbU91Dy6676zUjVCHSBbvV8jKB7HmPo4MdrqJpLbLWJWZzftmimTRnHPMrwOyPaH0e99zY8a099-lPsF-qbWJuDOldbu7lzPrCUO6Zhb1y7Z4-ycGQP2jCXE_B0NifJLCVDEalfxYFCoRAas34?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1696-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/e4vmeu17ge8isshvkt598dj0ok/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYocFW8B13oM6KbK7Tl1cPgb8p7d1mRlZT4BZTfiOLJlIc6NLbU91Dy6676zUjVCHSBbvV8jKB7HmPo4MdrqJpLbLWJWZzftmimTRnHPMrwOyPaH0e99zY8a099-lPsF-qbWJuDOldbu7lzPrCUO6Zhb1y7Z4-ycGQP2jCXE_B0NifJLCVDEalfxYFCoRAas34?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.373279799999978,51.5019866,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Copper Box Arena</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/04bcihprgsi3v0rjh9bca5oenc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbUgMe7Bb-kyAbx4dLhsvWDVFaFTdqqVyn-mWy8pV_GvdmoqYTLvT9JzN2p3bgXQXUYMObF4OO6N7L-0UDehX7NCwIJHUGn1WxzLGyePq0XkhHGkUHtssLZodx831u4rkaP_WUCokGHg4JAVVyAtf2xmzXZIBpJo6A17goN-Ej4keDRDPczIy5tyZdyCl21DA?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/lg42m4mh2k3vpdt0m32hfs2aa4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZgQIkiCTdnZoHFXmGLfrTQoyQyFzXUqyu5Nq2IYGgy63jAcR9mN0keS-J2kcg1cpe1gqIhOn_Jv0DG8wpHDbdDxyBIfbOnGVnRFdcLQDYOgmrrl2fpWgJgFXL5niK7kiIJyLWBx7ovfQQ-QtAthDirgZyI4eHD6U4IfqOfe4gwOHAtijUSwlPIvOcp3FLFTjw?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/04bcihprgsi3v0rjh9bca5oenc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbUgMe7Bb-kyAbx4dLhsvWDVFaFTdqqVyn-mWy8pV_GvdmoqYTLvT9JzN2p3bgXQXUYMObF4OO6N7L-0UDehX7NCwIJHUGn1WxzLGyePq0XkhHGkUHtssLZodx831u4rkaP_WUCokGHg4JAVVyAtf2xmzXZIBpJo6A17goN-Ej4keDRDPczIy5tyZdyCl21DA?session=0&fife https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/lg42m4mh2k3vpdt0m32hfs2aa4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZgQIkiCTdnZoHFXmGLfrTQoyQyFzXUqyu5Nq2IYGgy63jAcR9mN0keS-J2kcg1cpe1gqIhOn_Jv0DG8wpHDbdDxyBIfbOnGVnRFdcLQDYOgmrrl2fpWgJgFXL5niK7kiIJyLWBx7ovfQQ-QtAthDirgZyI4eHD6U4IfqOfe4gwOHAtijUSwlPIvOcp3FLFTjw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.020082499999944,51.5444079,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London Aquatics Centre</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/vp3j3ts28mgt35eh6sog6isups/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZVXtO00Bwcjr8xScaARenYdmWORYB41l2CoTpWttFjAQmlxnWC1dd064z-PZZyz5N39INZJaEjE0aSkTZp0KXoDFZHPaoNGfnk3NL_EIw89-znoykd77z_83RAx0MlgZ3TyL6HWgLN0kJ4AoTUSjibnN81K6fVNpNHAZf-S3ZXG4qkwfFiUpgqqor-jpCQSq4?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/mjct51f4h5sa9935kgu40cgeog/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbby-soUdH593jjZnreMm2zFxoSncZorAU9Q-LmmDi_LVEraMXSRBgt73jhfZBf4ZSdIPmP6V1JHccWhnkh3iXsL-6vdJcKIml31XyyLe8StT-nQMc2IKDxQeIfj9GPycBaFtS25-x1Qq2UDDUUZWzRsq9gC9Be_2TLValRij0xmu44ofAxHgExAvvI7DbwbNw?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/vp3j3ts28mgt35eh6sog6isups/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZVXtO00Bwcjr8xScaARenYdmWORYB41l2CoTpWttFjAQmlxnWC1dd064z-PZZyz5N39INZJaEjE0aSkTZp0KXoDFZHPaoNGfnk3NL_EIw89-znoykd77z_83RAx0MlgZ3TyL6HWgLN0kJ4AoTUSjibnN81K6fVNpNHAZf-S3ZXG4qkwfFiUpgqqor-jpCQSq4?session=0&fife https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/mjct51f4h5sa9935kgu40cgeog/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbby-soUdH593jjZnreMm2zFxoSncZorAU9Q-LmmDi_LVEraMXSRBgt73jhfZBf4ZSdIPmP6V1JHccWhnkh3iXsL-6vdJcKIml31XyyLe8StT-nQMc2IKDxQeIfj9GPycBaFtS25-x1Qq2UDDUUZWzRsq9gC9Be_2TLValRij0xmu44ofAxHgExAvvI7DbwbNw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.010552999999959,51.5401886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Better Gym, Romford</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/bhp81k2llujb7pdsitmpkti8a8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZqJjzsLHpvxD6wwOP6XQcPx3RYm5UGgHp19gRk2vbX8lDw9AHb_uWdwzmUC7cb0IHGDtO_MwAZEucFUUMiqendcuVBnwew4tC5cDvm5N6OcPkYB-s1CWKmbc86znmwMnjvxYfZLhgL4FwZg3U-c0KXR5fagLx8cNNKIjzzRc07dgqaW87g302uxi_xzwCNPKI?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/bhp81k2llujb7pdsitmpkti8a8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZqJjzsLHpvxD6wwOP6XQcPx3RYm5UGgHp19gRk2vbX8lDw9AHb_uWdwzmUC7cb0IHGDtO_MwAZEucFUUMiqendcuVBnwew4tC5cDvm5N6OcPkYB-s1CWKmbc86znmwMnjvxYfZLhgL4FwZg3U-c0KXR5fagLx8cNNKIjzzRc07dgqaW87g302uxi_xzwCNPKI?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.182198200000016,51.5798894,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Better Gym Teddington</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/dr66189rvhbh794v8j8dc0bos0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYX-FGkoPIE_Te8jh_ERK9Z0MGRzbK-cWEyz9vBbW7U3JBUtOBNWjE31sGQnrau6dWtSySSn0mfUgUZGEJwJIh5-pGe_517peWrfzjkx_VYNP2vXAXAzqFpzuwv5-ta8rg4HqOaH88c59jroQ0pIK8NkxoLgR2bsSMmQDfYtMU3VWM6Bgi84oXYdfl2wxpjaNQ?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/dr66189rvhbh794v8j8dc0bos0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYX-FGkoPIE_Te8jh_ERK9Z0MGRzbK-cWEyz9vBbW7U3JBUtOBNWjE31sGQnrau6dWtSySSn0mfUgUZGEJwJIh5-pGe_517peWrfzjkx_VYNP2vXAXAzqFpzuwv5-ta8rg4HqOaH88c59jroQ0pIK8NkxoLgR2bsSMmQDfYtMU3VWM6Bgi84oXYdfl2wxpjaNQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.338610000000017,51.4258253,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chingford Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/tabgb5ab4m587o6dla6g374e2k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYuGRGpKKx7ZPqtwOfCC84e4-57U4PuP0fumL_dKRZCkVnRHYl5YxrwZtStr0oerMtmYTTCxNptsIwzlv95JvMuCt0wEhMDEVYleiTXugETzGq9sl-0NGYlaE_JsCCV1JRmh_GLbQa87CPFJAeFteXW-KbaiY-xP4emCL0w-Ruuws4pA6szQdYnuCzDBOY1s3E?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ke0mmsohv7t4tmfkfmi25g9kj8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vafChsFrchHLqCnkKdXnyOEb1eUh6ZOsnENOawv6lM-rIxGMSSoDH1EloEfCGeyHzpjSho_gKwfC8VZoRldoVJlogrjYuMt9Vsonltd5Gi9lKysvrFuFiSP_3VkpVKcZqvwKns92TLo_QXCRjNfrJDg74fGqZ-W2cJ3IKQ2PP-Eg8NDEWxprgvIJ-kEVTTwbMc?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/tabgb5ab4m587o6dla6g374e2k/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYuGRGpKKx7ZPqtwOfCC84e4-57U4PuP0fumL_dKRZCkVnRHYl5YxrwZtStr0oerMtmYTTCxNptsIwzlv95JvMuCt0wEhMDEVYleiTXugETzGq9sl-0NGYlaE_JsCCV1JRmh_GLbQa87CPFJAeFteXW-KbaiY-xP4emCL0w-Ruuws4pA6szQdYnuCzDBOY1s3E?session=0&fife https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ke0mmsohv7t4tmfkfmi25g9kj8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vafChsFrchHLqCnkKdXnyOEb1eUh6ZOsnENOawv6lM-rIxGMSSoDH1EloEfCGeyHzpjSho_gKwfC8VZoRldoVJlogrjYuMt9Vsonltd5Gi9lKysvrFuFiSP_3VkpVKcZqvwKns92TLo_QXCRjNfrJDg74fGqZ-W2cJ3IKQ2PP-Eg8NDEWxprgvIJ-kEVTTwbMc?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.00577720000001136,51.6172186,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drapers Field Recreation Ground</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/mhdum3e5h7outac92umb5ptje0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYs3f8MVKzcllUYFFbs1cv9rNG0X5wY7OlMBb8TE3Hem8Kd-nvLq2mgCCyVGCoC-hPAGTXTNqXZya4fEOUr8DUKGBm9NUWygVpd26EkkvjXavBg9mZSnBVlWwdRfz8zTpureM6InUtL-Kct9BQVEqsOVBYXjRtDVz2UJTDjSCID6Hzufalos4LJSKTRtnxoN0c?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1696-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/mhdum3e5h7outac92umb5ptje0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYs3f8MVKzcllUYFFbs1cv9rNG0X5wY7OlMBb8TE3Hem8Kd-nvLq2mgCCyVGCoC-hPAGTXTNqXZya4fEOUr8DUKGBm9NUWygVpd26EkkvjXavBg9mZSnBVlWwdRfz8zTpureM6InUtL-Kct9BQVEqsOVBYXjRtDVz2UJTDjSCID6Hzufalos4LJSKTRtnxoN0c?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.00462279999999282,51.551112,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leyton Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8lq9e70tqirsjlslhop9u7rtso/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZwkWX7v5NhqlZvyfCGBDAOCgwVbZdVo6oUiz7V7haVtq-s0YaBqapbbqka0SsxE750QjOzgcMzxn2KQ8dqNSYHg9843E6yChs6af6jdwf7olfi13dkXxQtgdir0MoTpCru3mG60Ls6SA61zDJ9zEjBixggAHjyqPdtBpkf6szTnj-jSwUq4XPHXJoflSAtMVk?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/c15dhh5ru1c1s0ek1sakktqn04/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZst8Hcb3MrcJlsZlOsJOhiAhgsgblBjm9I6ZTy0quSC9rfCJ__k5tKHKHNcJNUmycK52eEq8q-dq_Ddb6EzSqK5jmOHBi0JRL9VLvHS00NJ_XB5FHMo4LTmrLFA7JRiZGEKnQvWzWN6VC5kZ96U93yYHC3x4zZod515W3EcvcIuWoC6k8MuiTZCISjVgfLqZA?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8lq9e70tqirsjlslhop9u7rtso/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZwkWX7v5NhqlZvyfCGBDAOCgwVbZdVo6oUiz7V7haVtq-s0YaBqapbbqka0SsxE750QjOzgcMzxn2KQ8dqNSYHg9843E6yChs6af6jdwf7olfi13dkXxQtgdir0MoTpCru3mG60Ls6SA61zDJ9zEjBixggAHjyqPdtBpkf6szTnj-jSwUq4XPHXJoflSAtMVk?session=0&fife https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/c15dhh5ru1c1s0ek1sakktqn04/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZst8Hcb3MrcJlsZlOsJOhiAhgsgblBjm9I6ZTy0quSC9rfCJ__k5tKHKHNcJNUmycK52eEq8q-dq_Ddb6EzSqK5jmOHBi0JRL9VLvHS00NJ_XB5FHMo4LTmrLFA7JRiZGEKnQvWzWN6VC5kZ96U93yYHC3x4zZod515W3EcvcIuWoC6k8MuiTZCISjVgfLqZA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.00928999999996449,51.573424,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leytonstone Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/6rf5cp3so14laq4cj10f70pgr8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY6SThh7dN5Epl0VEW8jR0F1WWe1bR_ozGdV00lquIpRWV3x__9zLOaTOdLKL9loTY0-lYwO0IsiEHhtj1N7mG4YVRmc2SHHf27G--3nSB33KCYjXaLkVftn-vnRCSivhB0QJmH_a9oY-eNOAN_9GtB5hG3NrAzICfEerSY1SCcMWbst5aT7zKqa0pn5PSYiog?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/6rf5cp3so14laq4cj10f70pgr8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY6SThh7dN5Epl0VEW8jR0F1WWe1bR_ozGdV00lquIpRWV3x__9zLOaTOdLKL9loTY0-lYwO0IsiEHhtj1N7mG4YVRmc2SHHf27G--3nSB33KCYjXaLkVftn-vnRCSivhB0QJmH_a9oY-eNOAN_9GtB5hG3NrAzICfEerSY1SCcMWbst5aT7zKqa0pn5PSYiog?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.00448019999998905,51.5599748,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peter May Sports Centre</name>
+      <description><![CDATA[<img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8v766sdoq20ktfk9npuv39cp5s/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZisYEIs6SaBZ3gm8-H4NawQCr9cfSiYs-H6VJnn_7eQm79JIaGspSd6Z0zX9E7pL1Yg-hoqF1UXrc0JiuUKwFXDtCdZoVSwN3O3ejpGywBpxHTQN_6QUcq3I6yLw2MYukWyX7mlcy510Mkd95sQLJzaRrwoZTbZix8S59EFitbhKKwBWnV7kfNMRd2oRTiegM?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3ull9qil42pquporc7t6dhnlfk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbhZCc-LBtnYaMPJ9RgV2GXo3fwyd9z2XO7ZyfcmR-k3IbVcZqTHuod80l2jsX-Jp9A5WtPR84mey0XRnh07ExzAJeVZTqcKgyv4gFMcI357C0ubm3Q5U9n5Xk0MGDIMXjTpbVRYuvnzyEXh8LSVMeJld5lok8S6Z9WUu7XelmRcrOC6c6ewdVSFZ7STcXLrQ?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8v766sdoq20ktfk9npuv39cp5s/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZisYEIs6SaBZ3gm8-H4NawQCr9cfSiYs-H6VJnn_7eQm79JIaGspSd6Z0zX9E7pL1Yg-hoqF1UXrc0JiuUKwFXDtCdZoVSwN3O3ejpGywBpxHTQN_6QUcq3I6yLw2MYukWyX7mlcy510Mkd95sQLJzaRrwoZTbZix8S59EFitbhKKwBWnV7kfNMRd2oRTiegM?session=0&fife https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3ull9qil42pquporc7t6dhnlfk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbhZCc-LBtnYaMPJ9RgV2GXo3fwyd9z2XO7ZyfcmR-k3IbVcZqTHuod80l2jsX-Jp9A5WtPR84mey0XRnh07ExzAJeVZTqcKgyv4gFMcI357C0ubm3Q5U9n5Xk0MGDIMXjTpbVRYuvnzyEXh8LSVMeJld5lok8S6Z9WUu7XelmRcrOC6c6ewdVSFZ7STcXLrQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.00894800000003215,51.602922,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ridgeway Park Tennis Hub</name>
+      <description><![CDATA[<img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/9ckgfntnp78aqicpegfa6fec1c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaWZ46AU7Hsi1XYJT4anEPrDt3dZsh0a_B4tDLegSn4zeYWQMFxsVllprjtwi1h5kcGd4r3Afk6loCbifH4LdEBw2A7FQxivGWxaOIg2_3HYgdl5K3EJj11OvRFFkusKNBDwyk0_UvMq_sSp-7SrMdsdIEnW9idcx9ewGpZ7HCuvQkqGQ43WyD_XqldNncpz8U?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1707-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/9ckgfntnp78aqicpegfa6fec1c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaWZ46AU7Hsi1XYJT4anEPrDt3dZsh0a_B4tDLegSn4zeYWQMFxsVllprjtwi1h5kcGd4r3Afk6loCbifH4LdEBw2A7FQxivGWxaOIg2_3HYgdl5K3EJj11OvRFFkusKNBDwyk0_UvMq_sSp-7SrMdsdIEnW9idcx9ewGpZ7HCuvQkqGQ43WyD_XqldNncpz8U?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0097685000000638,51.6258753,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waltham Forest Feel Good Centre</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/1ffq1mr23g7rmbnmvqbmugqp3s/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb_BmP-Po7-BlXFO-wDjwbzJSzup9DR5sL02nL7qle9h9l3iZM18uWbrQOhg135GLEycvkFUWzyGz7c_g7ybTFSBZElfAQcKwMr0DRzWcyK3i652Eshcs6lI-PydbwgVmXxQ7S-3cCSwNJnaV1TQkSGhPzwfYum-Elgfe-kPHHs78HpI4SEs3YAD9wb_l-PSZk?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ji3ve9n6cam3h5apf9l4ajkp94/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbMyjgQYAkAR12wIqY3T2qKz7Ik-0cmV1S5qcQV21Lzf1z9gXYtlO-vaZVXFd66isc8Faokd88RthNGWHlu0bPNUoYYuTyoFrcGASnQg4p6TBDK_rGiFJPuj8b3z1rBQ8JSTyGdKN2tNloZUJVb2B1vy7NdZsXnPaxD5emvVPl8VWhlHLumOqgNmhROobFqfWo?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/dl1uh05oovth326a9nf00o22a4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZgBs50dJsRW4LEytoxQig9aIyZViE8T9ZncnczqDgMHstyn5h6TmFqAA4fRd0cga9zTh4PSoPXRiPqM9GP01ietLg1Htg7Z9mfdcMqRFcufBsbR0vSoH9ZQaW6aitsMT9NyqldjV1FhFKJlGsuxZUWVjONd799Q2cMfXI4aMiTkHxxI7yzZykrQs09q3Mgr60?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/1ffq1mr23g7rmbnmvqbmugqp3s/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb_BmP-Po7-BlXFO-wDjwbzJSzup9DR5sL02nL7qle9h9l3iZM18uWbrQOhg135GLEycvkFUWzyGz7c_g7ybTFSBZElfAQcKwMr0DRzWcyK3i652Eshcs6lI-PydbwgVmXxQ7S-3cCSwNJnaV1TQkSGhPzwfYum-Elgfe-kPHHs78HpI4SEs3YAD9wb_l-PSZk?session=0&fife https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ji3ve9n6cam3h5apf9l4ajkp94/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbMyjgQYAkAR12wIqY3T2qKz7Ik-0cmV1S5qcQV21Lzf1z9gXYtlO-vaZVXFd66isc8Faokd88RthNGWHlu0bPNUoYYuTyoFrcGASnQg4p6TBDK_rGiFJPuj8b3z1rBQ8JSTyGdKN2tNloZUJVb2B1vy7NdZsXnPaxD5emvVPl8VWhlHLumOqgNmhROobFqfWo?session=0&fife https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/dl1uh05oovth326a9nf00o22a4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZgBs50dJsRW4LEytoxQig9aIyZViE8T9ZncnczqDgMHstyn5h6TmFqAA4fRd0cga9zTh4PSoPXRiPqM9GP01ietLg1Htg7Z9mfdcMqRFcufBsbR0vSoH9ZQaW6aitsMT9NyqldjV1FhFKJlGsuxZUWVjONd799Q2cMfXI4aMiTkHxxI7yzZykrQs09q3Mgr60?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.014393000000041,51.593435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Walthamstow Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/tus2c28132bem8k0ueafen2fug/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbBPnmsLLV4DR4QN_2bLD5WPHlslcO-4QY42lZk5iJSSKKZl_MPQUqKY9dMzh4qSpQUGhoOuf-3YJRh3A1hPSlAgO2-Fh3yR6LvxEcZ-JHK-a3glG2C8xzHDd657t22oI8tXTC0z-FLtsZSgfxYAwHsitGz7gYc-QvKM7vuFUgm2H0Lb2-nVGuJZtM9k5ef5HI?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/39ppf5vvshnt6tedd62ggvpeis/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY3PPAp0esbECnZ5P42yoSRQ7Tzi6Hyj3kOFqdfm6H7aJELRALMNqD3tD4iJJGAz97y8Bt71jwIEBpaOSj0n8tLYh4V_7Fg0Tg3ASrd-hz37GawOcHgYiv1h74Ejqqt3xRAix3juFBdRdqVW-rCQx2iFJB5kBJMbC31VwF1eL4uL6Sj4lm4m0LW00V8S2urqAk?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3r93067j3dmamdkl6dfkvo27d4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb5yWTHCETJsxIFlbvQkkLcsy0wteMJkVP-qZzx7rB0qRPnXiqNCu9TWBkAfDcCMJ0CizlhxooQZPLm-_O8pt1bEqn999ao-atER2IGCiW0BYEZtStaRxNA6oW-56U0LdMTfDQMEye2u5Rp7nPqQhhp6peOYnzRTlAJWi8NpowXiUj6vxFaq0JCwwUQ_WQqtE4?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/tus2c28132bem8k0ueafen2fug/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbBPnmsLLV4DR4QN_2bLD5WPHlslcO-4QY42lZk5iJSSKKZl_MPQUqKY9dMzh4qSpQUGhoOuf-3YJRh3A1hPSlAgO2-Fh3yR6LvxEcZ-JHK-a3glG2C8xzHDd657t22oI8tXTC0z-FLtsZSgfxYAwHsitGz7gYc-QvKM7vuFUgm2H0Lb2-nVGuJZtM9k5ef5HI?session=0&fife https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/39ppf5vvshnt6tedd62ggvpeis/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY3PPAp0esbECnZ5P42yoSRQ7Tzi6Hyj3kOFqdfm6H7aJELRALMNqD3tD4iJJGAz97y8Bt71jwIEBpaOSj0n8tLYh4V_7Fg0Tg3ASrd-hz37GawOcHgYiv1h74Ejqqt3xRAix3juFBdRdqVW-rCQx2iFJB5kBJMbC31VwF1eL4uL6Sj4lm4m0LW00V8S2urqAk?session=0&fife https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3r93067j3dmamdkl6dfkvo27d4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb5yWTHCETJsxIFlbvQkkLcsy0wteMJkVP-qZzx7rB0qRPnXiqNCu9TWBkAfDcCMJ0CizlhxooQZPLm-_O8pt1bEqn999ao-atER2IGCiW0BYEZtStaRxNA6oW-56U0LdMTfDQMEye2u5Rp7nPqQhhp6peOYnzRTlAJWi8NpowXiUj6vxFaq0JCwwUQ_WQqtE4?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0285992999999962,51.5758523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Better Gym, Mitcham</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/lbfo2pjm397bf2enqdf1akgtdo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY-eWRlzztHPZCGm2SiJarsq0MfD1oLDgkEkNwSVPUdIZfsvAO88j6Tftthw_g6ofw6Hct5aRP8nEdwsQmnvAEKPWHo0p49kSObxCPRQutCp2HlxtPkiFWmwMEPiXQXZ1qzw0bMI1UquQOMUtL7-ZmHlA6uvcInAPGajpBydD4RpYvRuAgASaP8tIH9KIdJ9jU?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/lbfo2pjm397bf2enqdf1akgtdo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY-eWRlzztHPZCGm2SiJarsq0MfD1oLDgkEkNwSVPUdIZfsvAO88j6Tftthw_g6ofw6Hct5aRP8nEdwsQmnvAEKPWHo0p49kSObxCPRQutCp2HlxtPkiFWmwMEPiXQXZ1qzw0bMI1UquQOMUtL7-ZmHlA6uvcInAPGajpBydD4RpYvRuAgASaP8tIH9KIdJ9jU?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.162737300000003,51.406022,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Canons Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/emmbf59q8rdl0vf9fa9h6eggbc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZV0h1WofeA02jXt4SKI8XgkWCWWIbqLkufj6R098zxKQO7oA4x4HY214RzQFXYS7N6bZhc_1qJGRnY9CLtJt_7dxSV2MI2Oppkf3Jsgbvo4BpCKSJcJEwkgAShWFZeLRWQb6PYxEHjdrea9L7otrckhNcNdxbA_LATyJP9CrbeV5Y81VC7xiMszT8t2gRe2Ik?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/emmbf59q8rdl0vf9fa9h6eggbc/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZV0h1WofeA02jXt4SKI8XgkWCWWIbqLkufj6R098zxKQO7oA4x4HY214RzQFXYS7N6bZhc_1qJGRnY9CLtJt_7dxSV2MI2Oppkf3Jsgbvo4BpCKSJcJEwkgAShWFZeLRWQb6PYxEHjdrea9L7otrckhNcNdxbA_LATyJP9CrbeV5Y81VC7xiMszT8t2gRe2Ik?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1629547,51.4003792,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morden Park Pools</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/q88rojhtmesnu8jrkarl8dph4g/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaycdN0PijJkuIGAn0D7G9a_dmKeA8S27JGOOXojzbGhPr0CXy50hyeboa9gZQTkGeQ0NPh4CEKWCotqSt4OzKvjDTMQ5sp5yMbtGH4PcTLNL94_6cut2fLtSHTLtg_lkL5RyXLMWmBIabHv9V9JTc67j47eh5mlXOiqsU2UQA9mM091jBdpU_Iy_0VJHceUrk?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/q88rojhtmesnu8jrkarl8dph4g/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaycdN0PijJkuIGAn0D7G9a_dmKeA8S27JGOOXojzbGhPr0CXy50hyeboa9gZQTkGeQ0NPh4CEKWCotqSt4OzKvjDTMQ5sp5yMbtGH4PcTLNL94_6cut2fLtSHTLtg_lkL5RyXLMWmBIabHv9V9JTc67j47eh5mlXOiqsU2UQA9mM091jBdpU_Iy_0VJHceUrk?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.205969999999979,51.392776,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodgym: Garden Transformations</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0it8p7cogmnfghhuilp17nrq98/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY4vpPPzTRZmINtkc4-WCFgZE8Evb1KYufzniLuln_PjKvtB8OfYgzlwXxZ3uGIB4t5T43xtj3IDpXcg3x4B-D8Ub9kbr1qdJZv5Svun9h-5EsYKkT7kidpOx8nP53jIXcgrA_RvFlHuf1SSsMkqtxkmmWfSHh8iKSnObbiTvyJUjQaaSswSlQ3KOrbr5h5Kpo?session=0&fife" height="200" width="auto" /><br><br>Run and do good: in this case gardening - lots more starting points in London.<br>https://www.goodgym.org/areas/haringey/happenings/group-runs ]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0it8p7cogmnfghhuilp17nrq98/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY4vpPPzTRZmINtkc4-WCFgZE8Evb1KYufzniLuln_PjKvtB8OfYgzlwXxZ3uGIB4t5T43xtj3IDpXcg3x4B-D8Ub9kbr1qdJZv5Svun9h-5EsYKkT7kidpOx8nP53jIXcgrA_RvFlHuf1SSsMkqtxkmmWfSHh8iKSnObbiTvyJUjQaaSswSlQ3KOrbr5h5Kpo?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.115733999999975,51.584298,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodgym: Barnet</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8kjk2dvb4nl6hemcdonr3843gk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaHPhzff1MWMG6-dS9YFIGIJon6VlSDEDkniaIU99YnmyTo0F57tp467sEaymG7YDZGzYddXvewMgcXMPpfLrifHFR4B70wDawK4AkmM1VyUgd1-mj2G9MfUn4Ivi90Cu_woJJsA6-XhdPMO7pkpxu-AVLtpbzn_OkZFrVC4sEG5qdKYe7AWzwcT2WXGMN2J7k?session=0&fife" height="200" width="auto" /><br><br>Run and do Good every Tuesday 6:45pm:<br>https://www.goodgym.org/areas/barnet]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8kjk2dvb4nl6hemcdonr3843gk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaHPhzff1MWMG6-dS9YFIGIJon6VlSDEDkniaIU99YnmyTo0F57tp467sEaymG7YDZGzYddXvewMgcXMPpfLrifHFR4B70wDawK4AkmM1VyUgd1-mj2G9MfUn4Ivi90Cu_woJJsA6-XhdPMO7pkpxu-AVLtpbzn_OkZFrVC4sEG5qdKYe7AWzwcT2WXGMN2J7k?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1641553,51.588499,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[goodgym The St Pancras & Somers Town Living Centre]]></name>
+      <description><![CDATA[Run and do good every Wednesday at 18:45: <br>https://www.goodgym.org/areas/camden/group-runs ]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -0.12978499999997,51.5310901,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodgym: Run starts here: Bodyline Fitness Personal Training Gym</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/oavb059okdrbc97nnonmau4vc4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY7hPn5UvNDvir6V0WQdVRctZfXpdWWeru8CK5THjhUQEl1vkP8P800mIZfDkNTM9YB_Rr5UtNNncDgsZNfo6LbkwVhW4JZSzYU6iGzst1LARHMSomTnnY5MHZmx5_2_WTkvj9g9TW5qVqgCNz8XDUNK2kpJ-ASi2hOCTt_I3_kp6kQTzvTdJy9MU7IPQqsiTk?session=0&fife" height="200" width="auto" /><br><br>goodgym; Run and do good every Tuesday 6:45pm https://www.goodgym.org/areas/ealing/group-runs]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/oavb059okdrbc97nnonmau4vc4/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vY7hPn5UvNDvir6V0WQdVRctZfXpdWWeru8CK5THjhUQEl1vkP8P800mIZfDkNTM9YB_Rr5UtNNncDgsZNfo6LbkwVhW4JZSzYU6iGzst1LARHMSomTnnY5MHZmx5_2_WTkvj9g9TW5qVqgCNz8XDUNK2kpJ-ASi2hOCTt_I3_kp6kQTzvTdJy9MU7IPQqsiTk?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.304584999999975,51.514047,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodgym run starts here: Queen Anne Court, University of Greenwich</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/knejnnvi77k3nfjbtqha4147eo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbHaohqxnNUzXiODxN21QQ3IHWW2QB8LK4ziDGpVAvmiEU84qejEPu0YHO0PWKsoGFtKmwnDBlfrLIvMXKnP1wBGgsSJ7YjTfpW80i1oGvZ5tcNWdW0RItKJDeWau-YJlvXg2bz227rV1Cv8Sp9_bmFgtdZrSAOpo-2ZaquBb8CQvhXVLzgPMwsKkX8UI_wYvI?session=0&fife" height="200" width="auto" /><br><br>Run and do good every Wednesday 6:45pm: https://www.goodgym.org/areas/greenwich/group-runs]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/knejnnvi77k3nfjbtqha4147eo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbHaohqxnNUzXiODxN21QQ3IHWW2QB8LK4ziDGpVAvmiEU84qejEPu0YHO0PWKsoGFtKmwnDBlfrLIvMXKnP1wBGgsSJ7YjTfpW80i1oGvZ5tcNWdW0RItKJDeWau-YJlvXg2bz227rV1Cv8Sp9_bmFgtdZrSAOpo-2ZaquBb8CQvhXVLzgPMwsKkX8UI_wYvI?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0049900000000207,51.484012,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodgym: Hammersmith Fitness and Squash Centre</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/qfleob1aq8l8ljuf40j9e2eq8c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYcjSw9ttMqa54fUKIvHWIZPc94eLeyK8F8VUBhCCnjBveDRx5xPTH1Tnhvz2yBMh-cCjMjXWxpngowEmOBNcyBiUm15CdiiYKXaZeUBuvqqUwq3SMMwbBQaiTeDIVG71hn6OP8BLS66-WozAlSkKYexI3Nztj_SETzYFQOwOQXJeDcOmih2PlS8h8viIBE0Nw?session=0&fife" height="200" width="auto" /><br><br>Run and do Good every Tuesday 6:45pm:<br>https://www.goodgym.org/areas/hammersmith-and-fulham/group-runs]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/qfleob1aq8l8ljuf40j9e2eq8c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYcjSw9ttMqa54fUKIvHWIZPc94eLeyK8F8VUBhCCnjBveDRx5xPTH1Tnhvz2yBMh-cCjMjXWxpngowEmOBNcyBiUm15CdiiYKXaZeUBuvqqUwq3SMMwbBQaiTeDIVG71hn6OP8BLS66-WozAlSkKYexI3Nztj_SETzYFQOwOQXJeDcOmih2PlS8h8viIBE0Nw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.2222016,51.4920822,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodgym: PAPA’s Park</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/uclngp3n99rmd0ujpbau8itn70/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbjM4CK71qiBvcbEnSCgWEzbGMd3b5EqTMpOnbrcCIjaOhWzg6kLxBZs7tX7h3Q0vZDWoniWB3yGcbS2pDnzQVLB2pFg477WIAN1vryhd5ML-DYzwp0EsteWp1HNUBI-k_UgP_7DXMuvuS9A36VZBpbGh-2KLhgL51ANAa6qIeDmVrA0oOFDMoKYZbWN0wk2GE?session=0&fife" height="200" width="auto" /><br><br>Run and do Good every Tuesday 6:45pm: <br>https://www.goodgym.org/areas/lambeth/group-runs]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/uclngp3n99rmd0ujpbau8itn70/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbjM4CK71qiBvcbEnSCgWEzbGMd3b5EqTMpOnbrcCIjaOhWzg6kLxBZs7tX7h3Q0vZDWoniWB3yGcbS2pDnzQVLB2pFg477WIAN1vryhd5ML-DYzwp0EsteWp1HNUBI-k_UgP_7DXMuvuS9A36VZBpbGh-2KLhgL51ANAa6qIeDmVrA0oOFDMoKYZbWN0wk2GE?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.117838200000051,51.4640881,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodgym: Glass Mill Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/c838v96ih9merifvlo63qu2tdo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZJYlxRMvKIagDZ37rQJkvNNRlK0BC11v1Tfy8HpJaSTmL_nx3IyZ2YEiF8pABpKPLsKd2Jkrmsxz9Wq-0Vv723vgxE8bVsEV7d0VnN6ixXBg7hB2cBXXEPFeFDo26WkdJLs7xhDqDml7I5nYTcUARPc1Ewsk20gcQQdY2IHNvlgI8OcVrzqsTGbBEYK2NgEX4?session=0&fife" height="200" width="auto" /><br><br>Run and do Good every Monday 6:45pm: <br>https://www.goodgym.org/areas/lewisham/group-runs]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/c838v96ih9merifvlo63qu2tdo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZJYlxRMvKIagDZ37rQJkvNNRlK0BC11v1Tfy8HpJaSTmL_nx3IyZ2YEiF8pABpKPLsKd2Jkrmsxz9Wq-0Vv723vgxE8bVsEV7d0VnN6ixXBg7hB2cBXXEPFeFDo26WkdJLs7xhDqDml7I5nYTcUARPc1Ewsk20gcQQdY2IHNvlgI8OcVrzqsTGbBEYK2NgEX4?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0137971999999991,51.464061,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodgym: Whole Foods Market</name>
+      <description><![CDATA[<img src="https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/91rh6udsi3qvublbqhbfou0jkg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZHxxTzgaO2CW_Q1Wqu7lq583RplE22NmzYsD_mv-qeJ-qicneaPkxL-oZbdedz9KjNkVDKvik-3D2jKBzR6NlDsaXKX5czs8UUQOUt0l-qIzL3xygrzhUEZRhkQfCVv5uduYPYB66J5SjBWsTI4wsNtGuq6eW17DWc7yqlr_NH04DRVG1WIjbdaVjK09y734s?session=0&fife" height="200" width="auto" /><br><br>Run and do Good every Monday 6:45pm: <br>https://www.goodgym.org/areas/richmond/group-runs]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/91rh6udsi3qvublbqhbfou0jkg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZHxxTzgaO2CW_Q1Wqu7lq583RplE22NmzYsD_mv-qeJ-qicneaPkxL-oZbdedz9KjNkVDKvik-3D2jKBzR6NlDsaXKX5czs8UUQOUt0l-qIzL3xygrzhUEZRhkQfCVv5uduYPYB66J5SjBWsTI4wsNtGuq6eW17DWc7yqlr_NH04DRVG1WIjbdaVjK09y734s?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.303067499999997,51.4610281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodgym - Peckham Rye</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/7c4nunjbskvq28pp945f3aa6bo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbAzt0Pz4xw7phH_KKKfil2WuepVqpjEm0A_cOGNVZnl9SYPPR0h5ecT4-dAVkgL9l2N59xwyX7zWQGxY--h8vMH0PPVXofLehi07wDk3_iv76Qan9gsXw9QdTer1OEp7NtJC4BcVlm0PfF4HTIoT_ACP38l19PKe0Z_6fQKz3prFGC--FLaz5syTGOxWnqTc0?session=0&fife" height="200" width="auto" /><br><br>Run and do Good every Wednesday 6:45pm:<br>https://www.goodgym.org/areas/southwark/group-runs]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/7c4nunjbskvq28pp945f3aa6bo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbAzt0Pz4xw7phH_KKKfil2WuepVqpjEm0A_cOGNVZnl9SYPPR0h5ecT4-dAVkgL9l2N59xwyX7zWQGxY--h8vMH0PPVXofLehi07wDk3_iv76Qan9gsXw9QdTer1OEp7NtJC4BcVlm0PfF4HTIoT_ACP38l19PKe0Z_6fQKz3prFGC--FLaz5syTGOxWnqTc0?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0665073,51.4649506,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[goodgym: Town Hall Hotel & Apartments]]></name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/nqro4s6egvh64ja3jfaovg07os/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYx9slxUe-n4bkK4zSUXbKyzn5HfhwI7A0tIP_cIBOeLj3iCnnAXuvCW7nqjp4B-8uUptdg6-cPHtroCqr0l_obz7e_UYX3F2vjPxanBCC6GolZ9gfAsjAx6QRf3mcSSpMXk8NLr3gnUax3syK0xqkF0s13bDXnqF0m1OlcO4j-2NWFnMoxUaZp5Te9IA29HiM?session=0&fife" height="200" width="auto" /><br><br>Run and do Good every Monday 6:45pm: <br>https://www.goodgym.org/areas/tower-hamlets/group-runs]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/nqro4s6egvh64ja3jfaovg07os/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYx9slxUe-n4bkK4zSUXbKyzn5HfhwI7A0tIP_cIBOeLj3iCnnAXuvCW7nqjp4B-8uUptdg6-cPHtroCqr0l_obz7e_UYX3F2vjPxanBCC6GolZ9gfAsjAx6QRf3mcSSpMXk8NLr3gnUax3syK0xqkF0s13bDXnqF0m1OlcO4j-2NWFnMoxUaZp5Te9IA29HiM?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0557420000000093,51.53048,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodGym: Mirth, Marvel and Maud</name>
+      <description><![CDATA[<img src="https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/q9263e6u9j4k3qv5oe6h5fup8s/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZJv627XjPOGgSnjXaJkefl7nKMndRKvVOtA7ICxVIhqaLfTTtEjmHc9oSGJM6x1Pt6--sHX5H9KZb71zMrLhpzdb7W-VYIgp7GtTbBgtKxdY9GFbf7P8wx1-pXvTtmRttXToUcmhbJ0aU1ney1_iTvYaMRI8Nc6ej0cZeEUPpDswlUogyW4GFGbz1ThkPSyk8?session=0&fife" height="200" width="auto" /><br><br>Run and do Good every Wednesday 6:45pm: <br>https://www.goodgym.org/areas/waltham-forest/group-runs]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/q9263e6u9j4k3qv5oe6h5fup8s/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZJv627XjPOGgSnjXaJkefl7nKMndRKvVOtA7ICxVIhqaLfTTtEjmHc9oSGJM6x1Pt6--sHX5H9KZb71zMrLhpzdb7W-VYIgp7GtTbBgtKxdY9GFbf7P8wx1-pXvTtmRttXToUcmhbJ0aU1ney1_iTvYaMRI8Nc6ej0cZeEUPpDswlUogyW4GFGbz1ThkPSyk8?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0199589999999716,51.5860805,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodgym Wandsworth</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3tq7mhmmrek2olffpb1ds6b91s/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb4BiWDkbSyE4vipI-cl2ZnOx7ZLRkl67mE9EAcXXs-JvjSAZwkEXboaGtlCaAdRVWSQ6r9ho_rlHtqqLqO3ZgiLqgeERtU6GdqymrkueNgEji_NdRzDnOkDreUSTFumrfhU5ibe05zzijk5iVc7RXmUo22y2pG_DOaTj6DQOIDvId5U84QwqUgBDEJKH9qhcg?session=0&fife" height="200" width="auto" /><br><br>Run and do Good every Monday 6:45pm: <br>https://www.goodgym.org/areas/wandsworth/group-runs]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3tq7mhmmrek2olffpb1ds6b91s/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb4BiWDkbSyE4vipI-cl2ZnOx7ZLRkl67mE9EAcXXs-JvjSAZwkEXboaGtlCaAdRVWSQ6r9ho_rlHtqqLqO3ZgiLqgeERtU6GdqymrkueNgEji_NdRzDnOkDreUSTFumrfhU5ibe05zzijk5iVc7RXmUo22y2pG_DOaTj6DQOIDvId5U84QwqUgBDEJKH9qhcg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.160695300000043,51.4648502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodgym: Westminster</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/24s0l700qh40tp7opnd1pm5mt0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZLo5Vcs2qP_p42rlb09C29CGjTmbaRbEF1osXYuZGthul0nyW8R3QEm4Le81KNTgV9SGUALHx0eFx2dONgF2EHCroG_pGx1eBX1HQGaOVSikfEZQCAJmRicFymfSeUheNBRhvDcj9EQVZ9eICYxfOdvHGMsBfqTnkdhHNE-f9dQ_zk4RSQQr-jKVq32AF70Bs?session=0&fife" height="200" width="auto" /><br><br>Run and do Good every Wednesday 6:15pm: <br>https://www.goodgym.org/areas/westminster/group-runs]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/24s0l700qh40tp7opnd1pm5mt0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZLo5Vcs2qP_p42rlb09C29CGjTmbaRbEF1osXYuZGthul0nyW8R3QEm4Le81KNTgV9SGUALHx0eFx2dONgF2EHCroG_pGx1eBX1HQGaOVSikfEZQCAJmRicFymfSeUheNBRhvDcj9EQVZ9eICYxfOdvHGMsBfqTnkdhHNE-f9dQ_zk4RSQQr-jKVq32AF70Bs?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.143803599999956,51.5149099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>West Reservoir Centre</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8hrksftec6edttd1a02j3mjs90/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vanrrpzY5oPjmr5SvWHqpchf3m6dt1yCSPk9lqS90B6KxMTiE65Etxl5nC4Okigq6Y5NSI5iue8CtJf1e1kdFAvwxSm8ia-sjuKk1qPie8LehCvekliI2pa_FLGyuapxBZMDbbBXs1us-I66Pfr-mPfXdIeM9xoDt1x8LN0eHcKRAFYYVoAPh_wSiBMx6dq-dY?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1681-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/8hrksftec6edttd1a02j3mjs90/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vanrrpzY5oPjmr5SvWHqpchf3m6dt1yCSPk9lqS90B6KxMTiE65Etxl5nC4Okigq6Y5NSI5iue8CtJf1e1kdFAvwxSm8ia-sjuKk1qPie8LehCvekliI2pa_FLGyuapxBZMDbbBXs1us-I66Pfr-mPfXdIeM9xoDt1x8LN0eHcKRAFYYVoAPh_wSiBMx6dq-dY?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.091437199999973,51.5667919,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sobell Leisure Centre</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/om3b4rlk6lejmte6t1198pe9os/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYdNlc6hEIBilSxaMTVsbCLIs5MVNdBAgc-u2oecM9t0wW4-YDkN4vBT1ticVQFDFpC2WoKA1nXd7NOZHwff8sJM0WLlanE7XhjUpTo44OXFYkeKeXIxqQ1RdUONuCShT8lxXTre0PEMoKaDTf0MZa3nBeVZSoLqf3BQyXIuiveazxnaYISxJLvT7L5FRs39AY?session=0&fife" height="200" width="auto" /><br><br>Hornsey Rd, London N7 7NY]]></description>
+      <styleUrl>#icon-1589-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/om3b4rlk6lejmte6t1198pe9os/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYdNlc6hEIBilSxaMTVsbCLIs5MVNdBAgc-u2oecM9t0wW4-YDkN4vBT1ticVQFDFpC2WoKA1nXd7NOZHwff8sJM0WLlanE7XhjUpTo44OXFYkeKeXIxqQ1RdUONuCShT8lxXTre0PEMoKaDTf0MZa3nBeVZSoLqf3BQyXIuiveazxnaYISxJLvT7L5FRs39AY?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1122921,51.5588271,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>goodgym: Hackney</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/k8h48sv0ag21ukkq0phpi0eml8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va8caMiN-8lT_zrIYiz8ZDoQN-rzmM-i1s4t1ssvOkDLd7NV1-G42-r4MjaebMhhVJgC58lWqaGXHxsr-dQp6TMopbkfB_RN2f0a5BfZT606mzTg2dJgnkK0m9Hh-Wy0OedSQD42NegA2bBSQ_6aP6ZxiefKrqhVHlTRkTCpRJYsQodW_n0IgAI7Pt_rbumq4Q?session=0&fife" height="200" width="auto" /><br><br>Run and do Good every Tuesday 6:45pm: <br>https://www.goodgym.org/areas/hackney/group-runs]]></description>
+      <styleUrl>#icon-1680-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/k8h48sv0ag21ukkq0phpi0eml8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va8caMiN-8lT_zrIYiz8ZDoQN-rzmM-i1s4t1ssvOkDLd7NV1-G42-r4MjaebMhhVJgC58lWqaGXHxsr-dQp6TMopbkfB_RN2f0a5BfZT606mzTg2dJgnkK0m9Hh-Wy0OedSQD42NegA2bBSQ_6aP6ZxiefKrqhVHlTRkTCpRJYsQodW_n0IgAI7Pt_rbumq4Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.057624799999985,51.5411783,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calthorpe Project</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/n38nkcgn0od4pr7o8itited9ic/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbg_MFZN7PrL5-az5YgfYUeVD_tXakefQRy0NxhyH_ZlLa4hDnxarnEJkvzAJqQ3tse5qNV0tKOKTSNQRT-8mcdJFxtwoA5Fh8osoQbhYbzZRFSnxBMgyBtmC_JkB9H0zSUQ0pM2baLzxY7q7aATTyMVvFeinsR1bltBotBKD5RoYCCDT1SelgItSRmaEe-xVs?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1696-7CB342</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/n38nkcgn0od4pr7o8itited9ic/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbg_MFZN7PrL5-az5YgfYUeVD_tXakefQRy0NxhyH_ZlLa4hDnxarnEJkvzAJqQ3tse5qNV0tKOKTSNQRT-8mcdJFxtwoA5Fh8osoQbhYbzZRFSnxBMgyBtmC_JkB9H0zSUQ0pM2baLzxY7q7aATTyMVvFeinsR1bltBotBKD5RoYCCDT1SelgItSRmaEe-xVs?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.1172591,51.5267294,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Supply Yoga</name>
+      <description><![CDATA[Supply Yoga is an accessible neighbourhood studio that offers yoga at sustainable prices. They use the money that you spend on our yoga classes to help fund free yoga for community support service users across London. <br><br>https://supply.yoga/social-impact/]]></description>
+      <styleUrl>#icon-1737-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0506384999999909,51.5517416,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Foundry Vauxhall</name>
+      <styleUrl>#icon-1589-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.115530000000035,51.491333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Foundry</name>
+      <styleUrl>#icon-1589-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0929221000000098,51.5288117,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Selby centre Boxing Club</name>
+      <styleUrl>#icon-1761-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0789064000000508,51.6070741,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grove Adventure Playground</name>
+      <description>https://loughboroughjunction.org/grove-adventure-playground</description>
+      <styleUrl>#icon-1652-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1029127,51.468531,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spa Experience Old Street</name>
+      <description>Spa Experience by Better is an award winning concept, based on making day spas accessible and affordable for the whole community.</description>
+      <styleUrl>#icon-1811-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0945268,51.5264635,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spa Experience Swiss Cottage</name>
+      <description>Spa Experience by Better is an award winning concept, based on making day spas accessible and affordable for the whole community.</description>
+      <styleUrl>#icon-1811-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1727857,51.5423523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spa Experience Bethnal Green</name>
+      <description>Spa Experience by Better is an award winning concept, based on making day spas accessible and affordable for the whole community.</description>
+      <styleUrl>#icon-1811-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0552886,51.5296522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spa Experience Wimbledon</name>
+      <description>Spa Experience by Better is an award winning concept, based on making day spas accessible and affordable for the whole community.</description>
+      <styleUrl>#icon-1811-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -0.192729,51.419978,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spa Experience Waltham Forest</name>
+      <description>Spa Experience by Better is an award winning concept, based on making day spas accessible and affordable for the whole community.</description>
+      <styleUrl>#icon-1811-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -0.014393,51.593435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spa Experience, Welwyn Garden City</name>
+      <description>Spa Experience by Better is an award winning concept, based on making day spas accessible and affordable for the whole community.</description>
+      <styleUrl>#icon-1811-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -0.2125364,51.7907693,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spa Experience Kensington</name>
+      <description>Spa Experience by Better is an award winning concept, based on making day spas accessible and affordable for the whole community.</description>
+      <styleUrl>#icon-1811-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -0.2139714,51.5133343,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spa Experience Epsom</name>
+      <description>Spa Experience by Better is an award winning concept, based on making day spas accessible and affordable for the whole community.</description>
+      <styleUrl>#icon-1811-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -0.2628037,51.3371403,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tooting Bec Lido</name>
+      <description>Lido, Social enterprise</description>
+      <styleUrl>#icon-1701-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1391803,51.432008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

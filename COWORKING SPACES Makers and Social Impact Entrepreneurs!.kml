@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>COWORKING SPACES Makers and Social Impact Entrepreneurs!</name>
+    <Style id="icon-1531-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1531-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1531-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1531-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1531-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1546-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1546-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1546-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1546-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1546-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1546-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1546-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1546-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1546-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1546-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1547-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1547-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1547-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1547-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1547-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1635-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1635-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1635-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1635-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1635-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1820-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1820-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1820-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1820-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1820-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1856-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1856-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1856-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1856-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1856-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1856-0097A7-nodesc-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1856-0097A7-nodesc-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1856-0097A7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1856-0097A7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1856-0097A7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>The Selby Centre</name>
+      <styleUrl>#icon-1546-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0778731000000334,51.6074407,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trident Business Centre Ltd</name>
+      <description>Community Focus Business Centre</description>
+      <styleUrl>#icon-1531-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.163391999999931,51.423875,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cockpit Arts, Deptford</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0208450999999741,51.4785057,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Google for Startups Campus</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0856340000000273,51.522662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Business Launchpad</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.163419100000056,51.4238628,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SEIDs - Social Innovation and Enterprise Hub</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.286644600000045,51.557236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peckham Levels</name>
+      <styleUrl>#icon-1547-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0673539,51.4708377,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hatch Enterprise</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0934085000000096,51.4884614,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Allia Future Business Centre East London</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.056329900000037,51.5420666,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Second Home Holland Park</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.210115999999971,51.508115,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Second Home Clerkenwell Green</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.105028800000014,51.5232977,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Second Home London Fields</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0574996999999939,51.5381984,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Second Home Spitalfields</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0703587,51.5202188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ministry of Startups</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0604401000000507,51.5161121,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Launch22 King's Cross]]></name>
+      <description>co working space</description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.116018800000006,51.5280257,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wimbletech</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.2083877,51.4222551,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Workary Brompton</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.188292400000023,51.4901149,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Workary Chelsea</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.168298800000002,51.4874099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Workary Chiswick</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.260891000000015,51.4915853,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Workary Hanwell</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.33599300000003,51.5098618,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Workary Welling</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          0.106246800000008,51.4626038,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Work.Life Fitzrovia</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.140180099999952,51.5191423,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Work.Life London Fields</name>
+      <description><![CDATA[Work.Life is committed to creating sustainable, inclusive and happier workspaces for businesses who care about people. Why? Because we believe that people make businesses, and happy people are more creative, productive, innovative and better for business.<br>Read more about our values in our Code of Ethics.<br><br>https://work.life/csr/]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0577459999999519,51.5395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Work.Life Clerkenwell</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.103412700000035,51.5231439,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Work.Life Camden</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.142394999999965,51.541006,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Work.Life Bermondsey</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.081102900000019,51.5005341,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Work.Life Hammersmith</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.219649200000049,51.4934026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Green Lab</name>
+      <description><![CDATA[Green Lab is a social enterprise and open innovation lab for individuals and organisations to learn about and design sustainable solutions to complex urban food, water and waste challenges . We encourage creativity, collaboration, experimentation and play. We incubate ideas that make our urban food systems more productive and resilient, and that can put more natural and healthy food on our tables.<br><br>Our core services are<br>- Affordable deskspace for early stage startups and accessible spaces to experiment<br>- Shared access to high end equipment and growing facilities<br>- Digital makerspace (3D printers, electronics, robotics)<br>- Education programme to inspire schools and adults<br>- Cultural outreach programme focused on health and wellbeing<br>- Small scale urban farming capabilities (leafy greens)<br>- Vibrant event space for workshops and private hire<br>- Volunteer programme to engage local communities]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0630424999999377,51.4964852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Camden Collective</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.130704000000037,51.5377798,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Camden Collective</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.143013999999994,51.540429,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ARK coworking</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.118085000000065,51.5308634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bathtub 2 Boardroom</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0977629000000206,51.5301413,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bootstrap Co</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0746935,51.5470147,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newspeak House</name>
+      <description><![CDATA[Newspeak House is an independent residential college founded in 2015 to study, nurture and inspire emerging communities of practice across UK public sector and civil society. <br><br> It's designed for socially-minded mid-career technologists considering their next move, and wanting to develop an overview of the sector so they can take more of a strategic/systemic approach.]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0713309,51.5251812,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CAN Mezzanine - Old Street</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0878791999999748,51.5284201,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CAN Mezzanine - Borough</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0929641999999831,51.4998687,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CAN Mezzanine - Loman Street</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.099668500000007,51.502877,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CAN Mezzanine Hounslow</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.362867800000004,51.4685267,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oval Office</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0589000999999598,51.5332004,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uncommon</name>
+      <description>Working space with strong CSR and focused on wellbeing</description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.10795429999996,51.5502337,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uncommon</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0917749999999842,51.5012573,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uncommon</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.206461900000022,51.4716103,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uncommon Liverpool Street</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0815046000000166,51.5170367,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Runway East London Bridge</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.08856609999998,51.5046676,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Runway East Soho</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.13277990000006,51.5127336,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Runway East Moorgate</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0872381,51.5212411,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Trampery Old Street</name>
+      <description><![CDATA[The Trampery is a purpose-led enterprise that provides workspaces and training for businesses; plus advisory services for governments and landowners. We are committed to three goals:<br><br>The Trampery believes capitalism must evolve to help solve the world’s social and environmental problems. We will offer training to help businesses change how they work and prioritise purpose-led firms across our workspaces.<br>The Trampery believes entrepreneurship must be harnessed to combat poverty and discrimination in society. We will support entrepreneurs from under-represented backgrounds through low-cost local workspaces and free access to training.]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0843813999999838,51.5265793,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Trampery on the Gantry</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0221443000000363,51.5485826,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Trampery Tottenham</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0683885999999347,51.5988566,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Keeton's & Collett (3Space)]]></name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0626859999999851,51.496479,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3Space International House</name>
+      <description><![CDATA[A 12 story space for public good, located in the heart of Brixton..<br><br>Home of many charities, social enterprises, Cooperatives, social impact Startups.]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1130467,51.4640771,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fora - Clerkenwell - Central St.</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0968798000000106,51.5267765,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fora - Clerkenwell - Dallington St.</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.100563400000055,51.5245181,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fora - Borough</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0932820000000447,51.5014655,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fora - Fitzrovia</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.137637000000041,51.516815,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fora - Spitalfields - Folgate St.</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0772543000000496,51.5209968,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fora - Soho</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.136191000000053,51.513317,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blooming Founders HQ</name>
+      <description><![CDATA[We are Blooming Founders, a small business with a big ambition:<br>helping female founders and diverse teams succeed.<br><br><br>BUt... what do you do exactly?<br><br>We are a content, media and training company that helps entrepreneurs and small businesses build their audience and gain more clients and customers online. <br> <br><br>We also offer great adjacent services to make your startup journey a bit easier, such as a virtual office (with a Central London office address) and an internship placement service when you are ready to grow.]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0805110000000013,51.5249599,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blooming Founders at Cocoon</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0841725999999881,51.5210967,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Conduit</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1424709,51.5115878,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blake House Cooperative</name>
+      <styleUrl>#icon-1635-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.127740600000038,51.4745375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Launch 22 Poplar</name>
+      <description>Co working space</description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0145737999999938,51.511724,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Psychedelic Society</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0426757999999836,51.5473755,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Green House | Ethical Property</name>
+      <description>The Green House is Ethical Property’s stunning new eco workspace in Bethnal Green, offering superb on-site facilities in the vibrant location of East London’s Cambridge Heath Road.</description>
+      <styleUrl>#icon-1546-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0569777000000613,51.5329295,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Durham Road Resource Centre | Ethical Property</name>
+      <description>The Durham Road Resource Centre was built in 1985 by Islington Council, originally as a neighbourhood office providing services to the local community. The building closed in 1998 and we then took on the building with a pledge to continue to support the community groups of Islington which include housing organisations, women’s groups, and refugee and ethnic minority support groups. In 2014, the Centre underwent big renovations and is now a bright and airy space to work.</description>
+      <styleUrl>#icon-1546-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.113354699999945,51.5648717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Resource For London</name>
+      <description><![CDATA[Owned by the Trust for London and managed by Ethical Property, Resource for London is situated on the Holloway Road, ten minutes' walk from Holloway Road underground station and is where London's voluntary sector comes together to work, meet and exhibit.<br><br>The Centre provides flexible office space, conference, training and meeting rooms as well a variety of exhibition spaces. Each year over 1,500 meetings and events attracting over 150,000 people are held at the Centre providing the ideal environment for conferences, AGMs, smaller meetings, training and interviews.]]></description>
+      <styleUrl>#icon-1546-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.116009399999939,51.5556887,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Foundry - Conference Space</name>
+      <description><![CDATA[The Foundry was opened in 2015 as a Centre for Social Justice and Human Rights organisations – located close to Palace of Westminster and other Government departments, the building is a joint venture between Trust for London, Joseph Rowntree Charitable Trust, The Barrow Cadbury Trust, LankellyChase Foundation and The Ethical Property Company.<br><br>A former shoe-polish factory, the Centre has been redeveloped into a beautifully light and spacious work, meeting and conference venue that is also home to almost 20 tenant organisations.]]></description>
+      <styleUrl>#icon-1546-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.116039099999966,51.4856732,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Grayston Centre - Ethical Propriety</name>
+      <description><![CDATA[Part of Ethical Propriety group. <br><br>Our vision is to become the go-to place for changemakers – tenants, investors, partners and staff. We believe that property should be used in the best interests of society, the planet and the economy. By bringing impactful organisations, staff and tenants together we have shown that real change can happen.]]></description>
+      <styleUrl>#icon-1546-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0838155999999799,51.5272643,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Impact Hub King's Cross]]></name>
+      <description><![CDATA[34b York Way, Kings Cross, London N1 9AB<br><br>https://kingscross.impacthub.net/]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1223007,51.5328197,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Impact Hub Islington</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.09386,51.5278278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Impact Brixton</name>
+      <description><![CDATA[Impact Brixton is a social enterprise company. So when you chose to work here, you’re choosing to invest in the local community.<br><br>We are helping Lambeth’s business owners and entrepreneurs make meaningful and fruitful connections. We are providing education and support for Lambeth’s business community in order to achieve positive social and economic impact. We are a source of investment and empowerment by providing mentorship, training and experience to budding entrepreneurs in Lambeth.]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1123309,51.4636231,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Huckletree West</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.22769500000004,51.5134468,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Huckletree Soho</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.135144200000013,51.5129321,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Huckletree Shoreditch</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0860592000000224,51.5215614,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Huckletree Clerkenwell</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.102039999999988,51.519725,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sustainable Workspaces Bankside</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0967295000000377,51.5066969,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sustainable Workspaces Bankside 2</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0999610000000075,51.5049558,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sustainable Bridges</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0811890999999605,51.5029343,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ugly Duck</name>
+      <description>Ugly Duck is a social enterprise revitalising underused space through culture and arts. The company was formed in 2012 in order to take over management of a Victorian tannery. We developed a strong commercial arm, promoting the space to the film and corporate events industries to generate revenue.</description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0779350999999906,51.5000227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Space4</name>
+      <description><![CDATA[The home of digital co-operation: coworking, meeting & events space in Finsbury Park, hosting coops & other socially positive organisations.]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.107900500000028,51.5637478,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PUBLIC Hall powered by Huckletree</name>
+      <styleUrl>#icon-1856-0097A7-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.124364499999956,51.5049482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>House of Transformation</name>
+      <description><![CDATA[House of Transformation is first and foremost a creative space for experimentation. Our vision is to enable the co-creation of a network of rural and urban multi-use spaces that inspire more regenerative ways of living and working.<br><br>We are building a curated community of people and organisations who share our passion for transformational leadership, regenerative design and community-led property development. We are committed to making our space as affordable and accessible as possible.]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0765346,51.535399,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tripod - Part of Meanwhile space</name>
+      <description><![CDATA[Tripod is a creative base in the beating heart of South London. A co-working space designed for creative, tech, digital, design and social businesses. At Tripod we provide space, support and connections to help the community develop, grow and thrive.<br><br>This beautiful co-working space, designed by award-winning local creatives Eley Kishimoto and Dolman Bowles, is based in the open-plan basement of Lambeth Town Hall.]]></description>
+      <styleUrl>#icon-1546-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1165749,51.4607859,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>X+Why</name>
+      <description><![CDATA[Flexible workspaces for purpose-driven businesses<br>x+why is a flexible workspace provider with a difference – we are on a mission to change the way the world works for good. We believe that advancing people and planet as well as profit goes beyond responsibility; it makes exceptional sense.<br><br>We are building a community of purpose driven leaders, companies, and movements who understand that business should be a force for good]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0675595999999814,51.5168362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>x+why Flexible Workspace, Spitalfields</name>
+      <description><![CDATA[Flexible workspaces for purpose-driven businesses<br>x+why is a flexible workspace provider with a difference – we are on a mission to change the way the world works for good. We believe that advancing people and planet as well as profit goes beyond responsibility; it makes exceptional sense.<br><br>We are building a community of purpose driven leaders, companies, and movements who understand that business should be a force for good]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.070583,51.5190626,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>x+why Flexible Workspace, Holborn</name>
+      <description><![CDATA[Flexible workspaces for purpose-driven businesses<br>x+why is a flexible workspace provider with a difference – we are on a mission to change the way the world works for good. We believe that advancing people and planet as well as profit goes beyond responsibility; it makes exceptional sense.<br><br>We are building a community of purpose driven leaders, companies, and movements who understand that business should be a force for good]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1137884,51.5188277,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Founders & Coders]]></name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0n1uiaa2vedra988koir9lrtio/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vavx9kS9oEDzmALp7-bb1jkVS829EA_xVsmexVpHsxu7F5u2hst2ZNSjgC-CQoF3vXKGTmLR_ifXHcRDwBoIh7Z1AXBiam8RhiDBcz43qVUBvfaQaWM1yWoH_VgDjLz4-qXU2pOroH6z8yzjEbUIk_Bpwt1dHtlA0oW9dp98iFtIi5LHrEWEoznq7_BQ2fcirE?session=0&fife" height="200" width="auto" /><br><br>They will develop your web app with you.]]></description>
+      <styleUrl>#icon-1820-0097A7</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0n1uiaa2vedra988koir9lrtio/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vavx9kS9oEDzmALp7-bb1jkVS829EA_xVsmexVpHsxu7F5u2hst2ZNSjgC-CQoF3vXKGTmLR_ifXHcRDwBoIh7Z1AXBiam8RhiDBcz43qVUBvfaQaWM1yWoH_VgDjLz4-qXU2pOroH6z8yzjEbUIk_Bpwt1dHtlA0oW9dp98iFtIi5LHrEWEoznq7_BQ2fcirE?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.107814700000063,51.563521,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batch.Space</name>
+      <description><![CDATA[Batch.Space is London's only FabLab we are open to the public and businesses to come and fabricate their ideas.<br><br>Batch.space is an independent studio in East London offering a unique mix of facilities to nurture a vibrant and diverse community of people working across creative disciplines. This space is for the community by the community = if you have some specific requirements, we will do our best to make sure you have everything you need to work and get creative!]]></description>
+      <styleUrl>#icon-1856-0097A7</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0600109,51.5354471,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

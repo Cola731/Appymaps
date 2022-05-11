@@ -1,0 +1,3408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[ENJOY! Experiences & Services]]></name>
+    <Style id="icon-1509-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1509-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1509-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1509-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1509-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1516-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1516-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1516-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1516-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1516-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1516-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1516-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1516-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1516-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1516-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1516-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1516-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1516-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1516-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1516-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1522-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1522-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1529-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1529-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1529-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1529-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1529-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1532-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1532-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1532-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1532-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1535-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1535-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1535-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1535-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1535-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1546-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1546-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1546-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1546-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1546-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1547-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1547-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1547-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1547-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1547-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1549-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1549-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1549-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1549-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1549-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1551-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1551-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1551-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1551-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1551-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1551-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1551-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1551-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1551-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1551-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1552-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1552-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1552-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1552-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1552-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1561-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1561-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1561-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1561-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1561-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1577-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1582-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1582-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1582-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1582-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1582-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1582-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1582-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1582-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1582-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1582-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1587-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1587-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1587-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1587-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1587-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1595-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1595-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1595-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1595-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1595-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1602-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1602-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1602-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1602-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1602-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1602-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1602-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1602-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1602-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1602-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1617-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1617-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1617-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1617-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1617-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1628-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1628-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1628-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1628-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1628-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1635-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1635-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1635-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1635-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1635-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1637-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1637-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1637-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1637-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1637-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1637-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1637-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1637-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1637-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1637-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1638-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1638-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1638-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1638-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1638-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1638-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1638-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1638-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1638-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1638-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1646-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1646-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1646-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1646-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1646-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1646-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1646-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1646-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1646-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1646-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1664-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1664-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1664-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1664-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1664-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1682-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1682-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1682-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1682-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1682-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1682-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1682-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1682-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1682-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1682-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1684-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1684-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1684-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1684-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1684-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1697-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1697-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1697-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1697-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1697-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1709-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1709-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1709-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1709-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1709-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1709-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1709-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1709-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1709-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1709-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1722-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1722-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1722-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1722-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1722-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1722-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1722-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1722-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1722-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1722-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1734-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1734-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1734-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1734-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1734-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1734-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1734-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1734-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1734-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1734-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1737-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1737-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1737-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1737-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1737-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1740-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1740-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1740-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1740-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1740-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1756-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1756-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1756-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1756-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1756-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1756-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1756-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1756-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1756-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1756-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1801-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1801-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1801-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1801-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1801-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1821-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1821-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1821-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1821-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1821-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1821-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1821-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1821-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1821-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1821-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1834-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1834-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1834-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1834-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1834-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1845-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1845-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1845-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1845-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1845-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1850-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1850-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1850-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1850-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1850-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Green Rooms</name>
+      <description><![CDATA[<img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/6h8e5mj47j9ui95q5df40khre0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbxwlOrRt23OnGsC9ggwjOFsQBo_Yh2QCjM76AntjWswGIwNYAUy6cX-YdSB8ROPzxqKNhei30BlrfQkAyCB2ezv531dNRhq788OoDO9K9QDcXYfbiGJ5PPPdDTgwH4URdyvuRoeJQRweW171BbrYwjhAlBMMokB0fOQSO-sQLX8VNJaIgFQx7_SC6F1N5j0XM?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1602-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/6h8e5mj47j9ui95q5df40khre0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbxwlOrRt23OnGsC9ggwjOFsQBo_Yh2QCjM76AntjWswGIwNYAUy6cX-YdSB8ROPzxqKNhei30BlrfQkAyCB2ezv531dNRhq788OoDO9K9QDcXYfbiGJ5PPPdDTgwH4URdyvuRoeJQRweW171BbrYwjhAlBMMokB0fOQSO-sQLX8VNJaIgFQx7_SC6F1N5j0XM?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.110764300000028,51.5970028,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The British Educational Travel Association (BETA)</name>
+      <description><![CDATA[https://www.betauk.com/<br>Social Enterprise Education: BETA<br><br>For every student we teach, we will teach another from a disadvantaged background. On a one-for-one basis. We donate time, expertise and funds to support children and charities in the home countries of our students.]]></description>
+      <styleUrl>#icon-1682-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.188419899999985,51.5154461,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lexi Cinema</name>
+      <description><![CDATA[<img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/k70ci1gsfsl9licsiqafftrh34/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZL-qvjWlFMx2m-EBA2y5KpiRjTUpyItYrZEGXNBKK6wld8hCSM0EUXIhZ8KlrIcSXyd03rFnZCIH5IsWMk2cKPt63DS7T0qQqp-it0_VJpgCAA9AjPiYtSikcaN8Bn2HXjgEwqQakx5t8iEHjP25wPzdeKvxT-Lw4XFGNAe37Nvgh5bHUbbby8vIiKRfRdHEU?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/4614ivfgkuq8mc53f8qj4iahhg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vatVcENPXY6FVnHkSW2TuvAY1TYU11ghNqZ2aDBXJQrwJdf7tjH3h7krmh1UTkIXe7KGvAHxxgSKxnbiPjJyNVHIncBT-hzx_rwIMKTXqwolGX1fU9EN8nOpXatkkMVsfcSMeO_sfhe3SQ5unWVUZpJLt-ATdZjScb25NnokNZsOCPPdokPcFp6Wmat0oaLM5w?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1635-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/k70ci1gsfsl9licsiqafftrh34/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZL-qvjWlFMx2m-EBA2y5KpiRjTUpyItYrZEGXNBKK6wld8hCSM0EUXIhZ8KlrIcSXyd03rFnZCIH5IsWMk2cKPt63DS7T0qQqp-it0_VJpgCAA9AjPiYtSikcaN8Bn2HXjgEwqQakx5t8iEHjP25wPzdeKvxT-Lw4XFGNAe37Nvgh5bHUbbby8vIiKRfRdHEU?session=0&fife https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/4614ivfgkuq8mc53f8qj4iahhg/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vatVcENPXY6FVnHkSW2TuvAY1TYU11ghNqZ2aDBXJQrwJdf7tjH3h7krmh1UTkIXe7KGvAHxxgSKxnbiPjJyNVHIncBT-hzx_rwIMKTXqwolGX1fU9EN8nOpXatkkMVsfcSMeO_sfhe3SQ5unWVUZpJLt-ATdZjScb25NnokNZsOCPPdokPcFp6Wmat0oaLM5w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.222491399999967,51.5376332,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rio Cinema</name>
+      <description><![CDATA[<img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/hqnljg1jk74u8lt85mpjcnjqac/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZyeiFMkJAWety6uZ5P1_uhtDlRZx2_nWmUHdfr2DF2hSPs1DnzOPZK9cXcG8JA9IW3KrgQG7Wmb_rF4SjHoX03nfVBcLDFqFoduqAl4K5KY_Pcya0AVC9fShEJRXId0zGFeMHwN1c67HENFPFirodrVZJ_GTLGZ9NytdeG8-1EiQ7WR9P0NhO5LnQiJc2JafY?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/48al2rtoj9g2r1dicdq6hlvbag/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZD2JA1PawXp9NRfah1jmhr1ZWpDKbE8vm64LmjtaLMOAU3jHhVR6LMgPfPE1V2Lm_gWJfhnpbGd9taq--k5KpspEVc1SLyKhVC_q0kBZEEO2l1nt1tGDSlOYRljC6somFxTjwMe9p2kV3ZhZ-so2tAi9cTOULUeiaHaqE8PmIW_Duve184Jkxt_HZZiKorXhY?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1635-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/hqnljg1jk74u8lt85mpjcnjqac/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZyeiFMkJAWety6uZ5P1_uhtDlRZx2_nWmUHdfr2DF2hSPs1DnzOPZK9cXcG8JA9IW3KrgQG7Wmb_rF4SjHoX03nfVBcLDFqFoduqAl4K5KY_Pcya0AVC9fShEJRXId0zGFeMHwN1c67HENFPFirodrVZJ_GTLGZ9NytdeG8-1EiQ7WR9P0NhO5LnQiJc2JafY?session=0&fife https://doc-0g-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/48al2rtoj9g2r1dicdq6hlvbag/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZD2JA1PawXp9NRfah1jmhr1ZWpDKbE8vm64LmjtaLMOAU3jHhVR6LMgPfPE1V2Lm_gWJfhnpbGd9taq--k5KpspEVc1SLyKhVC_q0kBZEEO2l1nt1tGDSlOYRljC6somFxTjwMe9p2kV3ZhZ-so2tAi9cTOULUeiaHaqE8PmIW_Duve184Jkxt_HZZiKorXhY?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0755457999999862,51.5496576,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deptford Cinema</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/pqrpcfa0i7fl28kd3l6h9n8ilk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaO1HB72gcMfXGLyDLZSrHdlzyr0DYfXmplQbbwwJTJpNKIpe973EAEo9DR77_EBg0eM_EL-KlE93CnNk5sl8b57ag1SUoUWnbhV6yRxh0xvcSCAwHEuRA_Txe4klGP_P83A_tfWPdFzR92LcmQIOvnjjNLa2fjSpm66LV8uKAVlaTU39x1NsSwmUxSb2_ZOhw?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1635-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/pqrpcfa0i7fl28kd3l6h9n8ilk/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaO1HB72gcMfXGLyDLZSrHdlzyr0DYfXmplQbbwwJTJpNKIpe973EAEo9DR77_EBg0eM_EL-KlE93CnNk5sl8b57ag1SUoUWnbhV6yRxh0xvcSCAwHEuRA_Txe4klGP_P83A_tfWPdFzR92LcmQIOvnjjNLa2fjSpm66LV8uKAVlaTU39x1NsSwmUxSb2_ZOhw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0244870999999875,51.4744874,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Phoenix Cinema</name>
+      <description><![CDATA[<img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/2vsstmlad73q548sft2l23j2a8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaZp4aN3ZZ_V03zaT5GJCStZJJ55GGTY6bJm1ZEneuLn7R3CKGQuAJ-_x0oZIrR3rvS-OvQNW5dMDWDlmcJqJ-9_IOnI40bhnARURSwINdyoZ-FnIyyf5vBdavm5HE6JHZ1Y2FqW7TQsq6-vYxH6u6j0MDGFk7mch-3Nzgew-EuLpZjjm71lJ2hxtrgZafqAJs?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/291fk6mtbkl16s60k06k466r00/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbh_AMFJrzG5PQ_idfngaV945WP0tIFfnzRuh-z9PBt7vyCq65QlDxUwilveCGHdvJy9UId5gPgH4N04zJCf1bkmsAnqV1u0fGXUdDwFGHuM2o7h3VkZEiiN0heeIWRh1vTQ991cBtKi9hmbmhKMScIJgi9i0VsqHA4-fDw31C151YKhYDgK9as8tuB-NTlIxI?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1635-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/2vsstmlad73q548sft2l23j2a8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaZp4aN3ZZ_V03zaT5GJCStZJJ55GGTY6bJm1ZEneuLn7R3CKGQuAJ-_x0oZIrR3rvS-OvQNW5dMDWDlmcJqJ-9_IOnI40bhnARURSwINdyoZ-FnIyyf5vBdavm5HE6JHZ1Y2FqW7TQsq6-vYxH6u6j0MDGFk7mch-3Nzgew-EuLpZjjm71lJ2hxtrgZafqAJs?session=0&fife https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/291fk6mtbkl16s60k06k466r00/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbh_AMFJrzG5PQ_idfngaV945WP0tIFfnzRuh-z9PBt7vyCq65QlDxUwilveCGHdvJy9UId5gPgH4N04zJCf1bkmsAnqV1u0fGXUdDwFGHuM2o7h3VkZEiiN0heeIWRh1vTQ991cBtKi9hmbmhKMScIJgi9i0VsqHA4-fDw31C151YKhYDgK9as8tuB-NTlIxI?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.163812000000007,51.588499,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rich Mix</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/2mk7p74r9t0v8979bspqjgmmg8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZZW4aqBXhMNnQm5Evgq_ZRIBRhc87WTUj7YVljCk2mefhd5g4t3evlXJaFNte4WTnL1C0l0WbXzuSRdbWc1V5JllzNzpeVt_00seLzw3_web0x4WAPwrQo1DQlKa65kuWzuSRzmEGfLo9IX5eEC9nua0fCZml9oWx4FFB1SmHWChJat_PxPVcmZ4X1kyCrpkM?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1635-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/2mk7p74r9t0v8979bspqjgmmg8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZZW4aqBXhMNnQm5Evgq_ZRIBRhc87WTUj7YVljCk2mefhd5g4t3evlXJaFNte4WTnL1C0l0WbXzuSRdbWc1V5JllzNzpeVt_00seLzw3_web0x4WAPwrQo1DQlKa65kuWzuSRzmEGfLo9IX5eEC9nua0fCZml9oWx4FFB1SmHWChJat_PxPVcmZ4X1kyCrpkM?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.0731968000000052,51.5243955,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BFI Southbank</name>
+      <description><![CDATA[<img src="https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/k7403h76ni6u7ssstgc3p3go9c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYLieYPgOEiYxvNm4ZGOWbHrYedQmHZNgQ-XUFg7xygsKnFBqlm-bwE4KcMOGxO7paNcg-4mJgQNSDprDewtu_0KXuPM48g6Pk9DspoYkqOMSYPkqRY6reeS9v77F_eG1ovkuRGvWPL4WavY28rBpSmauv9TkwbBjtHxV_0egL6iXiaEcMU8W5s2CnkAFlEi5g?session=0&fife" height="200" width="auto" /><br><br><br><br><img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/vcco5k0asdiu08n8uli8lfeld8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYiQGRJzGxi86S9gub5MEMARoJuBn8IwGCNO-cJ_CW0eyK-RsUuaHnfxcDmNTyqRQDnSijaDXiDdX3qyXsl745iM0D39mSyb0XDzpRd794OslBtcQ7RHNutC2MqvAt8BzR0M885TdVHIIfsBez-iSEEZGocQ2njdw-ME434cntK4lBxFoJ8w59PG8HZCHA0HNc?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1635-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-08-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/k7403h76ni6u7ssstgc3p3go9c/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYLieYPgOEiYxvNm4ZGOWbHrYedQmHZNgQ-XUFg7xygsKnFBqlm-bwE4KcMOGxO7paNcg-4mJgQNSDprDewtu_0KXuPM48g6Pk9DspoYkqOMSYPkqRY6reeS9v77F_eG1ovkuRGvWPL4WavY28rBpSmauv9TkwbBjtHxV_0egL6iXiaEcMU8W5s2CnkAFlEi5g?session=0&fife https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/vcco5k0asdiu08n8uli8lfeld8/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYiQGRJzGxi86S9gub5MEMARoJuBn8IwGCNO-cJ_CW0eyK-RsUuaHnfxcDmNTyqRQDnSijaDXiDdX3qyXsl745iM0D39mSyb0XDzpRd794OslBtcQ7RHNutC2MqvAt8BzR0M885TdVHIIfsBez-iSEEZGocQ2njdw-ME434cntK4lBxFoJ8w59PG8HZCHA0HNc?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.115315900000041,51.5067264,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The House of St Barnabas</name>
+      <description><![CDATA[<img src="https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3dkh1588k7fnq25qev8uesklno/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb30EEOE2PCz-unF3lPsuwpqktnLkynuO27NdRLAqzcmd8QV9WByBv7dK0SrcnEqh2e0KxvocXlfI3Rs6euDYbye6eh4QyPWi9WVt_Gst-aLTEdZ59QN4CRzT5sx23_pl5xb2Ze1Pg8S4v5R1zZ7IjFkn5IxqyBL2hiGUeqNKvT7zYoXOSk2mK2rjlvZaVmVho?session=0&fife" height="200" width="auto" /><br><br>PRIVATE members' club supporting homelessness,<br><br><img src="https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/f27a11fh7f0kmvls7bcfjbq2mo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaZz8n99zFRk0DabWM9l5xIl1HYcM3SUNstU9IsY8_QVCxQqGlcHXmI1OHqdGTLYWuk_YNwtZ5prqTFR5L_ZhvZ3s9S0ABL-DZIXjAQJR8ZK5B3MfmGl2bjPJIT7QeCnxrw1ssT9-cc85KxDob3jOccpDmOzyfvPckZIGw17tRkQq6PxeBOrpAoPUc1VO1I1Ig?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-14-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/3dkh1588k7fnq25qev8uesklno/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vb30EEOE2PCz-unF3lPsuwpqktnLkynuO27NdRLAqzcmd8QV9WByBv7dK0SrcnEqh2e0KxvocXlfI3Rs6euDYbye6eh4QyPWi9WVt_Gst-aLTEdZ59QN4CRzT5sx23_pl5xb2Ze1Pg8S4v5R1zZ7IjFkn5IxqyBL2hiGUeqNKvT7zYoXOSk2mK2rjlvZaVmVho?session=0&fife https://doc-0o-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/f27a11fh7f0kmvls7bcfjbq2mo/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vaZz8n99zFRk0DabWM9l5xIl1HYcM3SUNstU9IsY8_QVCxQqGlcHXmI1OHqdGTLYWuk_YNwtZ5prqTFR5L_ZhvZ3s9S0ABL-DZIXjAQJR8ZK5B3MfmGl2bjPJIT7QeCnxrw1ssT9-cc85KxDob3jOccpDmOzyfvPckZIGw17tRkQq6PxeBOrpAoPUc1VO1I1Ig?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.131406999999967,51.514992,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Union Chapel</name>
+      <description><![CDATA[<img src="https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/73t6je4mnbqv3q4v8ch69aqn0g/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYhH_JYznGKf0zd7jUg0IbunMVPvBcfefVURnoPgGSImQ7TwYIz_8xdy10gX77Ir2NCRuKZCMPu6NrF8qpdDatqAQ_LkYPDhYS_dQ5AzimHTh4u-yVwsbkqrf854PYCjBDuS7X-EszJ-3gqJMY72DUgx_uMWtiIXQ54AJKixVMEVjXef3XLL97j4HyoNo6sQVI?session=0&fife" height="200" width="auto" /><br><br>Union Chapel aims to be an affordable, high quality, performance space that provides a diverse programme of arts experiences. We encourage innovative, entertaining and educational approaches accessible to people of all abilities and backgrounds.<br><br>We are, very much, a not for profit organisation. All the income generated from hiring the venue and from sales in the Bar goes to the conservation and development of Union Chapel. As well as helping to restore this wonderful building, we believe it is important to invest in our future.]]></description>
+      <styleUrl>#icon-1801-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/73t6je4mnbqv3q4v8ch69aqn0g/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vYhH_JYznGKf0zd7jUg0IbunMVPvBcfefVURnoPgGSImQ7TwYIz_8xdy10gX77Ir2NCRuKZCMPu6NrF8qpdDatqAQ_LkYPDhYS_dQ5AzimHTh4u-yVwsbkqrf854PYCjBDuS7X-EszJ-3gqJMY72DUgx_uMWtiIXQ54AJKixVMEVjXef3XLL97j4HyoNo6sQVI?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.102481000000012,51.5447647,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Sound Lounge</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/30us0nlbaob8hjpaaqgv2lv8q0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va3rAVtPEv7rMieny3xc8QrzFakUPe-xG1oIb2dg53DTNMmfE5SJZN7hxlmsoLaj-D67OPMJYuWCx3AWC9TRJ4pQV8NLZ_P7I21KXRcyDtrm2DON-eQCrCsOF1l9SSdYrc_k6SNN0FOroZYFeGq5d1nQ1s_l7dZ3nDN0NiBbJPFjdaUb2HwS4hNaxx6UGACP5A?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-1801-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/30us0nlbaob8hjpaaqgv2lv8q0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_va3rAVtPEv7rMieny3xc8QrzFakUPe-xG1oIb2dg53DTNMmfE5SJZN7hxlmsoLaj-D67OPMJYuWCx3AWC9TRJ4pQV8NLZ_P7I21KXRcyDtrm2DON-eQCrCsOF1l9SSdYrc_k6SNN0FOroZYFeGq5d1nQ1s_l7dZ3nDN0NiBbJPFjdaUb2HwS4hNaxx6UGACP5A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.20452709999995,51.4201759,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dot Dot Dot Property Guardians</name>
+      <description><![CDATA[<img src="https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/cti4p31sp5sdfs4b9bmlvjfd18/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbQ2GDBDk-M93n6pPMC0sJIkRg3_jLdvXyJEoM6FRGm0t4PuE6FyBxuqfjmzD6sUD_19nQBPfCAh_zodlDGjz2vBjBUytzDPv5YXpd6lCc-LC7h0vTxL3IYT6FlTgkWpQQWOB7ZappYR2SL0Q7Y4CMn7Iz2cCVeffSe4gCQIx0urdojfni8LoJkd80PeyuLC7c?session=0&fife" height="200" width="auto" /><br><br>Helps to house ]]></description>
+      <styleUrl>#icon-1546-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/cti4p31sp5sdfs4b9bmlvjfd18/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vbQ2GDBDk-M93n6pPMC0sJIkRg3_jLdvXyJEoM6FRGm0t4PuE6FyBxuqfjmzD6sUD_19nQBPfCAh_zodlDGjz2vBjBUytzDPv5YXpd6lCc-LC7h0vTxL3IYT6FlTgkWpQQWOB7ZappYR2SL0Q7Y4CMn7Iz2cCVeffSe4gCQIx0urdojfni8LoJkd80PeyuLC7c?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.013005000000021,51.535342,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MindFood Community Interest Company</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0jroorhi4ionh47fklfmheor1o/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZim2JHcxm5Jc9ETaLUAvHj5eDmYWBLqFGYu9Y68G5M_gby1LxihaR8JOMOcXciNGAVIi37F352wM29A_Pb1xU_Oa03sleKRLARgvHjYHNjBzsNNUQqj0hDVd5eipulb-JMBFKsBEe4zVe9Q_W7Btqj-xkDalVMR3gXURXNSiAC6evsWliihZCbk5pZQMTgUrU?session=0&fife" height="200" width="auto" /><br><br>MindFood is an Ealing based community interest company that supports people with depression, anxiety and stress to improve their wellbeing through gardening and horticulture.<br><br>We run our courses from two sites in <br>* Ealing, Cleveley Crescent near Hanger Lane tube station: https://goo.gl/12NVig<br>*Horsenden Hill near Perivale tube station:<br>https://goo.gl/69QSTw<br><br>info@mindfood.org.uk]]></description>
+      <styleUrl>#icon-1628-E65100</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0jroorhi4ionh47fklfmheor1o/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZim2JHcxm5Jc9ETaLUAvHj5eDmYWBLqFGYu9Y68G5M_gby1LxihaR8JOMOcXciNGAVIi37F352wM29A_Pb1xU_Oa03sleKRLARgvHjYHNjBzsNNUQqj0hDVd5eipulb-JMBFKsBEe4zVe9Q_W7Btqj-xkDalVMR3gXURXNSiAC6evsWliihZCbk5pZQMTgUrU?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -0.273156599999993,51.5110872,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MindFood Community Interest Company</name>
+      <styleUrl>#icon-1582-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.2730708,51.5110338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charity Bank</name>
+      <styleUrl>#icon-1756-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          0.275221999999985,51.198329,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fair Finance</name>
+      <styleUrl>#icon-1756-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0745660000000044,51.5468904,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fair Finance</name>
+      <styleUrl>#icon-1756-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0424219999999877,51.5129334,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fair Finance</name>
+      <styleUrl>#icon-1756-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          0.0539545000000317,51.5328874,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Positive News Publishing</name>
+      <styleUrl>#icon-1638-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.137471499999947,51.4944338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fruitful Office Ltd</name>
+      <styleUrl>#icon-1722-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.127939200000014,51.3768815,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fruitful Office Limited</name>
+      <styleUrl>#icon-1722-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.144110599999976,51.5225139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crop Drop</name>
+      <description>Crop Drop a not-for-profit organisation that prioritises local food, direct trade with farmers and community-scale food chains. Crop Drop is run by Haringey residents and only deliver our service in Haringey. They keep costs down for customers, give farmers a fair price and plough our profits back into supporting sustainable agriculture and urban growing.</description>
+      <styleUrl>#icon-1722-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.104293699999971,51.6043827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Field to Fork Organics Cooperative</name>
+      <styleUrl>#icon-1722-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.217531000000008,51.5390853,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Franklin Scholars</name>
+      <styleUrl>#icon-1682-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0744654000000082,51.5469453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Open Barbers</name>
+      <description><![CDATA[Hairdressing for any hair length/type, welcoming all genders & sexualities. Based in Hoxton, East London. Open every day for haircuts, tea, and hangouts.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0853075999999646,51.5319392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Karine Jackson Hair & Beauty Salon]]></name>
+      <description><![CDATA[London's First Certified Sustainable Salon]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.12861399999997,51.51284,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hair Organics Notting Hill</name>
+      <description><![CDATA[Hair Organics Notting Hill wins Green Salon of the year award at the 2021 Salon Business Awards.<br><br>We specialise in safe, non-toxic hair colouring – achieving gorgeous results without damaging your hair.<br>Our highlights are ammonia-free, so not only are they safer, there is none of the usual nasty smell. We have an amazing semi-permanent colour range that is 100% PPD free, which makes it suitable for people who have reacted to hair colour in the past. However just to be safe we insist that all new clients book in for a quick consultation and patch test before their first booking. It also gives us a chance to really understand what you want to achieve for your hair.<br>VEGAN & CRUELTY-FREE<br>All the products we use on your hair in the salon, and our take home products are plant-based, vegan and cruelty-free, and have never been tested on animals. They contain natural and organic ingredients and are suitable for sensitive skin.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.197875999999951,51.509602,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hair Organics Putney</name>
+      <description><![CDATA[Hair Organics Notting Hill wins Green Salon of the year award at the 2021 Salon Business Awards.<br><br>We specialise in safe, non-toxic hair colouring – achieving gorgeous results without damaging your hair.<br>Our highlights are ammonia-free, so not only are they safer, there is none of the usual nasty smell. We have an amazing semi-permanent colour range that is 100% PPD free, which makes it suitable for people who have reacted to hair colour in the past. However just to be safe we insist that all new clients book in for a quick consultation and patch test before their first booking. It also gives us a chance to really understand what you want to achieve for your hair.<br>VEGAN & CRUELTY-FREE<br>All the products we use on your hair in the salon, and our take home products are plant-based, vegan and cruelty-free, and have never been tested on animals. They contain natural and organic ingredients and are suitable for sensitive skin.]]></description>
+      <styleUrl>#icon-1516-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          -0.2206367,51.4676973,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Rabbit Hole - Organic Vegan Salon / By appointment only</name>
+      <description>Is probably the most famous vegan salon in London. The Rabbit Hole is based in Shepherds Bush, West London and all of the products used are vegan. </description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.20633829999997,51.4892283,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glasshouse Salon</name>
+      <description><![CDATA[Vegan hair saloon.<br>This salon are well known for their specialist organic colour treatments using the cruelty free Organic Colour Systems range. The Glasshouse Salon really do incorporate their value of sustainability in every aspect of their company and one thing I do admit that I love is that they have explicitly made clear that one of their hair waxes contain bee wax]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0578040000000328,51.537774,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Muku hair salon Shoreditch</name>
+      <description>199% vegan Saloon</description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0778421999999637,51.5261181,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ena Salon</name>
+      <description>Vegan Hair Saloon </description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.120114999999942,51.516215,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rococo Organic Salon</name>
+      <description>Certified both vegan and cruelty free by PETA Hair salon</description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.164227299999993,51.4593476,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Halo Green Hair</name>
+      <styleUrl>#icon-1516-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.222279200000003,51.4996201,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Bike Project Shop</name>
+      <description><![CDATA[https://thebikeproject.co.uk<br>For customers test riding or collecting bikes; head office for meetings.<br><br>The Bike Project is a community of refugees, mechanics and volunteers in London. Our mission is simple: we take second-hand bikes, fix them up in our workshop and then give them to refugees.<br>We also run cycling proficiency training for refugee women in Croydon and Wapping. The course empowers and inspires these awesome people to feel the freedom of their very own bike – perhaps for the first time in their lives.<br><br>As well as our charitable activities, They  sell a small proportion of our wonderful refurbished bikes to the general public through our online bike shop. Every single penny we make from bike sales is ploughed straight back into the charity. This much-needed cash injection helps secure our long-term sustainability – and that means even more refugees cycling!]]></description>
+      <styleUrl>#icon-1522-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0900484000000006,51.4600065,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Bike Project Workshop</name>
+      <description><![CDATA[For refugees collecting Bikes and Volunteers<br><br>The Bike Project is a community of refugees, mechanics and volunteers in London. Our mission is simple: we take second-hand bikes, fix them up in our workshop and then give them to refugees.<br>We also run cycling proficiency training for refugee women in Croydon and Wapping. The course empowers and inspires these awesome people to feel the freedom of their very own bike – perhaps for the first time in their lives.<br><br>As well as our charitable activities, They sell a small proportion of our wonderful refurbished bikes to the general public through our online bike shop. Every single penny we make from bike sales is ploughed straight back into the charity. This much-needed cash injection helps secure our long-term sustainability – and that means even more refugees cycling!]]></description>
+      <styleUrl>#icon-1522-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0318733999999949,51.4807774,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Studio 306 Collective CIC</name>
+      <description><![CDATA[We are a group of skilled arts and craft practitioners, who have come together an exciting community enterprise.<br><br>At Studio 306 we specialise in designing high quality ceramics, jewellery, sewing craft and screen printed products. <br><br>The aim of the studio is to empower disadvantaged local individuals by offering a creative space for those who are recovering from mental illness. Here they can rediscover forgotten skills, develop new ones and boost their confidence within a working environment.<br><br>Studio 306 Collective CIC is a not-for-profit organisation, so every penny made from the sale of our products goes back into supporting the project.]]></description>
+      <styleUrl>#icon-1509-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.11490230000004,51.5945546,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Battersea Arts Centre</name>
+      <styleUrl>#icon-1709-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.160800300000005,51.464943,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Purple Moon Drama</name>
+      <styleUrl>#icon-1709-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0253189999999677,51.532849,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Museum of Happiness</name>
+      <styleUrl>#icon-1834-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0834681000000046,51.5246151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bikeworks All Ability Club</name>
+      <description>At Bikeworks we sell bikes, repair bikes and provide teaching and training to help you ride or fix your bike better.</description>
+      <styleUrl>#icon-1522-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.029423,51.538474,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deptford Lounge</name>
+      <styleUrl>#icon-1664-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0245175,51.477756,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YMCA Wimbledon</name>
+      <styleUrl>#icon-1737-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1968767,51.4194608,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Big Issue Group</name>
+      <styleUrl>#icon-1638-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.108562399999983,51.5645833,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Watermans Art Centre</name>
+      <styleUrl>#icon-1709-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.298461299999985,51.4856469,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Abianda</name>
+      <styleUrl>#icon-1734-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.113005100000009,51.563338,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stitches In Time</name>
+      <description><![CDATA[Stitches in Time is a participatory arts and education charity with a social enterprise arm based in Tower Hamlets. Set up in 1993 as a community project aimed at celebrating the area’s rich cultural heritage, we do more than just sewing, our creative projects are co-designed with users in response to their needs, to empower individuals and build strong, inclusive, and cohesive communities.<br><br>Much more than Sewing.<br><br>its enterprise arm is called FabricWorks London https://www.fabricworkslondon.org/]]></description>
+      <styleUrl>#icon-1684-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0313830000000053,51.512209,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mini Stitches</name>
+      <description><![CDATA[Mini Stitches is a pioneering new project revolutionising the UK’s ethical clothing supply chain, bringing a new and fresh approach to childrenswear, designed and made at East London charity, Stitches in Time.<br><br> http://ministitches.org/]]></description>
+      <styleUrl>#icon-1549-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0312797,51.5121786,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SL CREATIVES PROJECT</name>
+      <description><![CDATA[A social enterprise inspiring and supporting women into employment in South London.<br>S L Creatives Project is a Social enterprise that supports women of all ages in South London Boroughs. Our mission is to offer guidance and confidence into Employment and Apprenticeships.]]></description>
+      <styleUrl>#icon-1734-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0671284000000014,51.4709546,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Reprezent Radio</name>
+      <description><![CDATA[Broadcasting since 2011, and now from 3 shipping containers in Brixton, Reprezent Radio prides itself on its forward thinking underground music. Our DJ's and presenters all work in the music industry; produce their own music, run their own labels and club nights- meaning our sound is always on the cutting edge of music- across every single genre imaginable. <br> <br>Our playlist explores a wide selection of music- from signed to unsigned - and what makes it unique, is that the Reprezent playlist is curated by the taste makers of the station: the presenters. <br> <br>As well as partnering up with brands and media platforms to generate interesting content, Reprezent FM continue their media training programme alongside the broadcast. These training courses and project work has meant that Reprezent continues to educate and grow in London and beyond. <br> <br>We are the voice of young London. ]]></description>
+      <styleUrl>#icon-1529-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1123738,51.4635747,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nomadic Community Garden</name>
+      <description>Nomadic Community Gardens (NCG) is a not for profit organisation based in Shoreditch, East London. We are dedicated to transforming disused spaces into urban gardens where people can grow their own produce, create art, share skills, and discover what it means to build their own community from the bottom up.</description>
+      <styleUrl>#icon-1582-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0688321999999744,51.5230018,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vortex</name>
+      <description>Vortex is internationally renowned as a venue that programmes innovative and adventurous music from musicians of the highest calibre and repute. But that’s just one part of what we do. We are a not-for-profit organisation, powered by the passion of our volunteers, and we pride ourselves on being a friendly, welcoming space where artists and audiences can share and learn from each other.</description>
+      <styleUrl>#icon-1637-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0766509000000042,51.548852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avenue Litho</name>
+      <description><![CDATA[Printing studio with high standard environmental commitment. <br><br>Read more here<br>https://www.avenuelitho.com/sustainability]]></description>
+      <styleUrl>#icon-1845-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.056975800000032,51.5398091,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arcola Theatre</name>
+      <description>More about it https://www.arcolatheatre.com/about/sustainability/</description>
+      <styleUrl>#icon-1709-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0750050000000329,51.546915,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HCT Transport 812 Route 
+Bridport Place
+</name>
+      <description><![CDATA[Route 812 is a Private Bus Hackney Community Transport (HCT)service, Social Enterprise that reinvest its commercial profit in three key ways:<br>* Profits from their commercial contracts are reinvested back into further transport services or projects in the communities they serve, helping the most marginalised in the communities to get out and about<br>* They deliver training services for people who are long term unemployed that specifically focus on employment and skills<br>* They aim to create employment opportunities for people in deprived communities, contribute to our local economies and actively seek new ways to make our communities better places to live and work through the way we operate<br><br>The 812 Route runs between Bridport Place in Hoxton and Bath Street in Finsbury via Packington Street, the Sainsbury's supermarket in Islington, Percy Circus, Skinner Street (for Exmouth Market), Old Street (Golden Lane) and Dufferin Street.<br><br>The services run Monday to Friday (except public holidays), every 30 minutes from 9.30am. The last service leaves Bridport Place at 4.00pm.<br>The service costs £1 per trip. Freedom Pass holders and children under 16 travel free. Oyster Cards, Travelcards and Saver Tickets will not be accepted on these routes.<br><br>For more information about the Route and HCT http://www.hackneyct.org/route_812 ]]></description>
+      <styleUrl>#icon-1532-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0867559,51.5368829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pebble Magazine</name>
+      <description><![CDATA[Pebble Magazine - Sustainability<br><br>https://pebblemag.com]]></description>
+      <styleUrl>#icon-1638-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0995831999999837,51.4903716,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Fix Natural Beauty Bar</name>
+      <description>London specialising in eco luxe natural, toxic free and vegan beauty products and services.</description>
+      <styleUrl>#icon-1646-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.136527000000001,51.51879,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Aveda Lifestyle Salon & Spa]]></name>
+      <description><![CDATA[The Aveda Lifestyle Salon & Spa in Covent Garden has become one of London’s most prestigious salons. It is a cruelty-free brand. In particular, they do not test on animals (their Product are people tested) and never ask others to do so on our behalf. ]]></description>
+      <styleUrl>#icon-1646-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.125390000000039,51.515888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AMA</name>
+      <description>Ama has a ‘free from’ menu featuring polish and gel brands that are up to 90% natural, 10-free, vegan and cruelty free.</description>
+      <styleUrl>#icon-1646-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.108686499999976,51.4628961,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Karamel Vegan Restaurant</name>
+      <styleUrl>#icon-1637-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1129626,51.5941573,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Collage Arts</name>
+      <description><![CDATA[Collage Arts is a leading arts development, training and creative regeneration charity based in heart of Haringey’s Cultural Quarter. For over 30 years, the organisation has created opportunities for greater access and participation in the arts and creative industries for the whole community through a range of skills and enterprise programmes, support services, arts development and heritage projects, facilities and resources.<br><br>We seek to provide greater access and support to under-represented sections of the community including: economically inactive young people, black and minority ethnic communities, women, people with disabilities, young people leaving care, LGBT communities and ex-offenders, by offering skills, experience and opportunities in creative and digital media, film, music, photography, performing arts and visual arts, which can lead onto better career progression routes in further and higher education, employment and entrepreneurship.]]></description>
+      <styleUrl>#icon-1709-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.113125500000024,51.594217,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Photofusion</name>
+      <description><![CDATA[Photofusion provides a diverse range of photographic services that continually respond to the revolution and evolution of lens-based imagery. With analogue, digital and moving image facilities, Photofusion delivers vital training, support and career progression to photographers of all abilities.<br><br>The centre’s facilities include digital suites, darkrooms, exhibition production services and picture library alongside a contemporary gallery which places an emphasis on showcasing emerging photographers, alongside new work by mid-career artists. The exhibition programme includes artist talks, panel discussions and occasional related masterclasses or workshops.<br><br>Originally founded as the Photo Co-op in 1979 in Wandsworth, South London, Photofusion has metamorphosed from a small collective of documentary photographers to becoming London’s largest independent photography resource centre, moving to new premises in the vibrant heart of Brixton in 1991 and receiving a National Lottery Award in 1995 for further expansion of premises. In 2018, Photofusion and 198 Contemporary Arts and Learning are working together to deliver an exciting programme of critical artistic development and engagement in Lambeth, building on past collaboration to form a new consortium as a new Arts Council England National Portfolio Organisation.]]></description>
+      <styleUrl>#icon-1535-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1130283,51.4639547,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Banya No.1</name>
+      <description>This traditional Russian spa offers authentic treatments that use organic ingredients only, such as their honey and salt scrub.</description>
+      <styleUrl>#icon-1697-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0943439999999782,51.53015,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Margaux Salon</name>
+      <description><![CDATA[Margaux is an organic salon that specialises in hair and nails. <br><br>The best news is that all of their products are organic]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0993000999999367,51.5612343,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>STILL-London</name>
+      <description>Non-Toxic, Cruelty Free, Vegan, Organic Salon.</description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0758875999999873,51.5426572,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buller And Rice</name>
+      <description><![CDATA[Buller and rice is a lifestyle hair salon based in Newington Green. Focusing on sustainable hair care, combining eco friendly practises, whilst modernising your salon experience.<br><br>The salon, utilises designs like bio laminate and a surface made entirely of 100% recycled yoghurt pots(Smile Plastic) Bamboo toilet paper (Who Gives a Crap).<br>Focusing on Hair, Buller and Rice Use solely eco, sustainable and bio-dynamic line, as well as their non-branded re-fill bar which allows customers to bring in any empty pot, tube or tub into the salon to be filled with their choice of product, encouraging clients to reuse all their packaging. The foil, actually Paper, used in dying treatments is reusable.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0847186999999394,51.5521769,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cloud Twelve</name>
+      <description>Used products made from 100% natural and organic ingredients from a single 1,200 acre Vermont farm, and any one of the Content Tata Harper facials offers the best way to experience her brand’s revitalising results. Whatever you book though, the treatments are fully customisable to your personal ethos whether that’s vegan or gluten free.</description>
+      <styleUrl>#icon-1646-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.201638000000003,51.515032,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Tit - Portobello</name>
+      <description><![CDATA[Blue Tit, sustainability winner for Hair Care has quality sustainable and ethical products for treatments, using biodegradable towels, recycling 90% of its waste, partnering with hair care and colour range Oway.<br><br>Oway, is the world’s first and only hair care range produced using biodynamic, organic, fair trade and non-toxic ingredients which are all foraged from their very own farm in Bologna, Italy, before being packaged in 100% recyclable amber glass bottles instead of the traditional wasteful plastic.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.206569599999966,51.5176301,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Tit - Topshop</name>
+      <description><![CDATA[Blue Tit, sustainability winner for Hair Care has quality sustainable and ethical products for treatments, using biodegradable towels, recycling 90% of its waste, partnering with hair care and colour range Oway.<br><br>Oway, is the world’s first and only hair care range produced using biodynamic, organic, fair trade and non-toxic ingredients which are all foraged from their very own farm in Bologna, Italy, before being packaged in 100% recyclable amber glass bottles instead of the traditional wasteful plastic.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.141351600000007,51.5155913,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Tit - Crouch Hill</name>
+      <description><![CDATA[Blue Tit, sustainability winner for Hair Care has quality sustainable and ethical products for treatments, using biodegradable towels, recycling 90% of its waste, partnering with hair care and colour range Oway.<br><br>Oway, is the world’s first and only hair care range produced using biodynamic, organic, fair trade and non-toxic ingredients which are all foraged from their very own farm in Bologna, Italy, before being packaged in 100% recyclable amber glass bottles instead of the traditional wasteful plastic.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.116027799999983,51.5706721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Tit - Stoke Newington</name>
+      <description><![CDATA[Blue Tit, sustainability winner for Hair Care has quality sustainable and ethical products for treatments, using biodegradable towels, recycling 90% of its waste, partnering with hair care and colour range Oway.<br><br>Oway, is the world’s first and only hair care range produced using biodynamic, organic, fair trade and non-toxic ingredients which are all foraged from their very own farm in Bologna, Italy, before being packaged in 100% recyclable amber glass bottles instead of the traditional wasteful plastic.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.07528149999996,51.5508347,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Tit - Brixton</name>
+      <description><![CDATA[Blue Tit, sustainability winner for Hair Care has quality sustainable and ethical products for treatments, using biodegradable towels, recycling 90% of its waste, partnering with hair care and colour range Oway.<br><br>Oway, is the world’s first and only hair care range produced using biodynamic, organic, fair trade and non-toxic ingredients which are all foraged from their very own farm in Bologna, Italy, before being packaged in 100% recyclable amber glass bottles instead of the traditional wasteful plastic.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.108754999999974,51.462876,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Tit - Clapton</name>
+      <description><![CDATA[Blue Tit, sustainability winner for Hair Care has quality sustainable and ethical products for treatments, using biodegradable towels, recycling 90% of its waste, partnering with hair care and colour range Oway.<br><br>Oway, is the world’s first and only hair care range produced using biodynamic, organic, fair trade and non-toxic ingredients which are all foraged from their very own farm in Bologna, Italy, before being packaged in 100% recyclable amber glass bottles instead of the traditional wasteful plastic.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0528578999999354,51.552449,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Tit - Peckham</name>
+      <description><![CDATA[Blue Tit, sustainability winner for Hair Care has quality sustainable and ethical products for treatments, using biodegradable towels, recycling 90% of its waste, partnering with hair care and colour range Oway.<br><br>Oway, is the world’s first and only hair care range produced using biodynamic, organic, fair trade and non-toxic ingredients which are all foraged from their very own farm in Bologna, Italy, before being packaged in 100% recyclable amber glass bottles instead of the traditional wasteful plastic.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0665673999999399,51.4658808,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Tit - Streatham</name>
+      <description><![CDATA[Blue Tit, sustainability winner for Hair Care has quality sustainable and ethical products for treatments, using biodegradable towels, recycling 90% of its waste, partnering with hair care and colour range Oway.<br><br>Oway, is the world’s first and only hair care range produced using biodynamic, organic, fair trade and non-toxic ingredients which are all foraged from their very own farm in Bologna, Italy, before being packaged in 100% recyclable amber glass bottles instead of the traditional wasteful plastic.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.125579000000016,51.439793,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Tit - East Village</name>
+      <description><![CDATA[Blue Tit, sustainability winner for Hair Care has quality sustainable and ethical products for treatments, using biodegradable towels, recycling 90% of its waste, partnering with hair care and colour range Oway.<br><br>Oway, is the world’s first and only hair care range produced using biodynamic, organic, fair trade and non-toxic ingredients which are all foraged from their very own farm in Bologna, Italy, before being packaged in 100% recyclable amber glass bottles instead of the traditional wasteful plastic.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.00797999999997501,51.547426,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Tit - Brockley</name>
+      <description><![CDATA[Blue Tit, sustainability winner for Hair Care  has quality sustainable and ethical products for treatments, using biodegradable towels, recycling 90% of its waste, partnering with hair care and colour range Oway.<br><br>Oway, is the world’s first and only hair care range produced using biodynamic, organic, fair trade and non-toxic ingredients which are all foraged from their very own farm in Bologna, Italy, before being packaged in 100% recyclable amber glass bottles instead of the traditional wasteful plastic.]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0344959,51.4605834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMUK London</name>
+      <description>SMUK only uses products derived from organic and sustainable ingredients</description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.148311400000011,51.493561,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stunt Dolly</name>
+      <description>Consideration for the planet and its animals drives every decision we make — ETHICAL, ORGANIC, VEGAN AND CRUELTY FREE, GENDER NEUTRAL, SUSTAINABLE, COMMUNITY SUPPORTING, ANIMAL FRIENDLY, AND EDUCATION FOCUSED</description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0755830000000515,51.545684,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lisa Franklin Clinic Privé Chelsea, London</name>
+      <description><![CDATA[Chelsea based facialist using sustainable sourced precious metals, minerals and botanical infusions, and recyclable packaging.<br><br>They won Supply Chain award for measurable impact and commitment to sustainability, as the brand cuts down on unnecessary processes and takes as much consideration for the environment and community as it does for your skin. ]]></description>
+      <styleUrl>#icon-1646-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.15949820000003,51.4999683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sugaring London - South Kensington</name>
+      <description>Sugaring is an ancient egyptian practice and requires only three simple ingredients: sugar, lemon and water. It’s vegan, natural, and doesn’t contain anything chemical or toxic</description>
+      <styleUrl>#icon-1646-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.197787999999946,51.508343,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sugaring London - Kings Cross</name>
+      <description>Sugaring is an ancient egyptian practice and requires only three simple ingredients: sugar, lemon and water. It’s vegan, natural, and doesn’t contain anything chemical or toxic</description>
+      <styleUrl>#icon-1646-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.126494699999967,51.5362195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Neal's Yard Remedies]]></name>
+      <description><![CDATA[Massages<br>Neil’s Yard offers natural and organic oils, It also offers Ayurvedic massages, acupuncture and baby massages, amongst other treatments.]]></description>
+      <styleUrl>#icon-1646-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.126331,51.5144563,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Natural Beauty Urban Retreat</name>
+      <description>SpaRitual vegan manicure and pedicure treatments</description>
+      <styleUrl>#icon-1646-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.157902199999967,51.6130032,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kingston Environment Centre</name>
+      <styleUrl>#icon-1587-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.256334400000014,51.398982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Homebirds Domestic Services Ltd</name>
+      <description><![CDATA[Domestic Services with some twists:<br><br>- We pay above minimum wage as we feel cleaners do a worthwhile job<br>- We organize free English lessons if necessary<br>- We provide information and assistance in taxation and government registration<br>- We provide assistance and translation for any healthcare issues<br>- We have a clear line of promotion to offer our 'stars' opportunities as supervisors and career advancement at Homebirds HQ<br>- You have two options as to whether its eco friendly or professional carpet cleaning<br>- Earth Friendly Products' Carpet Shampoo with Bergamot & Sage is a replenishable, ecologically sound cleaner.]]></description>
+      <styleUrl>#icon-1617-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.167443899999967,51.4288395,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BLANC Notting Hill</name>
+      <styleUrl>#icon-1821-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.20392830000003,51.5145497,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BLANC Atelier</name>
+      <description><![CDATA[BLANC is a Laundry Service was founded in 2011 Aimed to improving people’s health and the environment by “cleaning up” an industry that was toxic and rather set in its old-fashioned ways. <br><br>BLANC is the type of eco dry cleaning service that actually utilises a water based cleaning service. No Perc is involved, just non-toxic, biodegradable detergents and pure water. Clothes are taken through specific programmes in specialised EU-certified machines, also using significantly less energy than traditional dry cleaning machines. <br><br>LADAs Awards for sustainable practices between 2015 and 2019]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.262209399999961,51.5273861,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BLANC Chelsea</name>
+      <description><![CDATA[BLANC is a Laundry Service was founded in 2011 Aimed to improving people’s health and the environment by “cleaning up” an industry that was toxic and rather set in its old-fashioned ways. <br><br>BLANC is the type of eco dry cleaning service that actually utilises a water based cleaning service. No Perc is involved, just non-toxic, biodegradable detergents and pure water. Clothes are taken through specific programmes in specialised EU-certified machines, also using significantly less energy than traditional dry cleaning machines. <br><br>LADAs Awards for sustainable practices between 2015 and 2019]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.156201199999941,51.4899838,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BLANC White City</name>
+      <description><![CDATA[BLANC is a Laundry Service was founded in 2011 Aimed to improving people’s health and the environment by “cleaning up” an industry that was toxic and rather set in its old-fashioned ways. <br><br>BLANC is the type of eco dry cleaning service that actually utilises a water based cleaning service. No Perc is involved, just non-toxic, biodegradable detergents and pure water. Clothes are taken through specific programmes in specialised EU-certified machines, also using significantly less energy than traditional dry cleaning machines. <br><br>LADAs Awards for sustainable practices between 2015 and 2019]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.225774000000001,51.5095452,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Connoisseur Dry Cleaners</name>
+      <description><![CDATA[Connoisseur Dry Cleaners are taking vast steps to become more environmentally friendly and are always looking for new ways to become Greener.<br>We were awarded the “Going Green” and “Cutting Carbon” marks of achievement by the Camden Climate Change Alliance for our continued efforts within the borough to reduce our carbon footprint and become a greener organisation.<br><br>Recently we were declared finalists in the 2017 LCN Awards for “Sustainability and CSR” and more recently won the “Green Impact” award for the most environmental and sustainable company 2017 at the Lada’s Gala Dinner Awards.<br>This year we have been re-nominated Finalists for “Green Impact”. Winner to be announced on the 1st November 2018.<br><br>https://connoisseurdrycleaners.co.uk/greener-dry-cleaner/]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.180684000000042,51.5419055,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boundary Community Launderette</name>
+      <description>A Not-For-Profit Enterprise Serving the Community Since 1992.</description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0757482000000209,51.5260634,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Johnsons The Cleaners</name>
+      <description><![CDATA[At Johnsons we care for the environment as well as your clothes. We co-founded and introduced into the UK market a new dry-cleaning solution called GreenEarth®. Based on silicon cleaning technology and not the traditional, harsher petrochemical solution, GreenEarth® is a gentle, environmentally non-toxic solution dry cleaning product. Proven to clean just effectively, but without the harsh chemical smell, because GreenEarth® is a gentler clean it can helping to protect your clothes and the environment at the same time. Johnson Cleaners are the only national retailer in the UK cleaning with GreenEarth®.<br><br>Ethical Standards https://www.johnsoncleaners.com/services/greenearth-dry-cleaning/<br>Check the drop points here https://www.johnsoncleaners.com/branch-search/]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.217413999999962,51.425674,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dry Cleaners</name>
+      <description><![CDATA[At Johnsons we care for the environment as well as your clothes. We co-founded and introduced into the UK market a new dry-cleaning solution called GreenEarth®. Based on silicon cleaning technology and not the traditional, harsher petrochemical solution, GreenEarth® is a gentle, environmentally non-toxic solution dry cleaning product. Proven to clean just effectively, but without the harsh chemical smell, because GreenEarth® is a gentler clean it can helping to protect your clothes and the environment at the same time. Johnson Cleaners are the only national retailer in the UK cleaning with GreenEarth®.<br><br>Ethical Standards https://www.johnsoncleaners.com/services/greenearth-dry-cleaning/<br>Check the drop points here https://www.johnsoncleaners.com/branch-search/]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.155026200000066,51.45082,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Johnsons The Cleaners</name>
+      <description><![CDATA[At Johnsons we care for the environment as well as your clothes. We co-founded and introduced into the UK market a new dry-cleaning solution called GreenEarth®. Based on silicon cleaning technology and not the traditional, harsher petrochemical solution, GreenEarth® is a gentle, environmentally non-toxic solution dry cleaning product. Proven to clean just effectively, but without the harsh chemical smell, because GreenEarth® is a gentler clean it can helping to protect your clothes and the environment at the same time. Johnson Cleaners are the only national retailer in the UK cleaning with GreenEarth®.<br><br>Ethical Standards https://www.johnsoncleaners.com/services/greenearth-dry-cleaning/<br>Check the drop points here https://www.johnsoncleaners.com/branch-search/]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.165187500000002,51.4919163,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Johnsons The Cleaners</name>
+      <description><![CDATA[At Johnsons we care for the environment as well as your clothes. We co-founded and introduced into the UK market a new dry-cleaning solution called GreenEarth®. Based on silicon cleaning technology and not the traditional, harsher petrochemical solution, GreenEarth® is a gentle, environmentally non-toxic solution dry cleaning product. Proven to clean just effectively, but without the harsh chemical smell, because GreenEarth® is a gentler clean it can helping to protect your clothes and the environment at the same time. Johnson Cleaners are the only national retailer in the UK cleaning with GreenEarth®.<br><br>Ethical Standards https://www.johnsoncleaners.com/services/greenearth-dry-cleaning/<br>Check the drop points here https://www.johnsoncleaners.com/branch-search/]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.148678700000005,51.35831,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DDS DRY CLEANERS</name>
+      <description><![CDATA[At Johnsons we care for the environment as well as your clothes. We co-founded and introduced into the UK market a new dry-cleaning solution called GreenEarth®. Based on silicon cleaning technology and not the traditional, harsher petrochemical solution, GreenEarth® is a gentle, environmentally non-toxic solution dry cleaning product. Proven to clean just effectively, but without the harsh chemical smell, because GreenEarth® is a gentler clean it can helping to protect your clothes and the environment at the same time. Johnson Cleaners are the only national retailer in the UK cleaning with GreenEarth®.<br><br>Ethical Standards https://www.johnsoncleaners.com/services/greenearth-dry-cleaning/<br>Check the drop points here https://www.johnsoncleaners.com/branch-search/]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.187028300000065,51.4393734,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Johnsons The Cleaners</name>
+      <description><![CDATA[At Johnsons we care for the environment as well as your clothes. We co-founded and introduced into the UK market a new dry-cleaning solution called GreenEarth®. Based on silicon cleaning technology and not the traditional, harsher petrochemical solution, GreenEarth® is a gentle, environmentally non-toxic solution dry cleaning product. Proven to clean just effectively, but without the harsh chemical smell, because GreenEarth® is a gentler clean it can helping to protect your clothes and the environment at the same time. Johnson Cleaners are the only national retailer in the UK cleaning with GreenEarth®.<br><br>Ethical Standards https://www.johnsoncleaners.com/services/greenearth-dry-cleaning/<br>Check the drop points here https://www.johnsoncleaners.com/branch-search/]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.151497899999981,51.5174002,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Johnsons The Cleaners</name>
+      <description><![CDATA[At Johnsons we care for the environment as well as your clothes. We co-founded and introduced into the UK market a new dry-cleaning solution called GreenEarth®. Based on silicon cleaning technology and not the traditional, harsher petrochemical solution, GreenEarth® is a gentle, environmentally non-toxic solution dry cleaning product. Proven to clean just effectively, but without the harsh chemical smell, because GreenEarth® is a gentler clean it can helping to protect your clothes and the environment at the same time. Johnson Cleaners are the only national retailer in the UK cleaning with GreenEarth®.<br><br>Ethical Standards https://www.johnsoncleaners.com/services/greenearth-dry-cleaning/<br>Check the drop points here https://www.johnsoncleaners.com/branch-search/]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.576886400000035,51.2457423,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Johnsons The Cleaners</name>
+      <description><![CDATA[At Johnsons we care for the environment as well as your clothes. We co-founded and introduced into the UK market a new dry-cleaning solution called GreenEarth®. Based on silicon cleaning technology and not the traditional, harsher petrochemical solution, GreenEarth® is a gentle, environmentally non-toxic solution dry cleaning product. Proven to clean just effectively, but without the harsh chemical smell, because GreenEarth® is a gentler clean it can helping to protect your clothes and the environment at the same time. Johnson Cleaners are the only national retailer in the UK cleaning with GreenEarth®.<br><br>Ethical Standards https://www.johnsoncleaners.com/services/greenearth-dry-cleaning/<br>Check the drop points here https://www.johnsoncleaners.com/branch-search/]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.592038000000002,51.510812,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Johnsons The Cleaners</name>
+      <description><![CDATA[At Johnsons we care for the environment as well as your clothes. We co-founded and introduced into the UK market a new dry-cleaning solution called GreenEarth®. Based on silicon cleaning technology and not the traditional, harsher petrochemical solution, GreenEarth® is a gentle, environmentally non-toxic solution dry cleaning product. Proven to clean just effectively, but without the harsh chemical smell, because GreenEarth® is a gentler clean it can helping to protect your clothes and the environment at the same time. Johnson Cleaners are the only national retailer in the UK cleaning with GreenEarth®.<br><br>Ethical Standards https://www.johnsoncleaners.com/services/greenearth-dry-cleaning/<br>Check the drop points here https://www.johnsoncleaners.com/branch-search/]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.28646290000006,51.7158982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Johnsons The Cleaners</name>
+      <description><![CDATA[At Johnsons we care for the environment as well as your clothes. We co-founded and introduced into the UK market a new dry-cleaning solution called GreenEarth®. Based on silicon cleaning technology and not the traditional, harsher petrochemical solution, GreenEarth® is a gentle, environmentally non-toxic solution dry cleaning product. Proven to clean just effectively, but without the harsh chemical smell, because GreenEarth® is a gentler clean it can helping to protect your clothes and the environment at the same time. Johnson Cleaners are the only national retailer in the UK cleaning with GreenEarth®.<br><br>Ethical Standards https://www.johnsoncleaners.com/services/greenearth-dry-cleaning/<br>Check the drop points here https://www.johnsoncleaners.com/branch-search/]]></description>
+      <styleUrl>#icon-1821-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.671538800000008,51.4101497,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Good Hotel London</name>
+      <description><![CDATA[Imagine a re-designed floating platform, pure industrial design, unique waterfront location, living room and rooftop terrace - all with a view every Londoner would love to wake up with.<br><br>Good Hotel connects you with the destination, offers a premium hotel experience and the opportunity to give something back to the local community whilst travelling. The hotel:<br><br>- Train Employed Locals <br>- Stimulate Local business<br>- Educate children in a Guatemala project]]></description>
+      <styleUrl>#icon-1602-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          0.0189385999999558,51.5080262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Restart Project</name>
+      <description><![CDATA[The Restart Project helps people learn how to repair their broken electronics, and rethink how they consume them in the first place.<br><br>Come to one of our free community repair events, where our volunteer fixers will help you learn how to repair your broken or slow devices - and tackle the growing mountain of e-waste.]]></description>
+      <styleUrl>#icon-1561-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.112811100000044,51.4642428,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Loop Shop at Pembury</name>
+      <description><![CDATA[The Loop @ Pembury is Hackney’s own re-use hub.<br>We offer a collection service for furniture. Rather than leave unwanted furniture and appliances outside as waste, residents can call us and donate their items to the Loop. We take the collected items to our workshop, where we repair or repurpose them before selling them in our shop at affordable prices. This lets people, who might not otherwise be able to afford it, furnish their homes with quality furniture. ]]></description>
+      <styleUrl>#icon-1850-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0561680000000706,51.5503776,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London Bike Kitchen - Drop in Workshop</name>
+      <description><![CDATA[We're an open DIY workshop in Hackney. Come on down, we'll teach you how to fix your bike! #knowledgeispower<br><br>LBK1 - Drop-in Workshop N1 5QA<br>Tuesday 1pm - 5pm<br>Wednesday 1pm - 5pm<br>Thursday 1pm - 8pm<br>Friday 1pm - 5pm<br>Saturday 1pm - 6pm<br>Sunday 1pm - 6pm]]></description>
+      <styleUrl>#icon-1522-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0817332000000306,51.5362322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nip Nip - Bicycle Servicing and Repairs</name>
+      <description><![CDATA[NipNip is London’s most convenient bicycle repair and servicing operation.<br><br>We are also immensely proud of the work we have done, and continue to do, with some of the most underprivileged in London via our partnership with the homeless charity, St Mungo’s.<br><br>We offer build-a-bike courses to the homeless of St Mungo's. Our course teaches them about the basics in bicycle repairs and maintenance - and they receive a bicycle of their own free of charge. ]]></description>
+      <styleUrl>#icon-1522-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0979379000000336,51.5004809,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peddle My Wheels Ltd</name>
+      <description><![CDATA[We are a circular economy business.<br>Responsible consumerism, putting the environment first.]]></description>
+      <styleUrl>#icon-1522-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0911399999999958,51.385004,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vantra Loungevity</name>
+      <description>Organic lounge bar with a live performance space. Serving steamed and raw vegan food.</description>
+      <styleUrl>#icon-1637-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1318262,51.5107238,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Fifth Dimension Tattoos & Piercing - Shoreditch]]></name>
+      <description>Vegan Tattoos and piercing studio</description>
+      <styleUrl>#icon-1740-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0719318000000158,51.5239684,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santo Cuervo Custom Tattoos</name>
+      <description>Vegan Tattoos studio</description>
+      <styleUrl>#icon-1740-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0885507000000416,51.5541577,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>No Regrets | London | Tattoo Studio</name>
+      <description>Vegan Tattoos studio</description>
+      <styleUrl>#icon-1740-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.059733700000038,51.5316208,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monster House London</name>
+      <description>Vegan hairdresser for all genders.</description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.070977599999992,51.5188084,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Wellness Home</name>
+      <description>Green-certified vegetarian bed and breakfast in London.</description>
+      <styleUrl>#icon-1602-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.254628899999943,51.4944691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Streatham Space Project</name>
+      <description>Streatham Space Project is a brand new live performance Non Profit venue, purpose-built for Streatham and Greater London. The venue include a 120 seat fully-flexible auditorium, a rehearsal room and buzzing bar and cafe area.</description>
+      <styleUrl>#icon-1709-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.127778400000011,51.4387436,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prime Hairdressing</name>
+      <description>Organic Hair Salon</description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.577874100000031,51.5354992,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Remakery</name>
+      <description>The Remakery was born in 2012 out of a disused car park in South London. Located between Brixton and Camberwell, our not-for-profit maker-space has fostered a community of makers, artists, local residents and enterprises that have been breathing new life and creativity into things destined for landfill.</description>
+      <styleUrl>#icon-1551-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.103358299999968,51.4705097,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Wesley Euston Hotel & Conference Venue]]></name>
+      <styleUrl>#icon-1602-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.135864999999967,51.52674,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Screen25</name>
+      <description><![CDATA[Screen25 is twice-weekly community-led cinema in the heart of South Norwood. We offer a welcoming space for local people to come together and enjoy the latest independent and mainstream films, enhanced by Q&As, panel discussions, shorts and much more!]]></description>
+      <styleUrl>#icon-1635-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0744571,51.4005439,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hackney School of Food</name>
+      <description><![CDATA[A purpose built teaching kitchen and gardens for all ages and abilities, to inspire a love of food from seed to spoon.<br><br>www.ticketsource.co.uk/hackneyschooloffood]]></description>
+      <styleUrl>#icon-1577-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0402248,51.5577531,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Soho Theatre</name>
+      <description>Welcome to Soho Theatre. We are a charity and social enterprise, driven by a passion for the work we produce, the artists we work with and the audiences we attract.</description>
+      <styleUrl>#icon-1709-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1329056,51.5144889,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Albany</name>
+      <styleUrl>#icon-1709-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0275559,51.4776829,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Canada Water Theatre</name>
+      <styleUrl>#icon-1709-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0492284,51.4978528,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hoxton Hall</name>
+      <description><![CDATA[Grade II* listed Victorian Music Hall in the heart of East End. Home to theatre, music, comedy and youth arts programme. Est 1863. <br>Charity Based.]]></description>
+      <styleUrl>#icon-1709-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0800135,51.5317774,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Hoxton Trust Community Garden</name>
+      <description><![CDATA[The Hoxton Trust exists to make the area of Hoxton and Shoreditch a better place for everyone who lives or works there.<br><br>We do this by supporting those most economically and socially disadvantaged with opportunities to build their levels of skills, knowledge and confidence; by providing free legal advice and assistance to those without the means to otherwise obtain it; and by managing and maintaining a community garden for the health, wellbeing and general enjoyment of everyone.<br><br>We are a registered charity and a company limited by guarantee that invests in local people and local projects to build community pride.]]></description>
+      <styleUrl>#icon-1582-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0797783,51.5327133,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hoxton Trust Legal Advice Service</name>
+      <description><![CDATA[The Hoxton Trust exists to make the area of Hoxton and Shoreditch a better place for everyone who lives or works there.<br><br>We do this by supporting those most economically and socially disadvantaged with opportunities to build their levels of skills, knowledge and confidence; by providing free legal advice and assistance to those without the means to otherwise obtain it; and by managing and maintaining a community garden for the health, wellbeing and general enjoyment of everyone.<br><br>We are a registered charity and a company limited by guarantee that invests in local people and local projects to build community pride.]]></description>
+      <styleUrl>#icon-1552-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0800254,51.5324175,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Community Transport Waltham Forest</name>
+      <styleUrl>#icon-1532-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0364604,51.5754571,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Forest Recycling Project</name>
+      <styleUrl>#icon-1551-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.015014,51.576069,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Organic Waxing & Beauty]]></name>
+      <styleUrl>#icon-1646-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0782691,51.518909,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>56a Bike Space</name>
+      <description><![CDATA[We’re part of the 56a collective (made up of the infoshop and food co-op, Fareshare).<br><br>Located in South London, the 56a bike workshop is a space for Do It Yourself repairs and is run solely by volunteers. We have repair space and tools, as well as cheap new and second-hand parts like inner tubes, spokes, brake pads, cables, and patch kits etc.]]></description>
+      <styleUrl>#icon-1522-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1003411,51.4906378,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tuttii Fruittii London</name>
+      <description><![CDATA[Tuttii Fruittii London is a Barber + Hairdressing Salon welcoming people of all/no genders and sexualities with any hair length and type.<br><br>We are a safe NO JUDGEMENT salon<br><br>that welcomes everybody!]]></description>
+      <styleUrl>#icon-1516-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0261458,51.4775394,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>100 Club</name>
+      <description><![CDATA[C.I.C. Club<br><br>The 100 Club, which has seen the likes of The Rolling Stones, Oasis and The Sex Pistols perform there, is set to benefit from business rates relief under plans put forward by Westminster City Council.<br><br>The council’s decision will allow the music venue, which first played live music back in 1942, to benefit from a ‘NNDR Localism Relief’. It is the first-ever live music venue to benefit from this measure and comes following discussions with London’s Night Czar Amy Lamé about supporting grassroots music venues in the city.]]></description>
+      <styleUrl>#icon-1637-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1353423,51.516115,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[J & L Gibbons]]></name>
+      <description><![CDATA[An award winning Landscape Architecture studio based in London.<br><br>J & L Gibbons is an established and visionary Landscape Architecture studio based in London. The practice began in 1986 and is renowned for its innovative and holistic design process combining research and an open-minded approach to design. J & L Gibbons has the experience and skill to envisage and communicate the dynamic and specific beauty of each landscape over the long-term. The practice is driven by a desire to safeguard the deep ecologies that shape the character of a place. It is dedicated to key practice priorities of design quality, integrated green infrastructure, promoting natural heritage (especially veteran trees), landscape stewardship and community empowerment through sharing knowledge and experience in the landscape. This is reflected in the studio’s portfolio which is characterised by a scrupulous understanding of both natural processes and community networks.]]></description>
+      <styleUrl>#icon-1547-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1038837,51.5453616,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cultivate London</name>
+      <description><![CDATA[Cultivate London is an independent social enterprise and charity. We are working to improve employment, education, health and wellbeing outcomes of communities in London by improving the natural environment, setting a standard for engaging communities in their green spaces and providing greater access and understanding of community and environmental needs.<br><br>Our unique approach is the bespoke and tailored horticultural services, support and opportunities provided by our registered horticulturists and educational professionals.]]></description>
+      <styleUrl>#icon-1582-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.3485648,51.4721403,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cultivate London</name>
+      <styleUrl>#icon-1582-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.2773416,51.5025955,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>City Steps Guided Tours</name>
+      <description><![CDATA[City Steps Guided Tours is a Millennium Award winning social enterprise company that train local London residents who have<br><br>a passion for all things London and to become Tour Guides. We are enthusiastic and knowledgeable about our subject<br><br>and we are more than happy to share our love of London with you. PLUS we offer ACCREDITED courses for Over 50's in the GIG ECONOMY<br><br>Tours<br>- Meet & Greet London East-end Pearly King<br>- Airbnb Explore Ethnic London Experiences<br>- Community Guide Companions<br>- St Paul's Cathedral to Southwark Cathedral <br>- Secret Fleet Street & Sweeney Todd ]]></description>
+      <styleUrl>#icon-1595-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0544039,51.5298241,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bohemia Bikes</name>
+      <description>We’re an independent, community focused bicycle workshop in Hackney Central with inspiring classes and honest repairs.</description>
+      <styleUrl>#icon-1522-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0535872,51.5473018,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pop Brixton</name>
+      <description>A pioneering new space to support local start-ups, creative and community organisations in Brixton.</description>
+      <styleUrl>#icon-1546-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1122899,51.4633656,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London Mutual Credit Union</name>
+      <description>Cooperative Bank</description>
+      <styleUrl>#icon-1756-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0649282,51.4668164,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London Mutual Credit Union</name>
+      <description>Cooperative Bank</description>
+      <styleUrl>#icon-1756-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1168041,51.4610888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London Mutual Credit Union</name>
+      <description>Cooperative Bank</description>
+      <styleUrl>#icon-1756-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0964361,51.4901613,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dalston Library of Things</name>
+      <description><![CDATA[Library of Things is a place where you can borrow useful and joyful Things like strimmers, waffle makers and drills at affordable prices and join practical events like DIY classes & mending meet-ups.]]></description>
+      <styleUrl>#icon-1551-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0743683,51.5457087,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crystal Palace Library of Things</name>
+      <description><![CDATA[Library of Things is a place where you can borrow useful and joyful Things like strimmers, waffle makers and drills at affordable prices and join practical events like DIY classes & mending meet-ups.]]></description>
+      <styleUrl>#icon-1551-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0813227,51.419803,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hackney Wick Library of Things</name>
+      <description><![CDATA[Library of Things is a place where you can borrow useful and joyful Things like strimmers, waffle makers and drills at affordable prices and join practical events like DIY classes & mending meet-ups.]]></description>
+      <styleUrl>#icon-1551-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0294216,51.5471832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kentish Town Library of Things</name>
+      <description><![CDATA[Library of Things is a place where you can borrow useful and joyful Things like strimmers, waffle makers and drills at affordable prices and join practical events like DIY classes & mending meet-ups.]]></description>
+      <styleUrl>#icon-1551-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -0.140655,51.5500319,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morden Library of Things</name>
+      <styleUrl>#icon-1551-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1961181,51.4012682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
