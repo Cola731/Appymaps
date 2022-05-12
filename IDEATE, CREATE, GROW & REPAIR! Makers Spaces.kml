@@ -12,10 +12,7 @@
       <BalloonStyle>
         <text>$[video]</text>
       </BalloonStyle>
-    </Style>
-
-	
-    
+    </Style>   
     <Style id="purple_circle">
       <IconStyle>
         <color>ffb73a67</color>
