@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>London</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://img.icons8.com/emoji/48/000000/blue-circle-emoji.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://img.icons8.com/emoji/48/000000/blue-circle-emoji.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://img.icons8.com/emoji/48/000000/green-circle-emoji.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://img.icons8.com/emoji/48/000000/green-circle-emoji.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name><![CDATA[LET'S GATHER! Libraries, Museums & Community Places]]></name>
+      <Placemark>
+        <name>Beckenham Library</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0370225,51.4085616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burnt Ash Library</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0196101,51.4198465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dulwich Picture Gallery
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0863289,51.4460622,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hartlands Caravan Park</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.4065439,51.4901647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Riverside Gallery & Framing]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.2513602,51.473385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[LET'S EAT! Social Impact Eating]]></name>
+      <Placemark>
+        <name>The Coffee Shop</name>
+        <description><![CDATA[The Coffee Shop opened its doors for business in Haggerston, East London in December 2016.<br><br>The Coffee Shop is a training enterprise working to reduce inequality and stigma, we mainly work with people from Hackney and Islington. We offer on the job training and support for people to gain confidence and skills in a real work environment.]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0764892,51.5367967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cyprus House</name>
+        <description><![CDATA[Cyprus House allows members of the community an opportunity to sample mouth-watering traditional Cypriot dishes in a newly decorated Cypriot environment.<br>Our focus is to bring the community together in a Cypriot environment. The restaurant also caters for our extraordinarily successful Luncheon Club providing subsided meals for elderly, frail and disabled.]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1000331,51.5856113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juicebaby</name>
+        <description>Organic Vegan Cold Pressed Juice</description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1979971,51.5145549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yurt Cafe</name>
+        <description><![CDATA[Craft coffee & homemade food open everyday 9am-9pm. Private events - hire@rfsk.org, Social Enterprise by @RFSKLondon.]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0410902,51.5121221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kalifornia Kitchen</name>
+        <description>Vegan restaurant that serves California inspired cuisine.</description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1325518,51.5185675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRAMPOLINE</name>
+        <description><![CDATA[Founded by the team behind NEMI Teas, we share the same objective – to help London’s refugee community integrate, train and become independent citizens.<br><br>Built on the values of looking forward, being compassionate, and believing in better we’re committed to using our business as a genuine force for good. Building and maintaining relationships that transform lives.<br><br>Partnering with The Hotel School, and employment partner, Thomas Franks, we work together to provide a holistic route from gaining refugee status to meaningful employment and a place in our proudly multicultural community.]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1037844,51.5349713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>SOCIAL IMPACT SUPPORT ORGANISATIONS</name>
+      <Placemark>
+        <name>Worthstone</name>
+        <description>We are the leading independent social impact investment resource for financial advisers and the “go to” place for investment providers to showcase their opportunities to some of the most engaged advisers in this exciting sector.</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1310642,51.5091059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Create London</name>
+        <description><![CDATA[Create London commissions art and architecture in the public realm.<br><br> We support artists and creative practitioners to find new ways to make positive contributions to civic life.<br><br>We do two things:<br>We commission ambitious new art and arts infrastructure<br><br>We seek to positively impact civic and community life<br><br>Our work is situated at the intersection of these. ]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0916614,51.519853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UK Sustainable Investment and Finance Association (UKSIF)</name>
+        <description>We are a membership organisation for those in the finance industry committed to growing sustainable and responsible finance in the UK.</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            -0.0938541,51.5131432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
