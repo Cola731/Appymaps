@@ -12,18 +12,11 @@
       <BalloonStyle>
         <text>$[video]</text>
       </BalloonStyle>
-    </Style>	
-    <StyleMap id="icon-1509-0288D1">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1509-0288D1-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1509-0288D1-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1509-673AB7-normal">
+    </Style>
+
+	
+    
+    <Style id="purple_circle">
       <IconStyle>
         <color>ffb73a67</color>
         <scale>1</scale>
@@ -35,510 +28,10 @@
         <scale>0</scale>
       </LabelStyle>
     </Style>
-    <Style id="icon-1509-673AB7-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1509-673AB7">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1509-673AB7-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1509-673AB7-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1509-673AB7-nodesc-normal">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1509-673AB7-nodesc-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1509-673AB7-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1509-673AB7-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1509-673AB7-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1544-673AB7-normal">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1544-673AB7-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1544-673AB7">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1544-673AB7-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1544-673AB7-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1551-673AB7-normal">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1551-673AB7-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1551-673AB7">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1551-673AB7-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1551-673AB7-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1577-673AB7-normal">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1577-673AB7-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1577-673AB7">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1577-673AB7-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1577-673AB7-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1577-673AB7-nodesc-normal">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1577-673AB7-nodesc-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1577-673AB7-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1577-673AB7-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1577-673AB7-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1582-673AB7-normal">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1582-673AB7-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1582-673AB7">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1582-673AB7-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1582-673AB7-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1582-673AB7-nodesc-normal">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1582-673AB7-nodesc-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1582-673AB7-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1582-673AB7-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1582-673AB7-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1582-BDBDBD-normal">
-      <IconStyle>
-        <color>ffbdbdbd</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1582-BDBDBD-highlight">
-      <IconStyle>
-        <color>ffbdbdbd</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1582-BDBDBD">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1582-BDBDBD-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1582-BDBDBD-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1590-673AB7-nodesc-normal">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1590-673AB7-nodesc-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1590-673AB7-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1590-673AB7-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1590-673AB7-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1637-673AB7-normal">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1637-673AB7-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1637-673AB7">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1637-673AB7-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1637-673AB7-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1664-673AB7-nodesc-normal">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1664-673AB7-nodesc-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1664-673AB7-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1664-673AB7-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1664-673AB7-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1685-BDBDBD-normal">
-      <IconStyle>
-        <color>ffbdbdbd</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-1685-BDBDBD-highlight">
-      <IconStyle>
-        <color>ffbdbdbd</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-1685-BDBDBD">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1685-BDBDBD-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1685-BDBDBD-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-1801-673AB7-nodesc-normal">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1801-673AB7-nodesc-highlight">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1801-673AB7-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1801-673AB7-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1801-673AB7-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Placemark>
       <name>London BioScience Innovation Centre (LBIC)</name>
       <description><![CDATA[<img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ivvrtsienqneqom4h8egmvt780/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ9YrIcrZ7rjEYPMYOeUKffq_E_2QHubA3nRp1xBUkzis2X8KhC2dH90pPVNnklKIHo1ppSg67Ooi2c_SJ8X5JE5gHv6Bd7R9MXJG6M3AC_IAEnBzrPwN9pP-ZI4D7X81km0AZHCOvDOcR4olwV-CZhkxt1-GOVSao7oe9Iw0u2UNDQ3sPKv3twLgaCiGhRq2s?session=0&fife" height="200" width="auto" /><br><br>Px Healthcare Group Ltd. is located here: They help people find their voice after having cancer]]></description>
-      <styleUrl>#icon-1544-673AB7</styleUrl>
+      <styleUrl>#purple_circle</styleUrl>
       <ExtendedData>
         <Data name="gx_media_links">
           <value><![CDATA[https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ivvrtsienqneqom4h8egmvt780/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ9YrIcrZ7rjEYPMYOeUKffq_E_2QHubA3nRp1xBUkzis2X8KhC2dH90pPVNnklKIHo1ppSg67Ooi2c_SJ8X5JE5gHv6Bd7R9MXJG6M3AC_IAEnBzrPwN9pP-ZI4D7X81km0AZHCOvDOcR4olwV-CZhkxt1-GOVSao7oe9Iw0u2UNDQ3sPKv3twLgaCiGhRq2s?session=0&fife]]></value>
@@ -552,7 +45,7 @@
     </Placemark>
     <Placemark>
       <name>Creator Space, Watford Library</name>
-      <styleUrl>#icon-1590-673AB7-nodesc</styleUrl>
+      <styleUrl>#purple_circle</styleUrl>
       <Point>
         <coordinates>
           -0.403115999999955,51.660454,0
@@ -561,7 +54,7 @@
     </Placemark>
     <Placemark>
       <name>Digilab</name>
-      <styleUrl>#icon-1590-673AB7-nodesc</styleUrl>
+      <styleUrl>#purple_circle</styleUrl>
       <Point>
         <coordinates>
           0.0798015000000305,51.5362212,0
@@ -573,7 +66,7 @@
 @The Goodlife Centre
 </name>
       <description><![CDATA[We are an independent learning centre in Bankside, London UK. Beginners practical courses in DIY, carpentry & woodwork, sewing, upholstery and crafts.<br>shopgr.id/goodlifecentre]]></description>
-      <styleUrl>#icon-1551-673AB7</styleUrl>
+      <styleUrl>#purple_circle</styleUrl>
       <Point>
         <coordinates>
           -0.096736299999975,51.5031382,0
@@ -582,7 +75,7 @@
     </Placemark>
     <Placemark>
       <name>Central Street Cookery School</name>
-      <styleUrl>#icon-1577-673AB7-nodesc</styleUrl>
+      <styleUrl>#purple_circle</styleUrl>
       <Point>
         <coordinates>
           -0.0963154,51.5265072,0
@@ -592,7 +85,7 @@
     <Placemark>
       <name>Granville Community Kitchen - South Kilburn Trust</name>
       <description>Granville Community Kitchen is a community led initiative to develop a food hub that would enable the South Kilburn community to access healthy, affordable and sustainable food through a variety of food related activities.</description>
-      <styleUrl>#icon-1577-673AB7</styleUrl>
+      <styleUrl>#purple_circle</styleUrl>
       <Point>
         <coordinates>
           -0.197473299999956,51.5324177,0
@@ -601,7 +94,7 @@
     </Placemark>
     <Placemark>
       <name>Greenwich Co-operative Development Agency (GCDA)</name>
-      <styleUrl>#icon-1577-673AB7-nodesc</styleUrl>
+      <styleUrl>#purple_circle</styleUrl>
       <Point>
         <coordinates>
           -0.0168542000000116,51.4785173,0
@@ -610,7 +103,7 @@
     </Placemark>
     <Placemark>
       <name>Made In Hackney - Local Food Kitchen</name>
-      <styleUrl>#icon-1577-673AB7-nodesc</styleUrl>
+      <styleUrl>#purple_circle</styleUrl>
       <Point>
         <coordinates>
           -0.072613199999978,51.5641698,0
@@ -805,7 +298,7 @@
     <Placemark>
       <name><![CDATA[Bright Sparks Re-use & Repair Store + Library of thinks + Digibridge]]></name>
       <description><![CDATA[Bright Sparks is a Re-use and Repair project<br>At Bright Sparks we work with local authorities and social landlords in North and East London to divert reusable second hand furniture and other household items (white goods, small electricals, bric-a-brac and crockery) from landfill. <br><br>Through this activity we provide jobs for local people, volunteering opportunities for individuals looking to get back into work and purposeful activities for socially excluded individuals. All the reusable items are cleaned, tested, repaired if needed and distributed to local people through our outlets]]></description>
-      <styleUrl>#icon-1551-673AB7</styleUrl>
+      <styleUrl>#purple_circle</styleUrl>
       <Point>
         <coordinates>
           -0.1108624,51.561803,0
@@ -815,7 +308,7 @@
     <Placemark>
       <name>Bright Sparks - Homestore</name>
       <description><![CDATA[Bright Sparks is a Re-use and Repair project<br>At Bright Sparks we work with local authorities and social landlords in North and East London to divert reusable second hand furniture and other household items (white goods, small electricals, bric-a-brac and crockery) from landfill. Through this activity we provide jobs for local people, volunteering opportunities for individuals looking to get back into work and purposeful activities for socially excluded individuals. All the reusable items are cleaned, tested, repaired if needed and distributed to local people through our outlets]]></description>
-      <styleUrl>#icon-1551-673AB7</styleUrl>
+      <styleUrl>#purple_circle</styleUrl>
       <Point>
         <coordinates>
           0.0031226,51.5482445,0
@@ -825,7 +318,7 @@
     <Placemark>
       <name>Bright sparks - Reclaim at the lane</name>
       <description><![CDATA[https://brightsparksonline.com/<br><br>Reclaim At The Lane, 122-162 Cranberry Lane, Canning Town, London E16 4PE<br>(located in the garages beneath the block)<br>Get directions to our Newham Store<br>Contact Number: 020 8522 2330<br>Temporarily Closed - Food Bank only on Wednesday 11am - 1pm<br><br>Bright Sparks is a Re-use and Repair project<br>At Bright Sparks we work with local authorities and social landlords in North and East London to divert reusable second hand furniture and other household items (white goods, small electricals, bric-a-brac and crockery) from landfill. <br><br>Through this activity we provide jobs for local people, volunteering opportunities for individuals looking to get back into work and purposeful activities for socially excluded individuals. All the reusable items are cleaned, tested, repaired if needed and distributed to local people through our outlets]]></description>
-      <styleUrl>#icon-1551-673AB7</styleUrl>
+      <styleUrl>#purple_circle</styleUrl>
       <Point>
         <coordinates>
           0.0093126,51.5235847,0
@@ -845,7 +338,7 @@
     <Placemark>
       <name>Blackhorse Workshop</name>
       <description><![CDATA[Blackhorse Workshop is a public space dedicated to making, just half an hour from the centre of London. We offer anyone access to a fully equipped wood and metal workshop. Our mission is ‘to bring people together through making; inspiring and supporting creative ambitions and building communities’. Machinery support is on hand from our highly skilled technicians, and here you can build or make anything from bespoke chairs to theatrical sets, bikes and sculpture – and where you can grow your startup with the support of industry expertise and a community of makers.<br><br>You can come and use the workshop from as little as half a day to a whole year. We welcome everyone from dabblers to professionals, and will help you wherever we can.<br><br>We also run courses and events, from basic DIY woodwork skills to the art of welding. Not quite what you’re looking for? Need a kiln or CNC machine? Check out the Open Workshop Network – a great resource that maps all the makespaces across London.]]></description>
-      <styleUrl>#icon-1551-673AB7</styleUrl>
+      <styleUrl>#purple_circle</styleUrl>
       <Point>
         <coordinates>
           -0.3227525,51.5164025,0
