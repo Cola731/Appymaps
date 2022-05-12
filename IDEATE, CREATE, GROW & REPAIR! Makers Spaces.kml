@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name><![CDATA[IDEATE, CREATE, GROW & REPAIR! Makers Spaces]]></name>   	
+    <name>IDEATE, CREATE, GROW & REPAIR! Makers Spaces</name>   	
     <Style id="purple_circle">
-      <IconStyle>
-        <color>ffb73a67</color>
-        <scale>1</scale>
+      <IconStyle>        
         <Icon>
           <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
         </Icon>
