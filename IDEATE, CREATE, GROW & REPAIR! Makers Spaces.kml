@@ -8,9 +8,9 @@
           <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
         </Icon>
       </IconStyle>
-      <BalloonStyle>
-        <text>$[]</text>
-      </BalloonStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
     </Style>
     <Placemark>
       <name>London BioScience Innovation Centre (LBIC)</name>
