@@ -1,58 +1,342 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>KmlFile</name>
-    <Style id="west_campus_style">
-      <IconStyle>
+    <name>IDEATE, CREATE, GROW & REPAIR! Makers Spaces</name>   	
+    <Style id="purple_circle">
+      <IconStyle>        
         <Icon>
-          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png
-          </href>
+          <href>https://img.icons8.com/emoji/48/000000/purple-circle-emoji.png</href>
         </Icon>
       </IconStyle>
       <BalloonStyle>
-        <text>$[video]</text>
+        <text>$[]</text>
       </BalloonStyle>
     </Style>
     <Placemark>
-      <name>Google West Campus 1</name>
-      <styleUrl>#west_campus_style</styleUrl>
+      <name>London BioScience Innovation Centre (LBIC)</name>
+      <description><![CDATA[<img src="https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ivvrtsienqneqom4h8egmvt780/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ9YrIcrZ7rjEYPMYOeUKffq_E_2QHubA3nRp1xBUkzis2X8KhC2dH90pPVNnklKIHo1ppSg67Ooi2c_SJ8X5JE5gHv6Bd7R9MXJG6M3AC_IAEnBzrPwN9pP-ZI4D7X81km0AZHCOvDOcR4olwV-CZhkxt1-GOVSao7oe9Iw0u2UNDQ3sPKv3twLgaCiGhRq2s?session=0&fife" height="200" width="auto" /><br><br>Px Healthcare Group Ltd. is located here: They help people find their voice after having cancer]]></description>
+      <styleUrl>#purple_circle</styleUrl>
       <ExtendedData>
-        <Data name="video">
-          <value><![CDATA[<iframe width="480" height="360"
-            src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
-            allowfullscreen></iframe><br><br>]]></value>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/ivvrtsienqneqom4h8egmvt780/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZ9YrIcrZ7rjEYPMYOeUKffq_E_2QHubA3nRp1xBUkzis2X8KhC2dH90pPVNnklKIHo1ppSg67Ooi2c_SJ8X5JE5gHv6Bd7R9MXJG6M3AC_IAEnBzrPwN9pP-ZI4D7X81km0AZHCOvDOcR4olwV-CZhkxt1-GOVSao7oe9Iw0u2UNDQ3sPKv3twLgaCiGhRq2s?session=0&fife]]></value>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>-122.0914977709329,37.42390182131783,0</coordinates>
+        <coordinates>
+          -0.133582799999999,51.536203,0
+        </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Google West Campus 2</name>
-      <styleUrl>#west_campus_style</styleUrl>
-      <ExtendedData>
-        <Data name="video">
-          <value><![CDATA[<iframe width="480" height="360"
-            src="https://www.youtube.com/embed/nb4gvrNrDWw" frameborder="0"
-            allowfullscreen></iframe><br><br>]]></value>
-        </Data>
-      </ExtendedData>
+      <name>Creator Space, Watford Library</name>
+      <styleUrl>#purple_circle</styleUrl>
       <Point>
-        <coordinates>-122.0926995893311,37.42419403634421,0</coordinates>
+        <coordinates>
+          -0.403115999999955,51.660454,0
+        </coordinates>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Google West Campus 3</name>
-      <styleUrl>#west_campus_style</styleUrl>
+      <name>Digilab</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          0.0798015000000305,51.5362212,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London Repair Café 
+@The Goodlife Centre
+</name>
+      <description><![CDATA[We are an independent learning centre in Bankside, London UK. Beginners practical courses in DIY, carpentry & woodwork, sewing, upholstery and crafts.<br>shopgr.id/goodlifecentre]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.096736299999975,51.5031382,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central Street Cookery School</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0963154,51.5265072,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Granville Community Kitchen - South Kilburn Trust</name>
+      <description>Granville Community Kitchen is a community led initiative to develop a food hub that would enable the South Kilburn community to access healthy, affordable and sustainable food through a variety of food related activities.</description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.197473299999956,51.5324177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Greenwich Co-operative Development Agency (GCDA)</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0168542000000116,51.4785173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Made In Hackney - Local Food Kitchen</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.072613199999978,51.5641698,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>organiclea community growers</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.003068399999961,51.6408066,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wolves Lane Horticultural and Garden Centre</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1042437,51.604557,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mill Lane Garden Centre</name>
+      <description><![CDATA[<img src="https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0t0g5hdc7pefgugge868hnlhn0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZNQk64zeeG1HnExCyqpZDdWrc-Op2-ovghc2W5rFZNYFZwxPzPSDCZGIUr-HTz6JTH-rHTJTtwPzk_HdI7vFy3-MyWkG2nxmBfie8M6vdtjjwDvIqsB1ILw91HmyVWesyppCLTkkxhzkNB7bdH7biYbDq7Asxwvo6HS3Fh7bryAWQzf4fs4gkeMckePJCmFOY?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#purple_circle</styleUrl>
       <ExtendedData>
-        <Data name="video">
-          <value><![CDATA[<iframe width="480" height="360"
-            src="https://www.youtube.com/embed/0hhiEjf7_NA" frameborder="0"
-            allowfullscreen></iframe><br><br>]]></value>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-44-mymaps.googleusercontent.com/untrusted/hostedimage/6eshqdb9j79m6a6c7hs2d5g94c/0t0g5hdc7pefgugge868hnlhn0/1652297322000/lP96rcyERxMPaRpAJdH6f7slrnLvc3GL/08074334426015739042/5AIsG_vZNQk64zeeG1HnExCyqpZDdWrc-Op2-ovghc2W5rFZNYFZwxPzPSDCZGIUr-HTz6JTH-rHTJTtwPzk_HdI7vFy3-MyWkG2nxmBfie8M6vdtjjwDvIqsB1ILw91HmyVWesyppCLTkkxhzkNB7bdH7biYbDq7Asxwvo6HS3Fh7bryAWQzf4fs4gkeMckePJCmFOY?session=0&fife]]></value>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>-122.0922532985281,37.42301710721216,0</coordinates>
+        <coordinates>
+          -0.193932000000018,51.5517242,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calthorpe Project</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1176624,51.5270487,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seeds for Growth</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.026429300000018,51.5076876,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HERE WERE DRAGONS - Skip Garden</name>
+      <description><![CDATA[It was a Fresh, delicious, seasonal food cafe and using our organic garden at the heart of King's Cross.<br><br>!garden was closed temporarily for COVID-19!<br>The Skip Garden is on the move once again – BUT it hasn’t gone far!<br><br>Global Generation (the charity behind the Skip Garden project) will open a new community garden tucked behind the British Library. And it has a brand new name, too – The Story Garden.<br><br>https://www.kingscross.co.uk/skip-garden]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.124491300000045,51.5387786,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bermondsey Street Bees</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0816539999999577,51.5006629,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hackney Herbal</name>
+      <description><![CDATA[Promoting wellbeing through herbs<br>We are a social enterprise specialising in creative events which explore the beneficial uses of herbs. We run a variety of herb-related activities in Hackney promoting mental health and wellbeing within the local community. ]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0554098000000067,51.5397892,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Story Garden</name>
+      <description><![CDATA[Our gardens are sadly currently closed to the public and in order to help protect Global Generation in these challenging financial circumstances we are operating with a smaller team than usual. During this time all enquiries should be made by email to generate@globalgeneration.org.uk To stay up to date with the latest from the gardens you can also join our newsletter or follow us on social media. <br><br>The Story Garden is temporarily closed. We are reviewing this decision on a day by day basis so please make sure you check-in again for any updates. For any enquiries please email us: generate@globalgeneration.org.uk]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1293539,51.5314852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shoreditch Trust Healthy Living Centre</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0828046000000313,51.5316598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shoreditch Trust</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0791897999999946,51.5364484,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Watermans Art Centre</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.2986437,51.4856135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peckham Levels</name>
+      <description><![CDATA[Peckham Levels is home to seven floors with over 100 local and independent businesses, backing creatives of all industries; from magazines to jewellery designers, coding academies, social enterprises, screenprinters, ceramicists, and food and drink start-ups.<br><br>Peckham Levels was founded by Make Shift, a team of socially minded creators, makers, entrepreneurs and doers who champion collaboration, drive progress and see it as their duty to bring prosperity to local communities through enterprise.  ]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0675256,51.4707709,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Intoart</name>
+      <description>Intoart is an art and design studio based in South London working inclusively with people with learning disabilities.</description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.067684,51.4708581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DIY Space for London</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0555890000000545,51.482431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HERE WERE DRAGONS - Greenhaus (popup)</name>
+      <description><![CDATA[https://greenhaus.eco was a pop up ethical fashion concept store and events space.<br><br>Greenhaus lets direct-to-consumer brands play to their strengths, using brick & mortar locations flexibly as showrooms to complement their online sales channels, without the need to store inventory.<br>Greenhaus supports features that customers have come to expect like online ordering, deep integrations with other services, data collection, analytics, and immediate delivery]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0713639,51.5251664,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Karamel Vegan Restaurant</name>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1129331,51.5941581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Artsadmin, Toynbee Studios</name>
+      <description><![CDATA[Toynbee Studios is Artsadmin’s home and a unique creative hub for developing and showing new work. The studios comprise of a theatre, rehearsal spaces, creative studios and café – all of which host performances, rehearsals, workshops and events throughout the year.<br><br>https://www.artsadmin.co.uk/toynbee-studios/toynbee-studios-history/]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0725053,51.5164624,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The RecordShop</name>
+      <description>The RecordShop is an award-winning social enterprise that provides music opportunities for youths, most recognised for their free recording studio projects</description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0673421,51.5979985,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bright Sparks Re-use & Repair Store + Library of thinks + Digibridge]]></name>
+      <description><![CDATA[Bright Sparks is a Re-use and Repair project<br>At Bright Sparks we work with local authorities and social landlords in North and East London to divert reusable second hand furniture and other household items (white goods, small electricals, bric-a-brac and crockery) from landfill. <br><br>Through this activity we provide jobs for local people, volunteering opportunities for individuals looking to get back into work and purposeful activities for socially excluded individuals. All the reusable items are cleaned, tested, repaired if needed and distributed to local people through our outlets]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1108624,51.561803,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bright Sparks - Homestore</name>
+      <description><![CDATA[Bright Sparks is a Re-use and Repair project<br>At Bright Sparks we work with local authorities and social landlords in North and East London to divert reusable second hand furniture and other household items (white goods, small electricals, bric-a-brac and crockery) from landfill. Through this activity we provide jobs for local people, volunteering opportunities for individuals looking to get back into work and purposeful activities for socially excluded individuals. All the reusable items are cleaned, tested, repaired if needed and distributed to local people through our outlets]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          0.0031226,51.5482445,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bright sparks - Reclaim at the lane</name>
+      <description><![CDATA[https://brightsparksonline.com/<br><br>Reclaim At The Lane, 122-162 Cranberry Lane, Canning Town, London E16 4PE<br>(located in the garages beneath the block)<br>Get directions to our Newham Store<br>Contact Number: 020 8522 2330<br>Temporarily Closed - Food Bank only on Wednesday 11am - 1pm<br><br>Bright Sparks is a Re-use and Repair project<br>At Bright Sparks we work with local authorities and social landlords in North and East London to divert reusable second hand furniture and other household items (white goods, small electricals, bric-a-brac and crockery) from landfill. <br><br>Through this activity we provide jobs for local people, volunteering opportunities for individuals looking to get back into work and purposeful activities for socially excluded individuals. All the reusable items are cleaned, tested, repaired if needed and distributed to local people through our outlets]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          0.0093126,51.5235847,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Camden's Think & Do]]></name>
+      <description><![CDATA[Camden’s ‘Think & Do’ Pop-Up is a community space to give people in Camden the chance to come together to develop ideas and projects tackling the climate and ecological crisis. The creation of a new civic space is a direct follow on from Camden’s Citizens’ Assembly on the Climate Crisis.<br>Think & Do runs pop-ups in different spaces across the Borough of Camden. Think & Do also runs projects.<br><br>Our Vision<br>Create a community ecosystem that is resilient and responsive to climate and social injustice. Find and implement creative solutions to challenges identified at a community level and respond to them collectively.<br><br>Our Mission<br>Think & Do will connect and activate the community through pop ups, events, exhibitions, webinars and projects designed, led and run by committed individuals. This will take place in partnership with Camden Council, residents, schools, businesses, and the whole community.]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.1411241,51.5498654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blackhorse Workshop</name>
+      <description><![CDATA[Blackhorse Workshop is a public space dedicated to making, just half an hour from the centre of London. We offer anyone access to a fully equipped wood and metal workshop. Our mission is ‘to bring people together through making; inspiring and supporting creative ambitions and building communities’. Machinery support is on hand from our highly skilled technicians, and here you can build or make anything from bespoke chairs to theatrical sets, bikes and sculpture – and where you can grow your startup with the support of industry expertise and a community of makers.<br><br>You can come and use the workshop from as little as half a day to a whole year. We welcome everyone from dabblers to professionals, and will help you wherever we can.<br><br>We also run courses and events, from basic DIY woodwork skills to the art of welding. Not quite what you’re looking for? Need a kiln or CNC machine? Check out the Open Workshop Network – a great resource that maps all the makespaces across London.]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.3227525,51.5164025,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stour Studios - 237 Hackney Rd</name>
+      <description><![CDATA[Opened in April 2022, Community Organization<br>A socially minded exhibition, event & studio space for the development of creative enterprises.<br>☕️ @stour.cafe<br>🔳 @stour.galleries<br>linktr.ee/stourstudios]]></description>
+      <styleUrl>#purple_circle</styleUrl>
+      <Point>
+        <coordinates>
+          -0.0701878,51.5312355,0
+        </coordinates>
       </Point>
     </Placemark>
   </Document>
